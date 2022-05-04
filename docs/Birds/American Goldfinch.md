@@ -14,7 +14,8 @@ Main Image here
 
 ---------------------------------------------------------------
 # Seen at:
--   #location/EspositoPark-Clark-NJ 
+- #location/EspositoPark-Clark-NJ
+#location/EspositoPark-Clark-NJ
 
 ---------------------------------------------------------------
 # **Photos**
