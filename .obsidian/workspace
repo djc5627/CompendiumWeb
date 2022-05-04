@@ -7,12 +7,8 @@
         "id": "6555c143e05e9837",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Birds/Birds.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -148,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Birds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
