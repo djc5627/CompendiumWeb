@@ -3,6 +3,9 @@ site_name: obsidian-mkdocs template
 theme:
     name: 'material'
     palette:
+    
+    features:
+    - navigation.tabs
 
     # Light mode
     - media: "(prefers-color-scheme: light)"

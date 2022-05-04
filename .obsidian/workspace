@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "source",
+            "file": "docs/Birds/Song Bird/Finch/House Finch.md",
+            "mode": "preview",
             "source": true
           }
         },
@@ -20,8 +20,20 @@
             {
               "leaf": "5051ed4a20ad140f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/House Finch.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/American Goldfinch.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":78.21428571428571}"
             },
             {
               "leaf": "5051ed4a20ad140f",
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/Finch/House Finch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,6 +266,8 @@
   },
   "active": "5051ed4a20ad140f",
   "lastOpenFiles": [
+    "docs/Birds/Song Bird/Finch/House Finch.md",
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
     "docs/index.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Birds/Dove/Mourning Dove.md",
@@ -261,8 +275,6 @@
     "Folder Notes/Birds.md",
     "2021-11-22-22-49-26.png",
     "2021-11-22-22-54-02.png",
-    "2021-11-22-22-52-49.png",
-    "docs/Birds/Black Bird.md",
-    "docs/Birds/Water Bird/Egret/Great Egret.md"
+    "2021-11-22-22-52-49.png"
   ]
 }
