@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Topic 2/Note 4.md",
-            "mode": "preview",
+            "file": "docs/Birds/American Goldfinch.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -20,8 +20,38 @@
             {
               "leaf": "6555c143e05e9837",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 3.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "6555c143e05e9837",
@@ -106,36 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":32},\"to\":{\"line\":5,\"ch\":32}},\"scroll\":0}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":1.8}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Topic 2/Note 4.md",
+                "file": "docs/Birds/American Goldfinch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,14 +278,14 @@
   },
   "active": "6555c143e05e9837",
   "lastOpenFiles": [
+    "docs/Birds/American Goldfinch.md",
+    "docs/Birds/Birds.md",
     "docs/Topic 2/Note 4.md",
     "docs/Topic 2/Note 3.md",
     "docs/Pasted image 20220504111743.png",
     "docs/Topic 1/Note 2.md",
     "docs/Topic 1/Note 1.md",
-    "docs/Birds/Birds.md",
     "docs/Birds/Black Bird.md",
-    "docs/Birds/American Goldfinch.md",
     "Templates/BirdTemplate.md",
     "Templates/PhotoTemplate-OneDrive.md"
   ]

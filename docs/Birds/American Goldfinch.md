@@ -2,7 +2,7 @@
 image: <CoverImageURL>
 ---
 
-# **American Goldfinch**
+# American Goldfinch
 2022-04-2812:12
 Tags: #bird/finch 
 
