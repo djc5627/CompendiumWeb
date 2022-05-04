@@ -28,7 +28,7 @@ Mourning Dove
 <div class="card" markdown="1">
 
 <div markdown="1">
-House Sparrow 
+White-throated-double Sparrow 
 </div>
 <div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
@@ -40,8 +40,12 @@ House Sparrow
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-Song Sparrow
+<div markdown="1">
+White-throated-double Sparrow 
+</div>
+<div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+</div>
 
 </div>
 </div>
@@ -49,8 +53,12 @@ Song Sparrow
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-White-throated Sparrow
+<div markdown="1">
+White-throated-double Sparrow 
+</div>
+<div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+</div>
 
 </div>
 </div>
@@ -58,8 +66,12 @@ White-throated Sparrow
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-Chipping Sparrow
+<div markdown="1">
+White-throated-double Sparrow 
+</div>
+<div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+</div>
 
 </div>
 </div>
@@ -67,8 +79,12 @@ Chipping Sparrow
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-Northern Cardinal
+<div markdown="1">
+White-throated-double Sparrow 
+</div>
+<div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+</div>
 
 </div>
 </div>
@@ -76,8 +92,12 @@ Northern Cardinal
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-American Goldfinch
+<div markdown="1">
+White-throated-double Sparrow 
+</div>
+<div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+</div>
 
 </div>
 </div>
@@ -85,43 +105,14 @@ American Goldfinch
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-House Finch
+<div markdown="1">
+White-throated-double Sparrow 
+</div>
+<div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+</div>
 
 </div>
 </div>
 
 </div>
-
-
-<!--
-<div class="row" markdown="1">
-  <div class="column" markdown="1">
-    <div class="card" markdown="1">
-Mourning Dove
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
-    </div>
-  </div>
-
-  <div class="column" markdown="1">
-    <div class="card" markdown="1">
-Mourning Dove
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
-    </div>
-  </div>
-  
-  <div class="column" markdown="1">
-    <div class="card" markdown="1">
-Mourning Dove
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
-    </div>
-  </div>
-  
-  <div class="column" markdown="1">
-    <div class="card" markdown="1">
-Mourning Dove
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
-    </div>
-  </div>
-</div>
--->
