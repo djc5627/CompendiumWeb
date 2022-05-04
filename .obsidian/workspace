@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6555c143e05e9837",
+        "id": "5051ed4a20ad140f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/American Goldfinch.md",
-            "mode": "source",
+            "file": "Folder Notes/Birds.md",
+            "mode": "preview",
             "source": false
           }
         },
@@ -18,124 +18,58 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Robin.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":15},\"to\":{\"line\":5,\"ch\":15}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Robin.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Black Bird.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Robin.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Robin.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Folder Notes/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Robin.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-54-02.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 1/Note 2.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
+              "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 1/Note 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Folder Notes/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Folder Notes/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "6555c143e05e9837",
+              "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 3.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -202,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/American Goldfinch.md",
+                "file": "Folder Notes/Birds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,17 +210,17 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "6555c143e05e9837",
+  "active": "5051ed4a20ad140f",
   "lastOpenFiles": [
-    "docs/Birds/American Goldfinch.md",
-    "docs/Birds/American Robin.md",
+    "Folder Notes/Birds.md",
+    "2021-11-22-22-49-26.png",
+    "2021-11-22-22-54-02.png",
+    "2021-11-22-22-52-49.png",
+    "docs/index.md",
     "docs/Birds/Black Bird.md",
-    "docs/Birds/Bald Eagle.md",
-    "docs/Birds/Birds.md",
-    "docs/Topic 1/Note 2.md",
-    "docs/Topic 1/Note 1.md",
-    "docs/Topic 2/Note 4.md",
-    "docs/Topic 2/Note 3.md",
-    "docs/Pasted image 20220504111743.png"
+    "Birds/Water Bird/Egret/Great Egret.md",
+    "Birds/Song Bird/Robin/American Robin.md",
+    "Birds/Song Bird/Finch/American Goldfinch.md",
+    "Birds/Birds of Prey/Eagle/Bald Eagle.md"
   ]
 }

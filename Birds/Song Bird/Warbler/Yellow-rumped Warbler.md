@@ -2,8 +2,8 @@
 image: <CoverImageURL>
 ---
 
-# {{title}}
-{{date}}{{time}}
+# Yellow-rumped Warbler
+2022-04-2910:25
 Tags: #bird
 
 
@@ -11,10 +11,11 @@ Main Image here
 
 ---------------------------------------------------------------
 # **Notes**
+Apparently, there are two regional subspecies: the "Myrtle" Warbler on east coast and "Audubon's" Warbler on west coast that vary color patterns.
 
 ---------------------------------------------------------------
 # Seen at:
--> #location/Missing 
+-   #location/RahwayRiverPark-Rahway-NJ 
 
 ---------------------------------------------------------------
 # **Photos**
@@ -22,4 +23,4 @@ OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
 # References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Yellow-rumped_Warbler/overview)

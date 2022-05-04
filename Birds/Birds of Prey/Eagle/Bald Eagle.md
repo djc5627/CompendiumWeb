@@ -2,9 +2,9 @@
 image: <CoverImageURL>
 ---
 
-# {{title}}
-{{date}}{{time}}
-Tags: #bird
+# Bald Eagle
+2022-05-0317:08
+Tags: #bird/eagle
 
 
 Main Image here
@@ -14,7 +14,7 @@ Main Image here
 
 ---------------------------------------------------------------
 # Seen at:
--> #location/Missing 
+-   #location/GreatSwampRefuge-NJ 
 
 ---------------------------------------------------------------
 # **Photos**

@@ -2,19 +2,20 @@
 image: <CoverImageURL>
 ---
 
-# {{title}}
-{{date}}{{time}}
-Tags: #bird
+# Eastern Bluebird
+2022-05-0316:46
+Tags: #bird/songbird
 
 
 Main Image here
 
 ---------------------------------------------------------------
 # **Notes**
+Seen at the Great Swamp immediately walking out of the well-named "Bluebird Parking Lot".
 
 ---------------------------------------------------------------
 # Seen at:
--> #location/Missing 
+-   #location/GreatSwampRefuge-NJ 
 
 ---------------------------------------------------------------
 # **Photos**
