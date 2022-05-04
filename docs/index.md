@@ -27,8 +27,12 @@ Mourning Dove
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-House Sparrow
+<div markdown="1">
+House Sparrow 
+</div>
+<div markdown="1">
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+</div>
 
 </div>
 </div>
