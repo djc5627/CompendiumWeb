@@ -21,7 +21,31 @@
               "leaf": "6555c143e05e9837",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20220504111743.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20220504111743.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":32},\"to\":{\"line\":5,\"ch\":32}},\"scroll\":0}"
             },
             {
               "leaf": "6555c143e05e9837",
@@ -243,6 +267,7 @@
   "active": "6555c143e05e9837",
   "lastOpenFiles": [
     "docs/Topic 2/Note 4.md",
+    "Pasted image 20220504111743.png",
     "docs/Birds/American Goldfinch.md",
     "docs/Birds/Birds.md",
     "Templates/BirdTemplate.md",
@@ -250,7 +275,6 @@
     "Templates/PhotoTemplate-Imgur.md",
     "2021-11-22-22-49-26.png",
     "2021-11-22-22-52-49.png",
-    "2021-11-22-22-54-02.png",
-    "docs/Birds/Tufted Titmouse.md"
+    "2021-11-22-22-54-02.png"
   ]
 }
