@@ -28,13 +28,14 @@ Mourning Dove
 
 </div>
 
-<div class="row" markdown="1">
-    <div class="card" markdown="1">
+<div class="row">
+<div class="card" markdown="1">
 Mourning Dove test ROW
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
-	</div>
+</div>
 </div>
 
+<!--
 <div class="row" markdown="1">
   <div class="column" markdown="1">
     <div class="card" markdown="1">
@@ -64,3 +65,4 @@ Mourning Dove
     </div>
   </div>
 </div>
+-->
