@@ -23,19 +23,10 @@ Mourning Dove
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
-
-<div class="grid cards" markdown>
-
-- [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- __HTML__ for content and structure
+- __JavaScript__ for interactivity
+- __CSS__ for text running out of boxes
+- __Internet Explorer__ ... huh?
 
 </div>
 
