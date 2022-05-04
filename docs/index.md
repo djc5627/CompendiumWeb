@@ -33,7 +33,7 @@ Mourning Dove
 <div class="card" markdown="1">
 
 Mourning Dove 1
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+[![[Pasted image 20220504111743.png|200]]](Mourning%20Dove.md)
 
 </div>
 </div>
@@ -42,7 +42,7 @@ Mourning Dove 1
 <div class="card" markdown="1">
 
 Mourning Dove 2
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+[![[Pasted image 20220504111743.png|150]]](Mourning%20Dove.md)
 
 </div>
 </div>
