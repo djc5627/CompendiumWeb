@@ -21,19 +21,39 @@ Mourning Dove
 | `DELETE`    | :material-close:     Delete resource |
 
 
-<div class="grid cards" markdown>
+<div class="card" markdown>
 
-- __HTML__ for content and structure
-- __JavaScript__ for interactivity
-- __CSS__ for text running out of boxes
-- __Internet Explorer__ ... huh?
+### Mourning Dove
+[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
 
 </div>
 
-
-<div class="card" markdown>
-
-Mourning Dove
+<div class="row">
+  <div class="column">
+    <div class="card" markdown>
+### Mourning Dove
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+    </div>
+  </div>
 
+  <div class="column">
+    <div class="card" markdown>
+### Mourning Dove
+[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card" markdown>
+### Mourning Dove
+[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card" markdown>
+### Mourning Dove
+[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+    </div>
+  </div>
 </div>
