@@ -26,7 +26,7 @@
             {
               "leaf": "6555c143e05e9837",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20220504111743.png\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
               "eState": "{}"
             },
             {
@@ -38,7 +38,7 @@
             {
               "leaf": "6555c143e05e9837",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20220504111743.png\"}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
               "eState": "{}"
             },
             {
@@ -267,7 +267,7 @@
   "active": "6555c143e05e9837",
   "lastOpenFiles": [
     "docs/Topic 2/Note 4.md",
-    "Pasted image 20220504111743.png",
+    "docs/Pasted image 20220504111743.png",
     "docs/Birds/American Goldfinch.md",
     "docs/Birds/Birds.md",
     "Templates/BirdTemplate.md",

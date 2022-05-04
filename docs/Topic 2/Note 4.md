@@ -11,3 +11,5 @@ hello [[Note 3]]
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](Note%20.md)
+
