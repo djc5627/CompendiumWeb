@@ -45,3 +45,6 @@ plugins:
   - search
   - roamlinks 
   - tags
+  
+  extra_css:
+  - stylesheets/extra.css

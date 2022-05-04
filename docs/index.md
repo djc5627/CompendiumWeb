@@ -30,3 +30,10 @@ Mourning Dove
 
 </div>
 
+
+<div class="card" markdown>
+
+Mourning Dove
+[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+
+</div>

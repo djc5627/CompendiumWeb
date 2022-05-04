@@ -11,7 +11,7 @@
           "state": {
             "file": "docs/index.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +20,8 @@
             {
               "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":32},\"to\":{\"line\":18,\"ch\":32}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":4.821428571428571}"
             },
             {
               "leaf": "5051ed4a20ad140f",
