@@ -1,3 +1,11 @@
+---
+tags:
+  - HTML5
+  - JavaScript
+  - CSS
+  - Other
+---
+
 # Note 4
 hello [[Note 3]]
 

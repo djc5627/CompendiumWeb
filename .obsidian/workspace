@@ -11,12 +11,84 @@
           "state": {
             "file": "docs/Topic 2/Note 4.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 3.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 1/Note 2.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 1/Note 1.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 3.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 3.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Black Bird.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
             {
               "leaf": "6555c143e05e9837",
               "group": null,
@@ -64,66 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PhotoTemplate-OneDrive.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PhotoTemplate-Imgur.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-54-02.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6555c143e05e9837",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Tufted Titmouse.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":1.9285714285714286}"
             }
           ]
         }
@@ -267,14 +279,14 @@
   "active": "6555c143e05e9837",
   "lastOpenFiles": [
     "docs/Topic 2/Note 4.md",
+    "docs/Topic 2/Note 3.md",
     "docs/Pasted image 20220504111743.png",
-    "docs/Birds/American Goldfinch.md",
+    "docs/Topic 1/Note 2.md",
+    "docs/Topic 1/Note 1.md",
     "docs/Birds/Birds.md",
+    "docs/Birds/Black Bird.md",
+    "docs/Birds/American Goldfinch.md",
     "Templates/BirdTemplate.md",
-    "Templates/PhotoTemplate-OneDrive.md",
-    "Templates/PhotoTemplate-Imgur.md",
-    "2021-11-22-22-49-26.png",
-    "2021-11-22-22-52-49.png",
-    "2021-11-22-22-54-02.png"
+    "Templates/PhotoTemplate-OneDrive.md"
   ]
 }

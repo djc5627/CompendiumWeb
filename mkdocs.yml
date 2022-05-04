@@ -25,6 +25,7 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - meta
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
@@ -41,3 +42,4 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  - tags
