@@ -7,11 +7,9 @@
         "id": "5051ed4a20ad140f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "docs/Birds/Song Bird/Finch/House Finch.md",
-            "mode": "preview",
-            "source": true
+            "file": "docs/Pasted image 20220504111743.png"
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +18,26 @@
             {
               "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/House Finch.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 3.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/House Finch.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "5051ed4a20ad140f",
@@ -118,12 +134,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Folder Notes/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -190,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Finch/House Finch.md",
+                "file": "docs/Pasted image 20220504111743.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,15 +276,15 @@
   },
   "active": "5051ed4a20ad140f",
   "lastOpenFiles": [
+    "docs/Pasted image 20220504111743.png",
+    "docs/Topic 2/Note 4.md",
+    "docs/Topic 2/Note 3.md",
     "docs/Birds/Song Bird/Finch/House Finch.md",
     "docs/Birds/Song Bird/Finch/American Goldfinch.md",
     "docs/index.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Birds/Dove/Mourning Dove.md",
-    "docs/Topic 2/Note 4.md",
     "Folder Notes/Birds.md",
-    "2021-11-22-22-49-26.png",
-    "2021-11-22-22-54-02.png",
-    "2021-11-22-22-52-49.png"
+    "2021-11-22-22-49-26.png"
   ]
 }
