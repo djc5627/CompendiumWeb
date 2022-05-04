@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "docs/Topic 2/Note 4.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         },
@@ -20,8 +20,8 @@
             {
               "leaf": "6555c143e05e9837",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":5.469026548672566}"
             },
             {
               "leaf": "6555c143e05e9837",
