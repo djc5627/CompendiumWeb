@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "image-zoom"
+  ],
+  "cssTheme": "Atom",
+  "translucency": false
+}

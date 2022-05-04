@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "e4fd0f6ff8ed60e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6555c143e05e9837",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Birds/Birds.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PhotoTemplate-OneDrive.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PhotoTemplate-Imgur.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-54-02.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Tufted Titmouse.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":1.9285714285714286}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1eb2a9ed45a038f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0983a16df5b0057a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d1130a1b673527",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "09b79646f4374d7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "000a96bf2cf207cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1e9a6f4977bad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d11a6aeef863d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Birds/Birds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "3644130f27a4d8d7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "cd3bb0d64a90079a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "ebf5fab89424b3e4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "34ad2ab35c8b059f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260,
+    "collapsed": true
+  },
+  "active": "6555c143e05e9837",
+  "lastOpenFiles": [
+    "docs/Birds/Birds.md",
+    "Templates/BirdTemplate.md",
+    "Templates/PhotoTemplate-OneDrive.md",
+    "Templates/PhotoTemplate-Imgur.md",
+    "2021-11-22-22-49-26.png",
+    "2021-11-22-22-52-49.png",
+    "2021-11-22-22-54-02.png",
+    "docs/Birds/Tufted Titmouse.md",
+    "docs/Birds/Townsend Solitaire.md",
+    "docs/Birds/Bald Eagle.md"
+  ]
+}

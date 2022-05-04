@@ -1,0 +1,15 @@
+
+/* For a full overview of styling options, see https://js.cytoscape.org/#style */
+.note {  
+    shape: round-rectangle;
+    width: 50px;
+    height: 45px;
+    font-size: 10;
+	border-width: 3px;
+    text-valign: bottom;
+    text-max-width: 45px;
+	text-margin-y: 10;
+    text-opacity: 1;
+    background-color: #141414;
+	Size: 20;
+}

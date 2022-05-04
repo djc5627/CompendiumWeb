@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "bd28ad7dffe0171d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bddada9c527e9ea",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4039a3a0cc0e27c4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b95ac7635707509d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "aa8d4127a11a7b61",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "08c8bde0fc0a8453",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b50f566f3fd8237",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a3a6532d4bfc5a82",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {}
+        }
+      },
+      {
+        "id": "259864641d42e7ec",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3bddada9c527e9ea",
+  "lastOpenFiles": [
+    "test3.md",
+    "Shroomstrider.md",
+    "Elf.md",
+    "README.md",
+    "test2.md"
+  ]
+}
