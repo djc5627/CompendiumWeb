@@ -28,29 +28,29 @@ Mourning Dove
 
 </div>
 
-<div class="row" markdown>
-  <div class="column" markdown>
+<div class="row">
+  <div class="column">
     <div class="card" markdown>
-### Mourning Dove
+Mourning Dove
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
     </div>
   </div>
 
-  <div class="column" markdown>
+  <div class="column">
     <div class="card" markdown>
 Mourning Dove
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
     </div>
   </div>
   
-  <div class="column" markdown>
+  <div class="column">
     <div class="card" markdown>
 Mourning Dove
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
     </div>
   </div>
   
-  <div class="column" markdown>
+  <div class="column">
     <div class="card" markdown>
 Mourning Dove
 [![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
