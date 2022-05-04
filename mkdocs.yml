@@ -2,9 +2,9 @@ site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
+    features:
+      - navigation.tracking
     palette:
-    
-
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
