@@ -18,6 +18,24 @@
 /* Responsive columns */
 @media screen and (max-width: 600px) {
   .column {
+    width: 33%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Responsive columns */
+@media screen and (max-width: 450px) {
+  .column {
+    width: 50%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Responsive columns */
+@media screen and (max-width: 300px) {
+  .column {
     width: 100%;
     display: block;
     margin-bottom: 20px;
