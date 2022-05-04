@@ -26,6 +26,8 @@ theme:
 markdown_extensions:
   - footnotes
   - meta
+  - attr_list
+  - md_in_html
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
