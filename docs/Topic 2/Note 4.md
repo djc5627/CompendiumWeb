@@ -1,7 +1,7 @@
 # Note 4
 hello [[Note 3]]
 
-[![[Pasted image 20220504111743.png]]](Note%204.md)
+[![[Pasted image 20220504111743.png]]](Note%203.md)
 
 [![foo](Pasted%20image%2020220504111743.png)](Note%204.md)
 
