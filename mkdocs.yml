@@ -4,6 +4,7 @@ theme:
     name: 'material'
     features:
       - navigation.tracking
+      - navigation.tabs
     palette:
 
     # Light mode

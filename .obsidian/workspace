@@ -7,14 +7,22 @@
         "id": "5051ed4a20ad140f",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "docs/Pasted image 20220504111743.png"
+            "file": "docs/index.md",
+            "mode": "source",
+            "source": false
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":15},\"to\":{\"line\":4,\"ch\":15}}}"
+            },
             {
               "leaf": "5051ed4a20ad140f",
               "group": null,
@@ -128,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Folder Notes/Birds.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -200,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Pasted image 20220504111743.png",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,12 +278,12 @@
   },
   "active": "5051ed4a20ad140f",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/Pasted image 20220504111743.png",
     "docs/Topic 2/Note 4.md",
     "docs/Topic 2/Note 3.md",
     "docs/Birds/Song Bird/Finch/House Finch.md",
     "docs/Birds/Song Bird/Finch/American Goldfinch.md",
-    "docs/index.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Birds/Dove/Mourning Dove.md",
     "Folder Notes/Birds.md",
