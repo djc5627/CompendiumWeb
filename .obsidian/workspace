@@ -21,7 +21,7 @@
               "leaf": "6555c143e05e9837",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
             },
             {
               "leaf": "6555c143e05e9837",
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#location/EspositoPark-Clark-NJ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
