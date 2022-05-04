@@ -21,7 +21,19 @@
               "leaf": "6555c143e05e9837",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/American Goldfinch.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":1.8}"
+            },
+            {
+              "leaf": "6555c143e05e9837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "6555c143e05e9837",
@@ -231,6 +243,7 @@
   "active": "6555c143e05e9837",
   "lastOpenFiles": [
     "docs/Topic 2/Note 4.md",
+    "docs/Birds/American Goldfinch.md",
     "docs/Birds/Birds.md",
     "Templates/BirdTemplate.md",
     "Templates/PhotoTemplate-OneDrive.md",
@@ -238,7 +251,6 @@
     "2021-11-22-22-49-26.png",
     "2021-11-22-22-52-49.png",
     "2021-11-22-22-54-02.png",
-    "docs/Birds/Tufted Titmouse.md",
-    "docs/Birds/Townsend Solitaire.md"
+    "docs/Birds/Tufted Titmouse.md"
   ]
 }
