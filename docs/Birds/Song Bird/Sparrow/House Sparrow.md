@@ -15,10 +15,11 @@ House Sparrows are extremely aggressive birds that attack, harass, and even kill
 
 ---------------------------------------------------------------
 ## Seen at:
--> #location/Home-Clark-NJ 
--> #location/EspositoPark-Clark-NJ 
--> #location/WarinancoPark-Roselle-NJ 
--> #location/Morristown-PatriotTrail-NJ 
+
+- #location/Home-Clark-NJ 
+- #location/EspositoPark-Clark-NJ 
+- #location/WarinancoPark-Roselle-NJ 
+- #location/Morristown-PatriotTrail-NJ 
 
 ---------------------------------------------------------------
 ## Photos

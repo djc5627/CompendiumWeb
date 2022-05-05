@@ -27,6 +27,18 @@
               "leaf": "5051ed4a20ad140f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":6},\"to\":{\"line\":34,\"ch\":6}},\"scroll\":10.892857142857142}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":36},\"to\":{\"line\":18,\"ch\":36}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
@@ -123,18 +135,6 @@
               "leaf": "5051ed4a20ad140f",
               "group": null,
               "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-54-02.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
               "eState": "{}"
             }
           ]
