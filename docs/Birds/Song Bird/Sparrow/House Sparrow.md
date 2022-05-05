@@ -14,11 +14,14 @@ House Sparrow on our deck
 House Sparrows are extremely aggressive birds that attack, harass, and even kill adult native birds, often not for food. They overwhelm bird feeders driving native birds away. Eat the "poop sacs" of other birds like Finches.
 
 ---------------------------------------------------------------
-## Seen at:
+## Sightings
 
--> #location/Home-Clark-NJ \n
--> #location/EspositoPark-Clark-NJ \n
--> #location/WarinancoPark-Roselle-NJ \n
+-> #location/Home-Clark-NJ
+
+-> #location/EspositoPark-Clark-NJ
+
+-> #location/WarinancoPark-Roselle-NJ
+
 -> #location/Morristown-PatriotTrail-NJ 
 
 ---------------------------------------------------------------
