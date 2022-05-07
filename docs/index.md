@@ -15,7 +15,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Northern Cardinal]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Cardinal/Northern%20Cardinal/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Cardinal/Northern Cardinal/)
 </div>
 
 </div>
@@ -28,7 +28,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Gray Catbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Catbird/Gray%20Catbird/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Catbird/Gray Catbird/)
 </div>
 
 </div>
@@ -41,7 +41,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[House Finch]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Finch/House%20Finch/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Finch/House Finch/)
 </div>
 
 </div>
@@ -54,7 +54,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Blue Jay]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Jay/Blue%20Jay/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Jay/Blue Jay/)
 </div>
 
 </div>
@@ -67,7 +67,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Gold-crowned Kinglet]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Kinglet/Gold-crowned%20Kinglet/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Gold-crowned Kinglet/)
 </div>
 
 </div>
@@ -80,7 +80,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Ruby-crowned Kinglet]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Kinglet/Ruby-crowned%20Kinglet/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Ruby-crowned Kinglet/)
 </div>
 
 </div>
@@ -93,7 +93,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Northern Mockingbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Mocking Bird/Northern%20Mockingbird/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Mocking Bird/Northern Mockingbird/)
 </div>
 
 </div>
@@ -106,7 +106,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Brown-headed Cowbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/New World Black Bird/Brown-headed%20Cowbird/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Brown-headed Cowbird/)
 </div>
 
 </div>
@@ -119,7 +119,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Grackle]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/New World Black Bird/Grackle/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Grackle/)
 </div>
 
 </div>
@@ -132,7 +132,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Red-winged Blackbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/New World Black Bird/Red-winged%20Blackbird/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Red-winged Blackbird/)
 </div>
 
 </div>
@@ -145,7 +145,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[White-breasted Nuthatch]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Nuthatch/White-breasted%20Nuthatch/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Nuthatch/White-breasted Nuthatch/)
 </div>
 
 </div>
@@ -158,7 +158,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[American Robin]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Robin/American%20Robin/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Robin/American Robin/)
 </div>
 
 </div>
@@ -171,7 +171,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Chipping Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Sparrow/Chipping%20Sparrow/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Chipping Sparrow/)
 </div>
 
 </div>
@@ -184,7 +184,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Dark-eyed Junco]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Sparrow/Dark-eyed%20Junco/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Dark-eyed Junco/)
 </div>
 
 </div>
@@ -197,7 +197,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[House Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Sparrow/House%20Sparrow/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/House Sparrow/)
 </div>
 
 </div>
@@ -210,7 +210,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Song Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Sparrow/Song%20Sparrow/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Song Sparrow/)
 </div>
 
 </div>
@@ -223,7 +223,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[White-throated Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Sparrow/White-throated%20Sparrow/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/White-throated Sparrow/)
 </div>
 
 </div>
@@ -236,7 +236,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[European Starling]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Starling/European%20Starling/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Starling/European Starling/)
 </div>
 
 </div>
@@ -249,7 +249,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Black-and-white Warbler]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Warbler/Black-and-white%20Warbler/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
 </div>
 
 </div>
@@ -262,7 +262,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Palm Warbler]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Warbler/Palm%20Warbler/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Warbler/Palm Warbler/)
 </div>
 
 </div>
@@ -275,7 +275,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Yellow-rumped Warbler]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Warbler/Yellow-rumped%20Warbler/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Warbler/Yellow-rumped Warbler/)
 </div>
 
 </div>
@@ -288,7 +288,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Eastern Bluebird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Eastern%20Bluebird/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Eastern Bluebird/)
 </div>
 
 </div>
@@ -301,7 +301,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Eastern Phoebe]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Eastern%20Phoebe/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Eastern Phoebe/)
 </div>
 
 </div>
@@ -314,7 +314,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Townsend Solitaire]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Townsend%20Solitaire/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Townsend Solitaire/)
 </div>
 
 </div>
@@ -327,7 +327,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[Tufted Titmouse]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Tufted Titmouse/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Tufted Titmouse/)
 </div>
 
 </div>
