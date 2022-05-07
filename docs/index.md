@@ -11,7 +11,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Northern Cardinal]]
 </div>
 <div markdown="1">
@@ -24,7 +24,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Gray Catbird]]
 </div>
 <div markdown="1">
@@ -37,7 +37,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[House Finch]]
 </div>
 <div markdown="1">
@@ -50,7 +50,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Blue Jay]]
 </div>
 <div markdown="1">
@@ -63,7 +63,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Gold-crowned Kinglet]]
 </div>
 <div markdown="1">
@@ -76,7 +76,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Ruby-crowned Kinglet]]
 </div>
 <div markdown="1">
@@ -89,7 +89,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Northern Mockingbird]]
 </div>
 <div markdown="1">
@@ -102,7 +102,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Brown-headed Cowbird]]
 </div>
 <div markdown="1">
@@ -115,7 +115,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Grackle]]
 </div>
 <div markdown="1">
@@ -128,7 +128,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Red-winged Blackbird]]
 </div>
 <div markdown="1">
@@ -141,7 +141,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[White-breasted Nuthatch]]
 </div>
 <div markdown="1">
@@ -154,7 +154,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[American Robin]]
 </div>
 <div markdown="1">
@@ -167,7 +167,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Chipping Sparrow]]
 </div>
 <div markdown="1">
@@ -180,7 +180,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Dark-eyed Junco]]
 </div>
 <div markdown="1">
@@ -193,7 +193,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[House Sparrow]]
 </div>
 <div markdown="1">
@@ -206,7 +206,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Song Sparrow]]
 </div>
 <div markdown="1">
@@ -219,7 +219,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[White-throated Sparrow]]
 </div>
 <div markdown="1">
@@ -232,7 +232,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[European Starling]]
 </div>
 <div markdown="1">
@@ -245,7 +245,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Black-and-white Warbler]]
 </div>
 <div markdown="1">
@@ -258,7 +258,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Palm Warbler]]
 </div>
 <div markdown="1">
@@ -271,7 +271,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Yellow-rumped Warbler]]
 </div>
 <div markdown="1">
@@ -284,7 +284,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Eastern Bluebird]]
 </div>
 <div markdown="1">
@@ -297,7 +297,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Eastern Phoebe]]
 </div>
 <div markdown="1">
@@ -310,7 +310,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Townsend Solitaire]]
 </div>
 <div markdown="1">
@@ -323,7 +323,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
-<div markdown="1">
+<div class="card-title" markdown="1">
 [[Tufted Titmouse]]
 </div>
 <div markdown="1">
