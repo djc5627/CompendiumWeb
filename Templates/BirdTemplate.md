@@ -3,23 +3,22 @@ image: <CoverImageURL>
 ---
 
 # {{title}}
-{{date}}{{time}}
-Tags: #bird
+{{date}}
 
 
 Main Image here
 
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 
 ---------------------------------------------------------------
-# Seen at:
--> #location/Missing 
+## Sightings
+-> #location/Missing
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](linkUrl)

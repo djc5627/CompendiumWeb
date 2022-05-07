@@ -2,7 +2,7 @@
 .column {
   float: left;
   width: 25%;
-  padding: 0 10px;
+  padding: 5px 5px;
 }
 
 /* Remove extra left and right margins, due to padding */
@@ -45,7 +45,7 @@
 /* Style the counter cards */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
+  padding: 1px 10px 0px 10px;
   text-align: center;
   background-color: rgb(0 0 0 / 30%);
   transition: 0.3s;

@@ -12,10 +12,10 @@ Welcome to our bird compendium! Entries are only added for birds that we have ph
 <div class="card" markdown="1">
 
 <div markdown="1">
-House Sparrow
+[[House Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Mourning%20Dove.md)
+[![[House Sparrow Thumbnail.jpg]]]([[House Sparrow]])
 </div>
 
 </div>
@@ -25,10 +25,10 @@ House Sparrow
 <div class="card" markdown="1">
 
 <div markdown="1">
-White-throated-double Sparrow 
+[[House Sparrow]]
 </div>
 <div markdown="1">
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+[![[House Sparrow Thumbnail.jpg]]]([House Sparrow])
 </div>
 
 </div>
@@ -38,10 +38,10 @@ White-throated-double Sparrow
 <div class="card" markdown="1">
 
 <div markdown="1">
-White-throated-double Sparrow 
+[[House Sparrow]]
 </div>
 <div markdown="1">
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+[![[House Sparrow Thumbnail.jpg]]](House Sparrow)
 </div>
 
 </div>
