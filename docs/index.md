@@ -1,24 +1,8 @@
-# Obsidian Notes
+# Home
 
-Publish your public notes with MkDocs
+## Welcome!
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
-
-
-Mourning Dove
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
-
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+Welcome to our bird compendium! Entries are only added for birds that we have photographed and contain notes on our personal observations and fun facts on the birds. References are provided for more info.
 
 # Song Birds
 
@@ -28,10 +12,10 @@ Mourning Dove
 <div class="card" markdown="1">
 
 <div markdown="1">
-White-throated-double Sparrow 
+House Sparrow
 </div>
 <div markdown="1">
-[![[Pasted image 20220504111743.png]]](Mourning%20Dove.md)
+[![[House Sparrow Thumbnail.jpg]]](Mourning%20Dove.md)
 </div>
 
 </div>

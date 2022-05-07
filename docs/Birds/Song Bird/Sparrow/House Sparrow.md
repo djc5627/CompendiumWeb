@@ -3,11 +3,11 @@ image: <CoverImageURL>
 ---
 
 # House Sparrow
-Entry Date: 2022-02-0118:06
+Entry Date: 2022-02-01
 
 
 ![Imgur|275](https://i.imgur.com/KOv2iQj.png)
-House Sparrow on our deck
+*House Sparrow on our deck*
 
 ---------------------------------------------------------------
 ## Notes
@@ -28,7 +28,7 @@ House Sparrows are extremely aggressive birds that attack, harass, and even kill
 ## Photos
 OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-xgup82OYqGZkRfMU?e=TY08pp)
 
-House Sparrow on plant by our deck. They love hiding here.
+*House Sparrow on plant by our deck. They love hiding here.*
 
 ---------------------------------------------------------------
 ## References
