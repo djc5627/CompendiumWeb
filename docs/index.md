@@ -12,7 +12,7 @@ Welcome to our bird compendium! Entries are only added for birds that we have ph
 <div class="card" markdown="1">
 
 <div markdown="1">
-[[House Sparrow]]
+House Sparrow
 </div>
 <div markdown="1">
 [![[House Sparrow Thumbnail.jpg]]](Birds/Song%20Bird/Sparrow/House%20Sparrow/)
