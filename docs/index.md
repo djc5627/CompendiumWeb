@@ -49,7 +49,6 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 </div>
 
-Welcome to our bird compendium! Entries contain notes on our personal observations and fun facts on the birds. All photos were taken by us and entries are only created for birds we have photographed. References are provided for more info.
 
 ## Doves/Pigeons/Swifts
 
@@ -95,6 +94,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 </div>
 
 </div>
+
 ## Sea/Water Birds
 
 <div class="row" markdown="1">
@@ -192,6 +192,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 
 
 </div>
+
 ## Song Birds
 
 <div class="row" markdown="1">
@@ -217,6 +218,19 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 </div>
 <div markdown="1">
 [![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Catbird/Gray Catbird/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[American Goldfinch]]
+</div>
+<div markdown="1">
+[![[American Goldfinch Thumbnail.jpg]]](Birds/Song Bird/Finch/American Goldfinch/)
 </div>
 
 </div>
@@ -346,7 +360,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 [[American Robin]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Robin/American Robin/)
+[![[American Robin Thumbnail.jpg]]]nail.jpg]]](Birds/Song Bird/Robin/American Robin/)
 </div>
 
 </div>
@@ -525,6 +539,7 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 
 
 </div>
+
 ## Woodpeckers
 
 <div class="row" markdown="1">

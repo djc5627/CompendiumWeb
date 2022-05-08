@@ -20,7 +20,55 @@
             {
               "leaf": "5051ed4a20ad140f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":362,\"ch\":0},\"to\":{\"line\":362,\"ch\":0}},\"scroll\":338.5357142857143}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-54-02.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":0}"
             },
             {
@@ -88,54 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":6},\"to\":{\"line\":34,\"ch\":6}},\"scroll\":10.892857142857142}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":36},\"to\":{\"line\":18,\"ch\":36}},\"scroll\":0}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":5.642857142857143}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":9.285714285714286}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 4.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Topic 2/Note 3.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/House Finch.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -279,14 +279,14 @@
   "active": "5051ed4a20ad140f",
   "lastOpenFiles": [
     "docs/index.md",
+    "README.md",
+    "2021-11-22-22-49-26.png",
+    "2021-11-22-22-54-02.png",
+    "2021-11-22-22-52-49.png",
+    "docs/Pasted image 20220504111743.png",
     "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
     "docs/Birds/Song Bird/Sparrow/Song Sparrow.md",
     "docs/Birds/Song Bird/Sparrow/Untitled.md",
-    "Templates/BirdTemplate.md",
-    "docs/Pasted image 20220504111743.png",
-    "docs/Topic 2/Note 4.md",
-    "docs/Topic 2/Note 3.md",
-    "docs/Birds/Song Bird/Finch/House Finch.md",
-    "docs/Birds/Song Bird/Finch/American Goldfinch.md"
+    "Templates/BirdTemplate.md"
   ]
 }
