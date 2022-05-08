@@ -3,7 +3,7 @@ image: <CoverImageURL>
 ---
 
 # {{title}}
-{{date}}
+Entry Date: {{date}}
 
 
 Main Image here
@@ -13,6 +13,9 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Sightings
+
+-> #location/Missing
+
 -> #location/Missing
 
 ---------------------------------------------------------------

@@ -6,6 +6,7 @@ image: <CoverImageURL>
 Entry Date: 2022-02-01
 
 ![[House Sparrow Thumbnail.jpg]]
+
 *House Sparrow on plant by our deck. They love hiding here.*
 
 ---------------------------------------------------------------

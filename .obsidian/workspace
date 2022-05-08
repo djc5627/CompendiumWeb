@@ -21,7 +21,97 @@
               "leaf": "5051ed4a20ad140f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":224},\"to\":{\"line\":12,\"ch\":224}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.642857142857143}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":20},\"to\":{\"line\":16,\"ch\":20}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":12},\"to\":{\"line\":5,\"ch\":12}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":12},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/Song Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5051ed4a20ad140f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "5051ed4a20ad140f",
@@ -46,96 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-54-02.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-49-26.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"2021-11-22-22-52-49.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Pasted image 20220504111743.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/Song Sparrow.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":6},\"to\":{\"line\":47,\"ch\":6}},\"scroll\":10.410714285714286}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/BirdTemplate.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5051ed4a20ad140f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}}}"
             }
           ]
         }
@@ -279,14 +279,14 @@
   "active": "5051ed4a20ad140f",
   "lastOpenFiles": [
     "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
+    "Templates/BirdTemplate.md",
+    "docs/Birds/Song Bird/Sparrow/Song Sparrow.md",
     "docs/index.md",
     "docs/Birds/Song Bird/New World Black Bird/Grackle.md",
     "README.md",
     "2021-11-22-22-49-26.png",
     "2021-11-22-22-54-02.png",
     "2021-11-22-22-52-49.png",
-    "docs/Pasted image 20220504111743.png",
-    "docs/Birds/Song Bird/Sparrow/Song Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/Untitled.md"
+    "docs/Pasted image 20220504111743.png"
   ]
 }
