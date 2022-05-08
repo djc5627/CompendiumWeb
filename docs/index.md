@@ -1,10 +1,198 @@
 # Home
 
 ## Welcome!
+Welcome to our bird compendium! Each entry contains notes on our personal observations and fun facts on the bird. All photos were taken by us and entries are only created for birds we have photographed. References are provided for more info.
+
+## Birds of Prey
+
+<div class="row" markdown="1">
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Bald Eagle]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Birds of Prey/Eagle/Bald Eagle/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Red-Tailed Hawk]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Birds of Prey/Hawk/Red-Tailed Hawk/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Turkey Vulture]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Birds of Prey/Vulture/Turkey Vulture/)
+</div>
+
+</div>
+</div>
+
+
+</div>
 
 Welcome to our bird compendium! Entries contain notes on our personal observations and fun facts on the birds. All photos were taken by us and entries are only created for birds we have photographed. References are provided for more info.
 
-# Song Birds
+## Doves/Pigeons/Swifts
+
+<div class="row" markdown="1">
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Mourning Dove]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Doves/Mourning Dove/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Rock Pigeon]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Pigeon/Rock Pigeon/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Chimney Swift]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Swift/Chimney Swift/)
+</div>
+
+</div>
+</div>
+
+</div>
+## Sea/Water Birds
+
+<div class="row" markdown="1">
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Seagull]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Sea Bird/Seagull/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Stilt Sandpiper]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Sea Bird/Stilt Sandpiper/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Double-crested Cormorant]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Water Bird/Cormorant/Double-crested Cormorant/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Great Egret]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Water Bird/Egret/Great Egret/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Great Blue Heron]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Water Bird/Heron/Great Blue Heron/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Mallard Duck]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Water Fowl/Duck/Mallard Duck/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Canadian Goose]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Water Fowl/Goose/Canadian Goose/)
+</div>
+
+</div>
+</div>
+
+
+</div>
+## Song Birds
 
 <div class="row" markdown="1">
 
@@ -334,6 +522,64 @@ Welcome to our bird compendium! Entries contain notes on our personal observatio
 </div>
 
 
+
+
+</div>
+## Woodpeckers
+
+<div class="row" markdown="1">
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Downy Woodpecker]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Downy Woodpecker/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Hairy Woodpecker]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Hairy Woodpecker/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Northern Flicker]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Northern Flicker/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Red-bellied Woodpecker]]
+</div>
+<div markdown="1">
+[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Red-bellied Woodpecker/)
+</div>
+
+</div>
+</div>
 
 
 </div>
