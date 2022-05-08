@@ -27,7 +27,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Red-Tailed Hawk]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Birds of Prey/Hawk/Red-Tailed Hawk/)
+[![[Red-Tailed Hawk]]](Birds/Birds of Prey/Hawk/Red-Tailed Hawk/)
 </div>
 
 </div>
@@ -40,7 +40,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Turkey Vulture]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Birds of Prey/Vulture/Turkey Vulture/)
+[![[Turkey Vulture Thumbnail.jpg]]](Birds/Birds of Prey/Vulture/Turkey Vulture/)
 </div>
 
 </div>
@@ -61,7 +61,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Mourning Dove]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Doves/Mourning Dove/)
+[![[Mourning Dove Thumbnail.jpg]]](Birds/Doves/Mourning Dove/)
 </div>
 
 </div>
@@ -74,7 +74,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Rock Pigeon]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Pigeon/Rock Pigeon/)
+[![[Rock Pigeon Thumbnail.jpg]]](Birds/Pigeon/Rock Pigeon/)
 </div>
 
 </div>
@@ -106,7 +106,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Seagull]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Sea Bird/Seagull/)
+[![[Seagull Thumbnail.jpg]]](Birds/Sea Bird/Seagull/)
 </div>
 
 </div>
@@ -132,7 +132,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Double-crested Cormorant]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Water Bird/Cormorant/Double-crested Cormorant/)
+[![[Double-crested Cormorant Thumbnail.jpg]]](Birds/Water Bird/Cormorant/Double-crested Cormorant/)
 </div>
 
 </div>
@@ -158,7 +158,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Great Blue Heron]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Water Bird/Heron/Great Blue Heron/)
+[![[Great Blue Heron Thumbnail.jpg]]](Birds/Water Bird/Heron/Great Blue Heron/)
 </div>
 
 </div>
@@ -171,7 +171,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Mallard Duck]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Water Fowl/Duck/Mallard Duck/)
+[![[Mallard Duck Thumbnail.jpg]]](Birds/Water Fowl/Duck/Mallard Duck/)
 </div>
 
 </div>
@@ -184,7 +184,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Canadian Goose]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Water Fowl/Goose/Canadian Goose/)
+[![[Canadian Goose Thumbnail.jpg]]](Birds/Water Fowl/Goose/Canadian Goose/)
 </div>
 
 </div>
@@ -204,7 +204,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Northern Cardinal]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Cardinal/Northern Cardinal/)
+[![[Northern Cardinal Thumbnail.jpg]]](Birds/Song Bird/Cardinal/Northern Cardinal/)
 </div>
 
 </div>
@@ -243,7 +243,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[House Finch]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Finch/House Finch/)
+[![[House Finch]]](Birds/Song Bird/Finch/House Finch/)
 </div>
 
 </div>
@@ -256,7 +256,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Blue Jay]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Jay/Blue Jay/)
+[![[Blue Jay Thumbnail.jpg]]](Birds/Song Bird/Jay/Blue Jay/)
 </div>
 
 </div>
@@ -295,7 +295,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Northern Mockingbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Mocking Bird/Northern Mockingbird/)
+[![[Northern Mockingbird]]](Birds/Song Bird/Mocking Bird/Northern Mockingbird/)
 </div>
 
 </div>
@@ -347,7 +347,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[White-breasted Nuthatch]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Nuthatch/White-breasted Nuthatch/)
+[![[White-breasted Nuthatch Thumbnail.jpg]]](Birds/Song Bird/Nuthatch/White-breasted Nuthatch/)
 </div>
 
 </div>
@@ -360,7 +360,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[American Robin]]
 </div>
 <div markdown="1">
-[![[American Robin Thumbnail.jpg]]]nail.jpg]]](Birds/Song Bird/Robin/American Robin/)
+[![[American Robin Thumbnail.jpg]]](Birds/Song Bird/Robin/American Robin/)
 </div>
 
 </div>
@@ -386,7 +386,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Dark-eyed Junco]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Dark-eyed Junco/)
+[![[Dark-eyed Junco Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Dark-eyed Junco/)
 </div>
 
 </div>
@@ -412,7 +412,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Song Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Song Sparrow/)
+[![[Song Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Song Sparrow/)
 </div>
 
 </div>
@@ -464,7 +464,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Palm Warbler]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Warbler/Palm Warbler/)
+[![[Palm Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Palm Warbler/)
 </div>
 
 </div>
@@ -529,7 +529,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Tufted Titmouse]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Tufted Titmouse/)
+[![[Tufted Titmouse Thumbnail.jpg]]](Birds/Song Bird/Tufted Titmouse/)
 </div>
 
 </div>
@@ -551,7 +551,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Downy Woodpecker]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Downy Woodpecker/)
+[![[Downy Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Downy Woodpecker/)
 </div>
 
 </div>
@@ -564,7 +564,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Hairy Woodpecker]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Hairy Woodpecker/)
+[![[Hairy Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Hairy Woodpecker/)
 </div>
 
 </div>
@@ -577,7 +577,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Northern Flicker]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Northern Flicker/)
+[![[Northern Flicker Thumbnail.jpg]]](Birds/Woodpecker/Northern Flicker/)
 </div>
 
 </div>
