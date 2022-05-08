@@ -9,6 +9,8 @@ Entry Date: 2022-02-01
 ![Imgur|275](https://i.imgur.com/KOv2iQj.png)
 *House Sparrow on our deck*
 
+![[House Sparrow Thumbnail.jpg]]
+
 ---------------------------------------------------------------
 ## Notes
 House Sparrows are extremely aggressive birds that attack, harass, and even kill adult native birds, often not for food. They overwhelm bird feeders driving native birds away. Eat the "poop sacs" of other birds like Finches.
