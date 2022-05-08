@@ -3,23 +3,24 @@ image: <CoverImageURL>
 ---
 
 # Bald Eagle
-2022-05-0317:08
-Tags: #bird/eagle
+Entry Date: 2022-05-03
 
+Main image here
 
-Main Image here
-
----------------------------------------------------------------
-# **Notes**
+*Bald Eagle soaring over the trees at the Great Swamp*
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/GreatSwampRefuge-NJ 
+## Notes
 
 ---------------------------------------------------------------
-# **Photos**
+## Sightings
+
+-> #location/GreatSwampRefuge-NJ 
+
+---------------------------------------------------------------
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
-- [AllAboutBirds](linkUrl)
+## References
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Bald_Eagle/overview)

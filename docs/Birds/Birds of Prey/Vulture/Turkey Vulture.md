@@ -3,24 +3,25 @@ image: <CoverImageURL>
 ---
 
 # Turkey Vulture
-2022-04-2810:17
-Tags: #bird/vulture
+Entry Date: 2022-04-28
 
+![[Turkey Vulture Thumbnail.jpg]]
 
-Main Image here
+*Turkey Vulture soaring high above the trees at Harriman State Park*
 
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 Ugly bird that is often seen flying high up circling their prey.
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/HarrimanStatePark
+## Sightings
+
+-> #location/HarrimanStatePark
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Turkey_Vulture/overview)

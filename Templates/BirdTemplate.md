@@ -5,8 +5,9 @@ image: <CoverImageURL>
 # {{title}}
 Entry Date: {{date}}
 
-
 Main Image here
+
+*Image caption here*
 
 ---------------------------------------------------------------
 ## Notes
