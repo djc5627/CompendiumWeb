@@ -590,7 +590,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Red-bellied Woodpecker]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Woodpecker/Red-bellied Woodpecker/)
+[![[Red-bellied Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Red-bellied Woodpecker/)
 </div>
 
 </div>
