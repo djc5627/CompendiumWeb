@@ -3,24 +3,26 @@ image: <CoverImageURL>
 ---
 
 # Hairy Woodpecker
-2022-04-2910:29
-Tags: #bird
+Entry Date: 2022-04-29
 
 
-Main Image here
+![[Hairy Woodpecker Thumbnail.jpg]]
+
+*Hairy Woodpecker at Rahway River Park foraging*
 
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 Looks extremely similar to the [Downy Woodpecker] but has slightly longer beak and is a bit larger. First seen foraging on the ground at Rahway River Park. 
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/RahwayRiverPark-Rahway-NJ 
+## Sightings
+
+-> #location/RahwayRiverPark-Rahway-NJ 
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Hairy_Woodpecker/overview)

@@ -3,23 +3,25 @@ image: <CoverImageURL>
 ---
 
 # Gray Catbird
-2022-05-0316:38
-Tags: #bird
+Entry Date: 2022-05-03
 
 
 Main Image here
 
----------------------------------------------------------------
-# **Notes**
+*Desc*
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/HawkRiseSanctuary-Linden-NJ 
+## Notes
 
 ---------------------------------------------------------------
-# **Photos**
+## Sightings
+
+-> #location/HawkRiseSanctuary-Linden-NJ 
+
+---------------------------------------------------------------
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Gray_Catbird/overview)

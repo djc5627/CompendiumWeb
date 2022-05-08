@@ -3,25 +3,26 @@ image: <CoverImageURL>
 ---
 
 # Double-crested Cormorant
-2022-04-1211:12
-Tags: #bird/waterbird
+Entry Date: 2022-04-12
 
 
-## ![Imgur|425](https://i.imgur.com/UKoWMCM.png)
-#location/WarinancoPark-Roselle-NJ 
-Juvenile (right) and Breeding Male (left) Cormorants on paddle boat.
+![[Double-crested Cormorant Thumbnail.jpg]]
+
+*Juvenile (right) and Breeding Male (left) Cormorants on paddle boat at Warinanco Park.*
 
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 First seen at Warinanco park where an adult male and juvenile were standing on paddle boat in middle of water. They were there the entire time we were at the park floating around in the paddle boat they were also pooping into. They looked so different we thought it was two different species of bird. We also saw one diving around the water like submarine looking for food.
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/WarinancoPark-Roselle-NJ 
--   #location/RahwayRiverPark-Rahway-NJ 
+## Sightings
+
+-> #location/WarinancoPark-Roselle-NJ 
+
+-> #location/RahwayRiverPark-Rahway-NJ 
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-z1RNYqlyWZTcUgJF?e=eKplBi)
 
 ## ![OneDrive|425](https://sat02pap001files.storage.live.com/y4mKvKkMtRUmkU3KquPEYRTZR30OEMYQHQXLNcUrmi1lFJ6pjitNOzKkZtArRBqqZTCNRcDkEIKS5c-LsCjViB_dPm-hEpm1GXiiS9MwBLntJ9MFHuPkXu_DCHuIHcRCygOQ9t4QseappC9VSkLmb2RXT7FFIMZW2Pe1OZgY_WSSwVk6batjlh8B3qFMxo_9cnB?encodeFailures=1&width=714&height=893)
@@ -36,5 +37,5 @@ Juvenile (Back) and Breeding Male (Front) Cormorants on paddle boat.
 
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Double-crested_Cormorant/id)

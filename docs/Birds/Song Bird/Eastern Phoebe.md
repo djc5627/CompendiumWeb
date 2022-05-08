@@ -3,26 +3,26 @@ image: <CoverImageURL>
 ---
 
 # Eastern Phoebe
-2022-04-1223:37
-Tags: #bird/songbird 
+Entry Date: 2022-04-12
 
 
-## ![Imgur|475](https://i.imgur.com/6Do7SYD.png)
-#location/WarinancoPark-Roselle-NJ 
-High up in the trees by the water.
+![[Eastern Phoebe Thumbnail.jpg]]
+
+*High up in the trees at Warinanco Park*
 
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 At first thought this one was a Dark Eyed Junco. Seen very high up on tree canopy.
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/WarinancoPark-Roselle-NJ 
+## Sightings
+
+-> #location/WarinancoPark-Roselle-NJ 
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-z2ELJyWFBb1-iGBj?e=3qdmcU)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Eastern_Phoebe/overview)

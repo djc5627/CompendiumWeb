@@ -3,28 +3,27 @@ image: https://sat02pap001files.storage.live.com/y4m0qWHtdYd5aWG0HKGa7PPLZXGPQJE
 ---
 
 # Canadian Goose
-2022-01-3100:59
-Tags: #bird/goose
+Entry Date: 2022-01-31
 
-## ![OneDrive|175](https://sat02pap001files.storage.live.com/y4ml1plpkrjGGrpYLl5F2q3nmqhnp0DVnic2IQps7GMpQjEYhumaMhdAhEXGDacsSCu-q0S63TuAIVK0XXGB_2FW6MBWg5Etz-VXRIMg4yw52f8KthbdsZ3fb15C4nk8k4l32Dg-vWyWYA3wKSa-Ry1KCbPIxT8D-5C6rSwu77DjDnOJoo8hvdOBYvNlnv3R8uWLZLDQxEUn2AlTTQfb3o-mxIVI6ATkf8wQkSxIFrpCKk?encodeFailures=1&width=1339&height=893)
-[OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-xluDZssdDW422RZm)
-#location/Boston-MA
-Canadian Goose by Boston waters
+![[Canadian Goose Thumbnail.jpg]]
 
-
+*Canadian Goose by the dam at Rahway River Park.*
 
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 Pretty commonly seen in our area. Very territorial and start hissing if get too close. At the park they moved together like a mob and alerted each if anything got too close.
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/Boston-MA
--   #location/EspositoPark-Clark-NJ
--   #location/WarinancoPark-Roselle-NJ
+## Sightings
+
+-> #location/Boston-MA
+
+-> #location/EspositoPark-Clark-NJ
+
+-> #location/WarinancoPark-Roselle-NJ
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-xjvQ7hkXlNcqlpd1?e=osPKCB)
 
 ## ![OneDrive|625](https://sat02pap001files.storage.live.com/y4ma1wsMNlJJPhB7twwIcB6RjoqcYSTCdI3JcUi8kaGt7ZRefzLLLbzRNxPDGMyZAzi_upCYnZgYjuTZdv7siLWqq06kkh7ccabRHOfk55c_5gFSBX3ZdFexrL-OWaKlyVRHiXJ1qL44gUU0FLlTRe_434EOCNZevf19X2Kjg9p_abcqJSEzc9z9mVzRAvnvczd2rKolV5HJU8ZT669FQ3Slj_oXPu849T_z5qZYRGZTaM?encodeFailures=1&width=1339&height=893)
@@ -33,5 +32,5 @@ OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-xjvQ7hkXlNcqlpd1?e=os
 Canadian Goose by Boston waters
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Canada_Goose/id)

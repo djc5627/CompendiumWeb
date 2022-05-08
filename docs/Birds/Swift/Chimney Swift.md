@@ -3,24 +3,26 @@ image: <CoverImageURL>
 ---
 
 # Chimney Swift
-2022-05-0316:34
-Tags: #bird/swift
+Entry Date: 2022-05-03
 
 
 Main Image here
 
+*Desc*
+
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 Seen flying around in rapid swarms over Jackson Pond eating insects.
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/RahwayRiverPark-Rahway-NJ 
+## Sightings
+
+-> #location/RahwayRiverPark-Rahway-NJ 
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](linkUrl)

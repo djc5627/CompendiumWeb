@@ -3,27 +3,29 @@ image: <CoverImageURL>
 ---
 
 # Townsend Solitaire
-2022-01-3101:25
-Tags: #bird/songbird
-
+Entry Date: 2022-01-31
 
 Main Image here
 
+*Desc*
 
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 Uncommonly seen at home and at Esposito Park. Photographed at Lake Skannatai Lichen trail in Harriman State Park.
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/Home-Clark-NJ 
--   #location/EspositoPark-Clark-NJ
--   #location/HarrimanStatePark 
+## Sightings
+
+-> #location/Home-Clark-NJ 
+
+-> #location/EspositoPark-Clark-NJ
+
+-> #location/HarrimanStatePark 
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Townsends_Solitaire/id)

@@ -3,25 +3,28 @@ image: <CoverImageURL>
 ---
 
 # Chipping Sparrow
-2022-04-2810:16
-Tags: #bird/sparrow #bird/songbird 
+Entry Date: 2022-04-28
 
 
 Main Image here
 
+*Desc*
+
 ---------------------------------------------------------------
-# **Notes**
+## Notes
 Often foraging from the ground or our window bird feeder. Got its name from repeated chipping sound they make.
 
 ---------------------------------------------------------------
-# Seen at:
--   #location/Home-Clark-NJ 
--   #location/EspositoPark-Clark-NJ 
+## Sightings
+
+-> #location/Home-Clark-NJ 
+
+-> #location/EspositoPark-Clark-NJ 
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/Chipping_Sparrow/overview)

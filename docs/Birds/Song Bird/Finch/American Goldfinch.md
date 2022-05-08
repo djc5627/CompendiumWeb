@@ -3,25 +3,29 @@ image: <CoverImageURL>
 ---
 
 # American Goldfinch
-2022-04-2812:12
-Tags: #bird/finch 
+Entry Date: 2022-04-28
 
 
-Main Image here
+![[American Goldfinch Thumbnail.jpg]]
 
----------------------------------------------------------------
-# **Notes**
+*American Goldfinch on a tree at Esposito Park.*
 
 ---------------------------------------------------------------
-# Seen at:
-- #location/EspositoPark-Clark-NJ
-#location/EspositoPark-Clark-NJ
+## Notes
+
+---------------------------------------------------------------
+## Sightings
+
+-> #location/EspositoPark-Clark-NJ
+
+-> #location/EspositoPark-Clark-NJ
+
 -> #location/EspositoPark-Clark-NJ
 
 ---------------------------------------------------------------
-# **Photos**
+## Photos
 OneDrive Album: [OneDrive](link here)
 
 ---------------------------------------------------------------
-# References
+## References
 - [AllAboutBirds](https://www.allaboutbirds.org/guide/American_Goldfinch/overview)
