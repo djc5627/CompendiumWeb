@@ -269,7 +269,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Gold-crowned Kinglet]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Gold-crowned Kinglet/)
+[![[Gold-crowned Kinglet Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Gold-crowned Kinglet/)
 </div>
 
 </div>
@@ -451,7 +451,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Black-and-white Warbler]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
+[![[Black-and-white Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
 </div>
 
 </div>
@@ -503,7 +503,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Eastern Phoebe]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Eastern Phoebe/)
+[![[Eastern Phoebe Thumbnail.jpg]]](Birds/Song Bird/Eastern Phoebe/)
 </div>
 
 </div>
