@@ -12,7 +12,7 @@ Entry Date: 2022-04-29
 
 ---------------------------------------------------------------
 ## Notes
-Looks extremely similar to the [Downy Woodpecker] but has slightly longer beak and is a bit larger. First seen foraging on the ground at Rahway River Park. 
+Looks extremely similar to the [[Downy Woodpecker]] but has slightly longer beak and is a bit larger. First seen foraging on the ground at Rahway River Park. 
 
 ---------------------------------------------------------------
 ## Sightings

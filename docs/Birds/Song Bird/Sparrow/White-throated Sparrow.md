@@ -12,7 +12,7 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Notes
-From far away, assumed they were a house sparrow or song sparrow, not until zoomed in that I saw had yellow brows. I wonder how many we mistake for more common sparrows.
+From far away, assumed they were a [[House Sparrow]] or [[Song Sparrow]], not until zoomed in that I saw had yellow brows. I wonder how many we had mistaken for more common sparrows. Very distinct call that is heard all around during Spring.
 
 ---------------------------------------------------------------
 ## Sightings

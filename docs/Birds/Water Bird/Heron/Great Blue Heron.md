@@ -11,7 +11,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-Not seen to often and often very far away and hard to photograph. Often seen near bodies of water gliding just above the water's surface. Seen several times at Watchung Reservation's surprise lake.
+Not seen too often and usually very far away and hard to photograph. Seen near bodies of water gliding just above the water's surface. Several sightings at Watchung Reservation's surprise lake.
 
 ---------------------------------------------------------------
 ## Sightings

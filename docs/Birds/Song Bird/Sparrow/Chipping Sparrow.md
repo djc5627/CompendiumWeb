@@ -12,7 +12,7 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Notes
-Often foraging from the ground or our window bird feeder. Got its name from repeated chipping sound they make.
+Often foraging from the ground or our window bird feeder. Got its name from repeated chipping sound they make. Can be easily identified by the red/brown cap on their heads.
 
 ---------------------------------------------------------------
 ## Sightings

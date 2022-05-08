@@ -12,7 +12,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-A type of Sparrow. Also called Snow Bird. Hop around when moving on ground. They seem to like eating feed off the ground more than from the feeder. We saw them a lot in our yard after snowfall Jan 2022.
+A type of Sparrow. Also called Snow Bird. They seem to like eating feed off the ground more than from the feeder. Hop around the ground instead of walking. We saw them a lot in our yard after snowfall Jan 2022.
 
 ---------------------------------------------------------------
 ## Sightings

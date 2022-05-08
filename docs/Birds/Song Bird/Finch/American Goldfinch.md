@@ -13,12 +13,10 @@ Entry Date: 2022-04-28
 ---------------------------------------------------------------
 ## Notes
 
+Easy to spot due to their bright yellow color even thought they are a relatively small bird. Often seen in pairs in the mid-to-high tree level at Esposito Park.
+
 ---------------------------------------------------------------
 ## Sightings
-
--> #location/EspositoPark-Clark-NJ
-
--> #location/EspositoPark-Clark-NJ
 
 -> #location/EspositoPark-Clark-NJ
 

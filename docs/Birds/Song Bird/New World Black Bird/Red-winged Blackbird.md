@@ -12,7 +12,7 @@ Main Image Here
 
 ---------------------------------------------------------------
 ## Notes
-Prefer to eat from the ground. Seen once or twice at bird feeder but not common. They have a very distinct "two-stage" call that we quickly became familiar with at Warinanco park. A lot of these tend to congregate at Jackson Pond portion of Rahway River Park.
+Prefer to eat from the ground. Seen once or twice at bird feeder but not common. They have a very distinct "two-stage" call that we quickly became familiar with at Warinanco park. A lot of these tend to congregate at Jackson Pond portion of Rahway River Park as well as Hawk Rise Sanctuary. They seem to really like wide-open marshy areas with tall grass.
 
 ---------------------------------------------------------------
 ## Sightings

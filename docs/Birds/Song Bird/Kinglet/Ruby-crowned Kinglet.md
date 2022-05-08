@@ -12,7 +12,7 @@ Main Image Here
 
 ---------------------------------------------------------------
 ## Notes
-This bird was very high up in the trees and moving erratically (apparently they all do). The males have a bright red crown that they show when excited.
+This bird was very high up in the trees and moving erratically (apparently they all do). The males have a bright red crown that they show when excited but we have not seen yet.
 
 ---------------------------------------------------------------
 ## Sightings

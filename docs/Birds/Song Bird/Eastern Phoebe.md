@@ -12,7 +12,7 @@ Entry Date: 2022-04-12
 
 ---------------------------------------------------------------
 ## Notes
-At first thought this one was a Dark Eyed Junco. Seen very high up on tree canopy.
+At first thought this one was a [[Dark-eyed Junco]]. Seen very high up on tree canopy.
 
 ---------------------------------------------------------------
 ## Sightings

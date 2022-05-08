@@ -11,7 +11,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-Sometimes seen at our bird feeder or large dead tree in neighbor's yard. Been a while since we seen him, last seen more often around summer of 2021.
+Sometimes seen at our bird feeder or large dead tree in neighbor's yard. Been a while since we seen him at our feeder, seen more often around summer of 2021. Otherwise, a fairly common woodpecker spotted easily at parks with taller trees.
 
 Fun fact: Woodpeckers can wrap their tongues around their brain to protect against high-speed pecking.
 

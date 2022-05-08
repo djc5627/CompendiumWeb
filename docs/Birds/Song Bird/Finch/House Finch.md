@@ -12,7 +12,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-Eat the "poop sacs" of other birds like [[Sparrow]]. Seen less often than sparrows at our house/feeder. Easy to spot with their distinct red head.
+Eat the "poop sacs" of other birds like the [[House Sparrow]]. Seen less often than sparrows at our house/feeder. Easy to spot with their distinct red head. You can buy special feeders and feed meant to attract finches.
 
 ---------------------------------------------------------------
 ## Sightings

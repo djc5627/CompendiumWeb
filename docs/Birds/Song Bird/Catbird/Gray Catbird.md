@@ -13,6 +13,8 @@ Main Image here
 ---------------------------------------------------------------
 ## Notes
 
+Easy to identify by their cat-like mew sound. Their songs can last for up to 10 minutes and they love eating fruit.
+
 ---------------------------------------------------------------
 ## Sightings
 

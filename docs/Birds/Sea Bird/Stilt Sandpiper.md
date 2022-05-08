@@ -18,7 +18,6 @@ Small birds seen as the shore of beaches. They move their feet very quickly in a
 
 -> #location/BradleyBeach-NJ
 
--> #location/EspositoPark-Clark-NJ
 
 ---------------------------------------------------------------
 ## Photos

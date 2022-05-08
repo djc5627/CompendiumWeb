@@ -12,7 +12,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-Mallard ducks are noisy, specially when someone is approaching them. They quickly let each know of any approaching threats and swim away. They like to travel in groups.
+Mallard ducks are noisy, specially when someone is approaching them. They quickly let each other know of any approaching threats and swim away. They like to travel in groups.
 
 ---------------------------------------------------------------
 ## Sightings

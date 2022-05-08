@@ -12,7 +12,7 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Notes
-Seen at the Great Swamp immediately walking out of the well-named "Bluebird Parking Lot".
+Seen at the Great Swamp immediately walking out of the well-named "Bluebird Parking Lot". They seem to like open areas with tall grass similar to the [[Red-winged Blackbird]].
 
 ---------------------------------------------------------------
 ## Sightings

@@ -16,7 +16,7 @@ European Starlings have a distinct white speckle on black pattern that makes the
 
 Fun facts:
 - European Starlings can actually mimic sounds, even human speech
-- European Starlings are actually smart birds
+- European Starlings are actually very smart birds
 
 ---------------------------------------------------------------
 ## Sightings

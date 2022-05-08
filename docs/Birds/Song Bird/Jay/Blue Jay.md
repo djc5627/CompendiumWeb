@@ -12,7 +12,7 @@ Entry Date: 2022-01-30
 ---------------------------------------------------------------
 ## Notes
 
-Fast movements, jump on ground to get around. Very loud and noisy. Vibrant blue colors. Often travels in packs. Likes to eat shelled peanuts (good bait). 
+Fast movements, jump on ground to get around. Very loud and noisy and have very different sets of calls depending on the situation. Vibrant blue colors. Often travels in packs. Likes to eat shelled peanuts (good bait). 
 
 ---------------------------------------------------------------
 ## Sightings

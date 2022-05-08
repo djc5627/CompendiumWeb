@@ -12,7 +12,7 @@ Entry Date: 2022-04-12
 
 ---------------------------------------------------------------
 ## Notes
-Thought this one was a White-throated Sparrow but then realized he had one yellow streak on top of his head instead of yellow brows.
+Thought this one was a [[White-throated Sparrow]] but then realized he had one yellow streak on top of his head instead of yellow brows.
 
 ---------------------------------------------------------------
 ## Sightings

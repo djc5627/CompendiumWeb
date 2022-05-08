@@ -11,7 +11,7 @@ Entry Date: 2022-04-29
 
 ---------------------------------------------------------------
 ## Notes
-Saw this bird on my first visit to Rahway River Park as soon as I stepped out of the car. Showing the pictures to my mom she pointed out that the bird was walking upside down on tree branches and the AllAboutBirds confirmed that was common behavior. The back feather pattern looks similar to Blue Jay.
+Saw this bird on my first visit to Rahway River Park as soon as I stepped out of the car. Showing the pictures to my mom she pointed out that the bird was walking upside down on tree branches and the AllAboutBirds confirmed that was common behavior. The back feather pattern looks similar to [[Blue Jay]].
 
 ---------------------------------------------------------------
 ## Sightings
