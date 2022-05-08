@@ -27,7 +27,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Red-Tailed Hawk]]
 </div>
 <div markdown="1">
-[![[Red-Tailed Hawk]]](Birds/Birds of Prey/Hawk/Red-Tailed Hawk/)
+[![[Red-tailed Hawk Thumbnail.jpg]]](Birds/Birds of Prey/Hawk/Red-Tailed Hawk/)
 </div>
 
 </div>
@@ -243,7 +243,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[House Finch]]
 </div>
 <div markdown="1">
-[![[House Finch]]](Birds/Song Bird/Finch/House Finch/)
+[![[House Finch Thumbnail.jpg]]](Birds/Song Bird/Finch/House Finch/)
 </div>
 
 </div>
@@ -295,7 +295,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Northern Mockingbird]]
 </div>
 <div markdown="1">
-[![[Northern Mockingbird]]](Birds/Song Bird/Mocking Bird/Northern Mockingbird/)
+[![[Northern Mockingbird Thumbnail.jpg]]](Birds/Song Bird/Mocking Bird/Northern Mockingbird/)
 </div>
 
 </div>
