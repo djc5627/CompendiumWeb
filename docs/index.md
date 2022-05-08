@@ -321,7 +321,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Grackle]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Grackle/)
+[![[Grackle Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Grackle/)
 </div>
 
 </div>
@@ -438,7 +438,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[European Starling]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Starling/European Starling/)
+[![[European Starling Thumbnail.jpg]]](Birds/Song Bird/Starling/European Starling/)
 </div>
 
 </div>
