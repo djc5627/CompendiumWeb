@@ -516,7 +516,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Black-throated Blue Warbler]]
 </div>
 <div markdown="1">
-[![[Black-throated Blue Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
+[![[Black-throated Blue Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-throated Blue Warbler/)
 </div>
 
 </div>
@@ -529,7 +529,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Blue-winged Warbler]]
 </div>
 <div markdown="1">
-[![[Blue-winged Warbler.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
+[![[Blue-winged Warbler.jpg]]](Birds/Song Bird/Warbler/Blue-winged Warbler/)
 </div>
 
 </div>

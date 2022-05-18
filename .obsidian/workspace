@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Woodpecker/Red-bellied Woodpecker.md",
+            "file": "docs/Birds/Song Bird/Starling/European Starling.md",
             "mode": "preview",
             "source": true
           }
@@ -20,8 +20,26 @@
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Starling/European Starling.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":17.20189552567776}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/American Goldfinch.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":12.3671875}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Seagull.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":12.30379746835443}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Woodpecker/Red-bellied Woodpecker.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":22.75390625}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "6cb75ababa603e44",
@@ -118,24 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":159},\"to\":{\"line\":13,\"ch\":159}},\"scroll\":1.2666666666666666}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/Song Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Vulture/Turkey Vulture.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -146,14 +146,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Water Fowl/Duck/Mallard Duck.md",
-            "mode": "preview",
-            "source": false
+            "file": "docs/index.md",
+            "mode": "source",
+            "source": true
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "41797a2f43c30127",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":495.873046875}"
+            },
             {
               "leaf": "41797a2f43c30127",
               "group": null,
@@ -225,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Woodpecker/Red-bellied Woodpecker.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,17 +305,17 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "6cb75ababa603e44",
+  "active": "41797a2f43c30127",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Birds/Song Bird/Starling/European Starling.md",
+    "docs/Birds/Water Fowl/Duck/Mallard Duck.md",
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
+    "docs/Birds/Sea Bird/Seagull.md",
     "docs/Birds/Woodpecker/Red-bellied Woodpecker.md",
     "docs/Birds/Woodpecker/Northern Flicker.md",
     "docs/Birds/Woodpecker/Hairy Woodpecker.md",
     "docs/Birds/Woodpecker/Downy Woodpecker.md",
-    "docs/Birds/Water Fowl/Goose/Canadian Goose.md",
-    "docs/Birds/Water Fowl/Duck/Wood Duck.md",
-    "docs/Birds/Water Fowl/Duck/Mallard Duck.md",
-    "docs/index.md",
-    "docs/Birds/Water Bird/Heron/Great Blue Heron.md",
-    "docs/Birds/Water Bird/Egret/Great Egret.md"
+    "docs/Birds/Water Fowl/Goose/Canadian Goose.md"
   ]
 }
