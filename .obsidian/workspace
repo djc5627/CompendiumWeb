@@ -146,8 +146,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "source",
+            "file": "docs/Birds/Song Bird/Finch/American Goldfinch.md",
+            "mode": "preview",
             "source": true
           }
         },
@@ -157,8 +157,20 @@
             {
               "leaf": "41797a2f43c30127",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/American Goldfinch.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":13.9269717624148}"
+            },
+            {
+              "leaf": "41797a2f43c30127",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/House Finch.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "41797a2f43c30127",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":495.873046875}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":531,\"ch\":66},\"to\":{\"line\":531,\"ch\":66}},\"scroll\":505.1240234375}"
             },
             {
               "leaf": "41797a2f43c30127",
@@ -231,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/Finch/American Goldfinch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,15 +319,15 @@
   },
   "active": "41797a2f43c30127",
   "lastOpenFiles": [
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
+    "docs/Birds/Song Bird/Finch/House Finch.md",
     "docs/index.md",
     "docs/Birds/Song Bird/Starling/European Starling.md",
     "docs/Birds/Water Fowl/Duck/Mallard Duck.md",
-    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
     "docs/Birds/Sea Bird/Seagull.md",
     "docs/Birds/Woodpecker/Red-bellied Woodpecker.md",
     "docs/Birds/Woodpecker/Northern Flicker.md",
     "docs/Birds/Woodpecker/Hairy Woodpecker.md",
-    "docs/Birds/Woodpecker/Downy Woodpecker.md",
-    "docs/Birds/Water Fowl/Goose/Canadian Goose.md"
+    "docs/Birds/Woodpecker/Downy Woodpecker.md"
   ]
 }
