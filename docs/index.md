@@ -61,7 +61,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Mourning Dove]]
 </div>
 <div markdown="1">
-[![[Mourning Dove Thumbnail.jpg]]](Birds/Doves/Mourning Dove/)
+[![[Mourning Dove Thumbnail.jpg]]](Birds/Dove/Mourning Dove/)
 </div>
 
 </div>
@@ -646,7 +646,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Townsend Solitaire]]
 </div>
 <div markdown="1">
-[![[Townsend Solitaire Thumbnail.jpg]]](Birds/Song Bird/Solitaire/Townsend Solitaire/)
+[![[Townsend Solitaire Thumbnail.jpg]]](Birds/Song Bird/Thrush/Solitaire/Townsend Solitaire/)
 </div>
 
 </div>

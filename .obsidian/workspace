@@ -20,122 +20,122 @@
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Thumbnails/House Sparrow Thumbnail.jpg\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":310,\"ch\":4},\"to\":{\"line\":310,\"ch\":9}},\"scroll\":265.7142857142857}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Nuthatch/White-breasted Nuthatch.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":63},\"to\":{\"line\":11,\"ch\":63}}}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":162.64285714285714}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Swallow/Barn Swallow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":3.571428571428571}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Swallow/Tree Swallow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":69},\"to\":{\"line\":25,\"ch\":69}}}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Swallow/Barn Swallow.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":97.32142857142857}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":580,\"ch\":8},\"to\":{\"line\":580,\"ch\":8}},\"scroll\":538.3571428571429}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Thrush/Veery.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":39},\"to\":{\"line\":17,\"ch\":39}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":429.64285714285717}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/American Goldfinch.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Black-and-white Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Black-throated Blue Warbler.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":429.64285714285717}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Blue-winged Warbler.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":0}}}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"linkUrl.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Blue-winged Warbler.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":455.64285714285717}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Common Yellowthroat.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":76},\"to\":{\"line\":25,\"ch\":76}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Ovenbird.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Palm Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Palm Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "390c1e3914555b6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/Yellow Warbler.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":33},\"to\":{\"line\":17,\"ch\":33}},\"scroll\":0}"
             },
             {
               "leaf": "390c1e3914555b6c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":467,\"ch\":6},\"to\":{\"line\":467,\"ch\":6}},\"scroll\":442.64285714285717}"
-            },
-            {
-              "leaf": "390c1e3914555b6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Tit/Chickadee/Black-capped Chickadee.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":559.6428571428571}"
             }
           ]
         }
@@ -362,14 +362,14 @@
   "active": "390c1e3914555b6c",
   "lastOpenFiles": [
     "docs/index.md",
-    "docs/Thumbnails/House Sparrow Thumbnail.jpg",
-    "docs/Birds/Song Bird/Nuthatch/White-breasted Nuthatch.md",
-    "docs/Birds/Song Bird/Swallow/Barn Swallow.md",
-    "docs/Birds/Water Fowl/Duck/Wood Duck.md",
-    "docs/Birds/Song Bird/Flycatcher/Eastern Kingbird.md",
-    "docs/Birds/Shore Bird/Sandpiper/Lesser Yellowlegs.md",
-    "docs/Birds/Song Bird/Swallow/Tree Swallow.md",
-    "linkUrl.md",
-    "docs/Birds/Song Bird/Sparrow/House Sparrow.md"
+    "docs/Birds/Song Bird/Warbler/Yellow Warbler.md",
+    "docs/Birds/Song Bird/Warbler/Yellow Warbler.md",
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
+    "docs/Birds/Song Bird/Warbler/Black-and-white Warbler.md",
+    "docs/Birds/Song Bird/Warbler/Black-throated Blue Warbler.md",
+    "docs/Birds/Song Bird/Warbler/Blue-winged Warbler.md",
+    "docs/Birds/Song Bird/Warbler/Common Yellowthroat.md",
+    "docs/Birds/Song Bird/Warbler/Ovenbird.md",
+    "docs/Birds/Song Bird/Warbler/Palm Warbler.md"
   ]
 }
