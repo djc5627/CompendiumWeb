@@ -6,13 +6,13 @@ image: <CoverImageURL>
 Entry Date: 2022-04-12
 
 
-Main Image Here
+![[Red-winged Blackbird Thumbnail.jpg]]
 
-*Desc*
+*Red-winged Blackbird squawking at Best Lake in Watchung*
 
 ---------------------------------------------------------------
 ## Notes
-Prefer to eat from the ground. Seen once or twice at bird feeder but not common. They have a very distinct "two-stage" call that we quickly became familiar with at Warinanco park. A lot of these tend to congregate at Jackson Pond portion of Rahway River Park as well as Hawk Rise Sanctuary. They seem to really like wide-open marshy areas with tall grass.
+Prefer to eat from the ground. Seen in flocks at bird feeder but not common. They have a very distinct "two-stage" call that we quickly became familiar with at Warinanco park. A lot of these tend to congregate at Jackson Pond portion of Rahway River Park as well as Hawk Rise Sanctuary and Great Swamp. They seem to really like wide-open marshy areas with tall grass.
 
 ---------------------------------------------------------------
 ## Sightings
@@ -24,6 +24,8 @@ Prefer to eat from the ground. Seen once or twice at bird feeder but not common.
 -> #location/HawkRiseSanctuary-Linden-NJ
 
 -> #location/GreatSwampRefuge-NJ
+
+-> #location/BestLake-Watchung-NJ 
 
 ---------------------------------------------------------------
 ## Photos

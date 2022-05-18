@@ -8,11 +8,11 @@ Entry Date: 2022-01-31
 
 ![[Grackle Thumbnail.jpg]]
 
-*Grackle on our bird feeder pole*
+*Grackle on fallen tree at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
-Grackles are known for being pests to most other birds. They commonly raid nests, eating young birds and eggs. Grackles commonly eat adult [[House Sparrow]].
+Grackles are known for being pests to most other birds. They commonly raid nests, eating young birds and eggs. Grackles sometimes eat adult [[House Sparrow]] and garbage.
 
 ---------------------------------------------------------------
 ## Sightings

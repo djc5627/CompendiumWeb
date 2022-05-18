@@ -5,12 +5,13 @@ image: <CoverImageURL>
 # Wood Duck
 Entry Date: 2022-05-18
 
-Main Image here
+![[Wood Duck Thumbnail.jpg]]
 
-*Image caption here*
+*Wood Duck soaring over water at Great Swamp Refuge*
 
 ---------------------------------------------------------------
 ## Notes
+At first, thought this was a variant of [[Mallard Duck]] but turns out there are many different variants of Wood Duck. Our first sighting was an "Eclipse" variant.
 
 ---------------------------------------------------------------
 ## Sightings
@@ -19,7 +20,7 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2Rv5dPRQCgIS4up9?e=7hu9Sv)
 
 ---------------------------------------------------------------
 ## References

@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Black-capped Chickadee
 Entry Date: 2022-05-17
 
-Main Image here
+![[Black-capped Chickadee Thumbnail.jpg]]
 
-*Image caption here*
+*Black-capped Chickadee on tree at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -21,7 +21,7 @@ Looks similar to [[White-breasted Nuthatch]] but does not walk upside-down on tr
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2SlqH1iIposFXdhl?e=a1hhlg)
 
 ---------------------------------------------------------------
 ## References

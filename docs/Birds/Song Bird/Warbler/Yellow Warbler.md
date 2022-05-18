@@ -5,7 +5,7 @@ image: <CoverImageURL>
 # Yellow Warbler
 Entry Date: 2022-05-17
 
-Main Image here
+![[Yellow Warbler Thumbnail.jpg]]
 
 *Image caption here*
 
@@ -20,7 +20,7 @@ First seen at the Great Swamp Refuge in tall dead grass. Spotted easily due to i
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2Rf3XF29F90e4fZ_?e=Csd1gT)
 
 ---------------------------------------------------------------
 ## References

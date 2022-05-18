@@ -5,12 +5,13 @@ image: <CoverImageURL>
 # Veery
 Entry Date: 2022-05-18
 
-Main Image here
+![[Veery Thumbnail.jpg]]
 
-*Image caption here*
+*Veery on ground foraging at Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes
+Top half of plumage looks similar to [[Ovenbird]] but missing orange cap on head. Seen foraging on the ground.
 
 ---------------------------------------------------------------
 ## Sightings
@@ -19,7 +20,7 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2QTfeyww4sqbIG6A?e=F2V9yX)
 
 ---------------------------------------------------------------
 ## References

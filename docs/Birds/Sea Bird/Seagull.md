@@ -11,7 +11,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-Their actual name is "Gull" and Seagull is more of a nickname. At the beach a Seagull
+Their actual name is "Gull" and Seagull is more of a nickname. At the beach a Seagull broke into our bag and ripped open a pack of candied ginger.
 
 ---------------------------------------------------------------
 ## Sightings
@@ -26,7 +26,7 @@ Their actual name is "Gull" and Seagull is more of a nickname. At the beach a Se
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2Sedwm1YdvT39ZFF?e=ryjVcL)
 
 ---------------------------------------------------------------
 ## References

@@ -22,14 +22,11 @@ Not seen too often and usually very far away and hard to photograph. Seen near b
 
 -> #location/WatchungReservation-NJ
 
+-> #location/GreatSwampRefuge-NJ 
+
 ---------------------------------------------------------------
 ## Photos
 OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-xlLSfPXFvwpXAjlu?e=pgOQJs)
-
-## ![OneDrive](https://sat02pap001files.storage.live.com/y4mAoSBxfhUV7ZgX_QzmraQUtsvFtOasWRr3Hrbjn7z4J5t29lQCS8fwd7VEJpGS6hRguQVb6c3V3h4jOWrPKY27feTsz5CgpYnrTmu1BbeAjjNVehKlha5ePh7P58dCN-eZ0rOa3Mufm0HzMeZIIibpPqN3UqfgTHSTL4Eo0EOS8FNGyBJHtnrUkTH-NOCViil?encodeFailures=1&width=1339&height=893)
-[OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-xlWE8Zcc7XJrdJ6U)
-#location/Morristown-PatriotTrail-NJ 
-Great Blue Heron at Morristown Patriot Trail by a creek
 
 ---------------------------------------------------------------
 ## References

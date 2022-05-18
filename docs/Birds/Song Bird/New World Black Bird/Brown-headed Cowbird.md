@@ -6,13 +6,13 @@ image: <CoverImageURL>
 Entry Date: 2022-01-31
 
 
-Main image here
+[![[Brown-headed Cowbird Thumbnail.jpg]]
 
-*Brown-headed Cowbird at our window feeder*
+*Brown-headed Cowbird on a tree at Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes
-A parasitic bird (brood parasite) that lays their eggs in other bird's nests so they raise their young. Uncommon bird at our house.
+A parasitic bird (brood parasite) that lays their eggs in other bird's nests so they raise their young. Less common bird at our house during Spring and rare in Fall/Winter. Their body plumage look similar to [[Grackle]].
 
 ---------------------------------------------------------------
 ## Sightings

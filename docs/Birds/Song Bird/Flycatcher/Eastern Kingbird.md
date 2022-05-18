@@ -5,12 +5,13 @@ image: <CoverImageURL>
 # Eastern Kingbird
 Entry Date: 2022-05-18
 
-Main Image here
+![[Eastern Kingbird Thumbnail.jpg]]
 
-*Image caption here*
+*Eastern Kingbird on bush at Great Swamp Refuge*
 
 ---------------------------------------------------------------
 ## Notes
+Seen briefly at Great Swamp Refuge and mistook them for a [[White-breasted Nuthatch]].
 
 ---------------------------------------------------------------
 ## Sightings
@@ -19,7 +20,7 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2RJhbGR-5rGa6fL_?e=vJnaSF)
 
 ---------------------------------------------------------------
 ## References

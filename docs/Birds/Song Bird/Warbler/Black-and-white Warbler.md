@@ -11,7 +11,7 @@ Entry Date: 2022-04-28
 
 ---------------------------------------------------------------
 ## Note
-First seen at Esposito Park then Rahway River Park. Move quickly and erratically up tree trunks.
+First seen at Esposito Park then Rahway River Park. Move quickly and erratically up tree trunks. Their plumage looks similar to bottom plumage of [[Ovenbird]].
 
 ---------------------------------------------------------------
 ## Sightings
@@ -22,7 +22,7 @@ First seen at Esposito Park then Rahway River Park. Move quickly and erratically
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-0WBF_RosHyFi0VBV?e=J7nOS9)
 
 ---------------------------------------------------------------
 ## References

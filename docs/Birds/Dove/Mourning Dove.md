@@ -11,7 +11,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-Make a "wooping" sound with their wings when they take off for flight. One of the least intelligent birds; doves will rebuild a fallen nest in the same spot. 
+Make a "wooping" sound with their wings when they take off for flight. One of the least intelligent birds; doves will rebuild a fallen nest in the same spot. When we first heard their "mourning" sound, thought it was an owl.
 
 ---------------------------------------------------------------
 ## Sightings

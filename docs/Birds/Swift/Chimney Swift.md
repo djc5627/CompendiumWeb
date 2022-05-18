@@ -6,13 +6,13 @@ image: <CoverImageURL>
 Entry Date: 2022-05-03
 
 
-Main Image here
+![[Chimney Swift Thumbnail.jpg]]
 
-*Desc*
+*Chimney Swift soaring over Jackson Pond*
 
 ---------------------------------------------------------------
 ## Notes
-Seen flying around in rapid swarms over Jackson Pond eating insects.
+Seen flying around in rapid swarms over Jackson Pond eating insects. Move erratically which makes getting a photo difficult. Also called the Cigar Bird.
 
 ---------------------------------------------------------------
 ## Sightings
@@ -21,8 +21,8 @@ Seen flying around in rapid swarms over Jackson Pond eating insects.
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-1g3XalK14M7LjCtP?e=yCZG4R)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Chimney_Swift/overview)

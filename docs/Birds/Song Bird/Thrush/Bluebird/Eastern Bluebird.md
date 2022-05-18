@@ -5,10 +5,9 @@ image: <CoverImageURL>
 # Eastern Bluebird
 Entry Date: 2022-05-03
 
+![[Eastern Bluebird Thumbnail.jpg]]
 
-Main Image here
-
-*Desc*
+*Eastern Bluebird on bird house at Great Swamp*
 
 ---------------------------------------------------------------
 ## Notes
@@ -21,8 +20,8 @@ Seen at the Great Swamp immediately walking out of the well-named "Bluebird Park
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2FNLgAXZsI0SRJ5W?e=fCuhaj)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Eastern_Bluebird/overview)

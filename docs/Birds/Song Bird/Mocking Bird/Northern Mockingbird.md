@@ -11,7 +11,7 @@ Entry Date: 2022-04-28
 
 ---------------------------------------------------------------
 ## Notes
-One of the noisiest birds I have ever seen. Spotted on our roof while filling bird feeder, went in to get camera and just followed the noise. It had moved to a nearby powerline.
+One of the noisiest birds I have ever seen. Spotted on our roof while filling bird feeder, went inside to get camera and just followed the noise. It had moved to a nearby powerline.
 
 ---------------------------------------------------------------
 ## Sightings
@@ -20,7 +20,7 @@ One of the noisiest birds I have ever seen. Spotted on our roof while filling bi
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-0gSR0jHZ9dX8odzn?e=AMwBdG)
 
 ---------------------------------------------------------------
 ## References

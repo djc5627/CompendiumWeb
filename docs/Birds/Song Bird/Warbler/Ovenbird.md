@@ -5,13 +5,13 @@ image: <CoverImageURL>
 # Ovenbird
 Entry Date: 2022-05-17
 
-Main Image here
+![[Ovenbird Thumbnail.jpg]]
 
-*Image caption here*
+*Ovenbird foraging on the ground at Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes
-The bottom half of the Ovenbird looks like the [[Black-and-white Warbler]].
+The bottom half of their plumage looks like the [[Black-and-white Warbler]]. The top half of their plumage looks like the [[Veery]].
 
 ---------------------------------------------------------------
 ## Sightings
@@ -20,7 +20,7 @@ The bottom half of the Ovenbird looks like the [[Black-and-white Warbler]].
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2G8wdtCp_9ItbDrz?e=clT3Kw)
 
 ---------------------------------------------------------------
 ## References

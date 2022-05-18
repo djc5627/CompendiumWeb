@@ -5,12 +5,13 @@ image: <CoverImageURL>
 # Bald Eagle
 Entry Date: 2022-05-03
 
-Main image here
+![[Bald Eagle Thumbnail.jpg]]
 
 *Bald Eagle soaring over the trees at the Great Swamp*
 
 ---------------------------------------------------------------
 ## Notes
+First seen extremely far away soaring in the air at the Great Swamp Refuge. The pair of Bald Eagles landed on tree where they watched over the swamp.
 
 ---------------------------------------------------------------
 ## Sightings
@@ -19,7 +20,7 @@ Main image here
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-1giBxcppoxX1bAfW?e=ujbKx4)
 
 ---------------------------------------------------------------
 ## References

@@ -11,16 +11,18 @@ Entry Date: 2022-04-28
 
 ---------------------------------------------------------------
 ## Notes
-Ugly bird that is often seen flying high up circling their prey.
+Weird looking bird that is often seen flying high up circling their prey. Theirs feathers kind of look like fingers as they fly.
 
 ---------------------------------------------------------------
 ## Sightings
 
 -> #location/HarrimanStatePark
+-> #location/BestLake-Watchung-NJ 
+-> #location/EspositoPark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-0hUsCyYrSACuVk0g?e=4DOqUw)
 
 ---------------------------------------------------------------
 ## References

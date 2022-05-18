@@ -11,7 +11,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-Cardinals have a large tuft on their head that they can collapse. The male is much brighter than the female who has muted red-brown colors and orange beak. Cardinals prefer larger feeders because they feel safer when grounded by their large tail feathers. We often see a cardinal couple at our feeders and nearby bushes.
+Cardinals have a large tuft on their head that they can collapse. The male is much brighter than the female who has muted red-brown colors and orange beak. Cardinals prefer larger feeders because they feel safer when grounded by their large tail feathers. We often see a cardinal couple at our feeders and nearby bushes. They will carry shelled peanuts with their beaks back to their nest.
 
 ---------------------------------------------------------------
 ## Sightings

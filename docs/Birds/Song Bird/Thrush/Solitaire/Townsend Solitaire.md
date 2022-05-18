@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Townsend Solitaire
 Entry Date: 2022-01-31
 
-Main Image here
+![[Townsend Solitaire Thumbnail.jpg]]
 
-*Desc*
+*Townsend Solitaire on tree in Harriman State Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -24,7 +24,7 @@ Uncommonly seen at home and at Esposito Park. Photographed at Lake Skannatai Lic
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-xhqBG9xUXxHAScES?e=6jEUkb)
 
 ---------------------------------------------------------------
 ## References

@@ -6,9 +6,9 @@ image: <CoverImageURL>
 Entry Date: 2022-04-29
 
 
-Main Image here
+![[Yellow-rumped Warbler Thumbnail.jpg]]
 
-*Desc*
+*Yellow-rumped Warbler on tree at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -18,10 +18,11 @@ Apparently, there are two regional subspecies: the "Myrtle" Warbler on east coas
 ## Sightings
 
 -> #location/RahwayRiverPark-Rahway-NJ 
+-> #location/EspositoPark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2E0YVrmzwx8xpRFX?e=gLI7P2)
 
 ---------------------------------------------------------------
 ## References

@@ -11,7 +11,7 @@ Entry Date: 2022-03-25
 
 ---------------------------------------------------------------
 ## Notes
-Saw for the fist time at Boston. Their eyes look very human-like. Also seen at Warinanco Park. Was surprised to find that hawk seen at Warinanco Park was a Red-Tailed Hawk as well, their appearance can vary a lot.
+Saw for the fist time at Boston. Their eyes look very human-like. Also seen at Warinanco Park. Was surprised to find that the hawk seen at Warinanco Park was also a Red-Tailed Hawk, their appearance can vary a lot.
 
 ---------------------------------------------------------------
 ## Sightings

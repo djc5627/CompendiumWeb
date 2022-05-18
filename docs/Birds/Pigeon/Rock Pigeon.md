@@ -7,11 +7,11 @@ Entry Date: 2022-01-30
 
 ![[Rock Pigeon Thumbnail.jpg]]
 
-*Pigeon on our bird feeder*
+*Rock Pigeon on our bird feeder*
 
 ---------------------------------------------------------------
 ## Notes
-We have four pigeons that visit our bird feeder often during all seasons. They usually travel together and land on our roof to scope out the bird feeder before landing on it.
+We have four pigeons that visit our bird feeder often during all seasons. They usually travel together and land on our roof to scope out the bird feeder before landing on it. If they feel the feeder is not safe, they fly in a loop around the block and try again. They are very intelligent birds.
 
 ---------------------------------------------------------------
 ## Sightings

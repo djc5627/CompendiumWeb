@@ -6,13 +6,13 @@ image: <CoverImageURL>
 Entry Date: 2022-04-12
 
 
-Main Image Here
+![[Ruby-crowned Kinglet Thumbnail.jpg]]
 
-*Desc*
+*Ruby-crowned Kinglet on trees at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
-This bird was very high up in the trees and moving erratically (apparently they all do). The males have a bright red crown that they show when excited but we have not seen yet.
+This bird was very high up in the trees and moving erratically (apparently they all do). The males have a bright red crown that they show when excited but we have not seen it yet.
 
 ---------------------------------------------------------------
 ## Sightings

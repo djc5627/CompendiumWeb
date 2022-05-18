@@ -6,9 +6,9 @@ image: <CoverImageURL>
 Entry Date: 2022-05-03
 
 
-Main Image here
+![[Gray Catbird Thumbnail.jpg]]
 
-*Desc*
+*Gray Catbird in tree*
 
 ---------------------------------------------------------------
 ## Notes
@@ -22,7 +22,7 @@ Easy to identify by their cat-like mew sound. Their songs can last for up to 10 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-101dDxAslAdC-nKC?e=iHJThL)
 
 ---------------------------------------------------------------
 ## References

@@ -22,8 +22,8 @@ Easy to spot due to their bright yellow color even thought they are a relatively
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](link here)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2ShErNBIeFRzekw-?e=X7LhGV)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](https://www.allaboutbirds.org/guide/American_Goldfinch/overview)
+- [AllAboutBirds](https://1drv.ms/u/s!AvaIuMdCo_w-0VpP5so7QodlU4om?e=acFcCC)

@@ -6,13 +6,13 @@ image: <CoverImageURL>
 Entry Date: 2022-04-12
 
 
-Main Image here
+![[White-throated Sparrow Thumbnail.jpg]]
 
-*Desc*
+*White-throated Sparrow on log at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes
-From far away, assumed they were a [[House Sparrow]] or [[Song Sparrow]], not until zoomed in that I saw had yellow brows. I wonder how many we had mistaken for more common sparrows. Very distinct call that is heard all around during Spring.
+From far away, assumed they were a [[House Sparrow]] or [[Song Sparrow]], not until zoomed in that I saw they had yellow brows. I wonder how many we had mistaken for more common sparrows. Very distinct call that is heard all around during Spring.
 
 ---------------------------------------------------------------
 ## Sightings
