@@ -14,7 +14,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Bald Eagle]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Birds of Prey/Eagle/Bald Eagle/)
+[![[Bald Eagle Thumbnail.jpg]]](Birds/Birds of Prey/Eagle/Bald Eagle/)
 </div>
 
 </div>
@@ -87,7 +87,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Chimney Swift]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Swift/Chimney Swift/)
+[![[Chimney Swift Thumbnail.jpg]]](Birds/Swift/Chimney Swift/)
 </div>
 
 </div>
@@ -95,7 +95,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 </div>
 
-## Sea/Water Birds
+## Sea/Water/Shore Birds
 
 <div class="row" markdown="1">
 
@@ -116,10 +116,23 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Lesser Yellowlegs]]
+</div>
+<div markdown="1">
+[![[Lesser Yellowlegs Thumbnail.jpg]]](Birds/Shore Bird/Sandpiper/Lesser Yellowlegs/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Stilt Sandpiper]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Sea Bird/Stilt Sandpiper/)
+[![[House Sparrow Thumbnail.jpg]]](Birds/Shore Bird/Sandpiper/Stilt Sandpiper/)
 </div>
 
 </div>
@@ -145,7 +158,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Great Egret]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Water Bird/Egret/Great Egret/)
+[![[Great Egret Thumbnail.jpg]]](Birds/Water Bird/Egret/Great Egret/)
 </div>
 
 </div>
@@ -172,6 +185,19 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 </div>
 <div markdown="1">
 [![[Mallard Duck Thumbnail.jpg]]](Birds/Water Fowl/Duck/Mallard Duck/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Wood Duck]]
+</div>
+<div markdown="1">
+[![[Wood Duck Thumbnail.jpg]]](Birds/Water Fowl/Duck/Wood Duck/)
 </div>
 
 </div>
@@ -217,7 +243,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Gray Catbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Catbird/Gray Catbird/)
+[![[Gray Catbird Thumbnail.jpg]]](Birds/Song Bird/Catbird/Gray Catbird/)
 </div>
 
 </div>
@@ -282,7 +308,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Ruby-crowned Kinglet]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Ruby-crowned Kinglet/)
+[![[Ruby-crowned Kinglet Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Ruby-crowned Kinglet/)
 </div>
 
 </div>
@@ -308,7 +334,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Brown-headed Cowbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Brown-headed Cowbird/)
+[![[Brown-headed Cowbird Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Brown-headed Cowbird/)
 </div>
 
 </div>
@@ -334,7 +360,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Red-winged Blackbird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Red-winged Blackbird/)
+[![[Red-winged Blackbird Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Red-winged Blackbird/)
 </div>
 
 </div>
@@ -360,7 +386,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[American Robin]]
 </div>
 <div markdown="1">
-[![[American Robin Thumbnail.jpg]]](Birds/Song Bird/Robin/American Robin/)
+[![[American Robin Thumbnail.jpg]]](Birds/Song Bird/Thrush/Robin/American Robin/)
 </div>
 
 </div>
@@ -373,7 +399,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Chipping Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Chipping Sparrow/)
+[![[Chipping Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Chipping Sparrow/)
 </div>
 
 </div>
@@ -425,7 +451,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[White-throated Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/White-throated Sparrow/)
+[![[White-throated Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/White-throated Sparrow/)
 </div>
 
 </div>
@@ -448,10 +474,88 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Barn Swallow]]
+</div>
+<div markdown="1">
+[![[Barn Swallow Thumbnail.jpg]]](Birds/Song Bird/Swallow/Barn Swallow/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Tree Swallow]]
+</div>
+<div markdown="1">
+[![[Tree Swallow Thumbnail.jpg]]](Birds/Song Bird/Swallow/Tree Swallow/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Black-and-white Warbler]]
 </div>
 <div markdown="1">
 [![[Black-and-white Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Black-throated Blue Warbler]]
+</div>
+<div markdown="1">
+[![[Black-throated Blue Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Blue-winged Warbler]]
+</div>
+<div markdown="1">
+[![[Blue-winged Warbler.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Common Yellowthroat]]
+</div>
+<div markdown="1">
+[![[Common Yellowthroat Thumbnail.jpg]]](Birds/Song Bird/Warbler/Common Yellowthroat/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Ovenbird]]
+</div>
+<div markdown="1">
+[![[Ovenbird Thumbnail.jpg]]](Birds/Song Bird/Warbler/Ovenbird/)
 </div>
 
 </div>
@@ -474,10 +578,23 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Yellow Warbler]]
+</div>
+<div markdown="1">
+[![[Yellow Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Yellow Warbler/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Yellow-rumped Warbler]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Warbler/Yellow-rumped Warbler/)
+[![[Yellow-rumped Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Yellow-rumped Warbler/)
 </div>
 
 </div>
@@ -490,7 +607,20 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Eastern Bluebird]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Eastern Bluebird/)
+[![[Eastern Bluebird Thumbnail.jpg]]](Birds/Song Bird/Thrush/Bluebird/Eastern Bluebird/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Eastern Kingbird]]
+</div>
+<div markdown="1">
+[![[Eastern Kingbird Thumbnail.jpg]]](Birds/Song Bird/Flycatcher/Eastern Kingbird/)
 </div>
 
 </div>
@@ -503,7 +633,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Eastern Phoebe]]
 </div>
 <div markdown="1">
-[![[Eastern Phoebe Thumbnail.jpg]]](Birds/Song Bird/Eastern Phoebe/)
+[![[Eastern Phoebe Thumbnail.jpg]]](Birds/Song Bird/Flycatcher/Eastern Phoebe/)
 </div>
 
 </div>
@@ -516,7 +646,33 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Townsend Solitaire]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Townsend Solitaire/)
+[![[Townsend Solitaire Thumbnail.jpg]]](Birds/Song Bird/Solitaire/Townsend Solitaire/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Veery]]
+</div>
+<div markdown="1">
+[![[Veery Thumbnail.jpg]]](Birds/Song Bird/Thrush/Veery/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Black-capped Chickadee]]
+</div>
+<div markdown="1">
+[![[Black-capped Chickadee Thumbnail.jpg]]](Birds/Song Bird/Tit/Chickadee/Black-capped Chickadee/)
 </div>
 
 </div>
@@ -529,7 +685,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 [[Tufted Titmouse]]
 </div>
 <div markdown="1">
-[![[Tufted Titmouse Thumbnail.jpg]]](Birds/Song Bird/Tufted Titmouse/)
+[![[Tufted Titmouse Thumbnail.jpg]]](Birds/Song Bird/Tit/Titmouse/Tufted Titmouse/)
 </div>
 
 </div>
