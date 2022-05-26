@@ -18,8 +18,8 @@ function collapseBirdsOfPrey() {
 
 var dovesPigeonsSwifts = document.getElementById('dovespigeonsswifts-');
 
-birdsOfPrey.style.cursor = 'pointer';
-birdsOfPrey.onclick = collapseDovesPigeonsSwifts;
+dovesPigeonsSwifts.style.cursor = 'pointer';
+dovesPigeonsSwifts.onclick = collapseDovesPigeonsSwifts;
 
 function collapseDovesPigeonsSwifts() {
   var x = document.getElementById("dovespigeonsswifts-row");
