@@ -5,8 +5,10 @@ something.onclick = myFunction;
 
 function myFunction() {
   var x = document.getElementById("birds-of-prey-row");
+  var y = document.getElementById('birds-of-prey');
   if (x.style.display === "none") {
     x.style.display = "block";
+	y.textContent += '+';
   } else {
     x.style.display = "none";
   }
