@@ -1,6 +1,4 @@
-var something = document.getElementById('myDIV');
 
-something.style.cursor = 'pointer';
 
 
 function myFunction() {
