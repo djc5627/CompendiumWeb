@@ -5,9 +5,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 ## Birds of Prey
 
-<div id="myDIV">  
-  This is my DIV element.  
-</div>
+
 
 <div class="row" markdown="1">
 
