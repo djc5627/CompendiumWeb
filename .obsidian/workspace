@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Song Bird/Starling/European Starling.md",
-            "mode": "preview",
+            "file": "docs/index.md",
+            "mode": "source",
             "source": true
           }
         },
@@ -20,8 +20,14 @@
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Starling/European Starling.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":17.20189552567776}"
+              "eState": "{}"
             },
             {
               "leaf": "6cb75ababa603e44",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":559.6428571428571}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/House Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":159},\"to\":{\"line\":13,\"ch\":159}},\"scroll\":1.2666666666666666}"
             }
           ]
         }
@@ -158,7 +158,7 @@
               "leaf": "41797a2f43c30127",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Finch/American Goldfinch.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":13.9269717624148}"
+              "eState": "{}"
             },
             {
               "leaf": "41797a2f43c30127",
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Finch/American Goldfinch.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,12 +317,12 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "41797a2f43c30127",
+  "active": "6cb75ababa603e44",
   "lastOpenFiles": [
-    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
-    "docs/Birds/Song Bird/Finch/House Finch.md",
     "docs/index.md",
     "docs/Birds/Song Bird/Starling/European Starling.md",
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
+    "docs/Birds/Song Bird/Finch/House Finch.md",
     "docs/Birds/Water Fowl/Duck/Mallard Duck.md",
     "docs/Birds/Sea Bird/Seagull.md",
     "docs/Birds/Woodpecker/Red-bellied Woodpecker.md",
