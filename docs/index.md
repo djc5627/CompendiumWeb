@@ -4,7 +4,6 @@
 Welcome to our bird compendium! Each entry contains notes on our personal observations and fun facts on the bird. All photos were taken by us and entries are only created for birds we have photographed. References are provided for more info.
 
 ## Birds of Prey
-<button onclick="myFunction()">Click Me</button>
 
 <div id="myDIV">  
   This is my DIV element.  
