@@ -50,7 +50,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 </div>
 
 
-## Doves/Pigeons/Swifts[-]
+## Doves/Pigeons/Swifts [-]
 
 <div id="dovespigeonsswifts-row" class="row" markdown="1">
 
@@ -95,9 +95,9 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 </div>
 
-## Sea/Water/Shore Birds[-]
+## Sea/Water/Shore Birds [-]
 
-<div class="row" markdown="1">
+<div id = 'seawatershorebirds-row' class="row" markdown="1">
 
 <div class="column" markdown="1">
 <div class="card" markdown="1">
@@ -219,9 +219,9 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 </div>
 
-## Song Birds[-]
+## Song Birds [-]
 
-<div class="row" markdown="1">
+<div id = 'songBirds-row' class="row" markdown="1">
 
 <div class="column" markdown="1">
 <div class="card" markdown="1">
@@ -696,9 +696,9 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 </div>
 
-## Woodpeckers[-]
+## Woodpeckers [-]
 
-<div class="row" markdown="1">
+<div id ='woodpeckers-row' class="row" markdown="1">
 
 <div class="column" markdown="1">
 <div class="card" markdown="1">
