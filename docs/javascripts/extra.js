@@ -1,7 +1,7 @@
 var something = document.getElementById('birds-of-prey');
 
 something.style.cursor = 'pointer';
-
+something.onclick = myFunction;
 
 function myFunction() {
   var x = document.getElementById("birds-of-prey");
