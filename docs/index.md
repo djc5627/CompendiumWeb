@@ -3,10 +3,6 @@
 ## Welcome!
 Welcome to our bird compendium! Each entry contains notes on our personal observations and fun facts on the bird. All photos were taken by us and entries are only created for birds we have photographed. References are provided for more info.
 
-<div id= "myDIV" markdown="1"> 
-This is my DIV element.  
-</div>
-
 ## Birds of Prey
 
 <div class="row" markdown="1">
