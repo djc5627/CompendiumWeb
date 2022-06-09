@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Willow Flycatcher
 Entry Date: 2022-06-08
 
-Main Image here
+![[Willow Flycatcher Thumbnail.jpg]]
 
-*Image caption here*
+*Willow Flycatcher on marsh grass at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

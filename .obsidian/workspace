@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Birds/Song Bird/New World Black Bird/Great-tailed Grackle.md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,68 @@
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/New World Black Bird/Great-tailed Grackle.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":21},\"to\":{\"line\":13,\"ch\":21}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/New World Black Bird/Great-tailed Grackle.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":39},\"to\":{\"line\":7,\"ch\":39}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Wren/House Wren.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":42},\"to\":{\"line\":9,\"ch\":42}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Crow/American Crow.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Gull/Laughing Gull.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Osprey.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "6cb75ababa603e44",
@@ -76,66 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":81},\"to\":{\"line\":26,\"ch\":18}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":26},\"to\":{\"line\":27,\"ch\":26}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":82},\"to\":{\"line\":26,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":85},\"to\":{\"line\":22,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":26},\"to\":{\"line\":27,\"ch\":26}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":26},\"to\":{\"line\":27,\"ch\":26}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Crow/American Crow.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Untitled.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Gull/Laughing Gull.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/New World Black Bird/Great-tailed Grackle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,15 +331,15 @@
   },
   "active": "6cb75ababa603e44",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/Birds/Song Bird/New World Black Bird/Great-tailed Grackle.md",
-    "docs/Birds/Song Bird/Wren/House Wren.md",
-    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
-    "Templates/BirdTemplate.md",
-    "docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md",
     "docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md",
+    "docs/Birds/Song Bird/Wren/House Wren.md",
+    "docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md",
     "docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md",
     "docs/Birds/Song Bird/Crow/American Crow.md",
-    "docs/Birds/Song Bird/Untitled.md"
+    "docs/Birds/Sea Bird/Gull/Laughing Gull.md",
+    "docs/Birds/Birds of Prey/Osprey.md",
+    "docs/index.md",
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md"
   ]
 }

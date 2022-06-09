@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # American Crow
 Entry Date: 2022-06-08
 
-Main Image here
+![[American Crow Thumbnail.jpg]]
 
-*Image caption here*
+*American Crow on a powerline outside Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes

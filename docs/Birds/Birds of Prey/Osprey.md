@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Osprey
 Entry Date: 2022-06-08
 
-Main Image here
+![[Osprey Thumbnail.jpg]]
 
-*Image caption here*
+*Osprey soaring over Bradley Beach*
 
 ---------------------------------------------------------------
 ## Notes

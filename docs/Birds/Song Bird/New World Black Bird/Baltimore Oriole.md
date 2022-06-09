@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Baltimore Oriole
 Entry Date: 2022-06-08
 
-Main Image here
+![[Baltimore Oriole Thumbnail.jpg]]
 
-*Image caption here*
+*Oriole constructing its nest at Sherman Hoffman Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Eastern Wood-Pewee
 Entry Date: 2022-06-08
 
-Main Image here
+![[Eastern Wood-Peewee Thumbnail.jpg]]
 
-*Image caption here*
+*Peewee on a branch at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

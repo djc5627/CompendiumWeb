@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Laughing Gull
 Entry Date: 2022-06-08
 
-Main Image here
+![[Laughing Gull Thumbnail.jpg]]
 
-*Image caption here*
+*Laughing Gull at Bradley Beach*
 
 ---------------------------------------------------------------
 ## Notes

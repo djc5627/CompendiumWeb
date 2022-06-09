@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Great-tailed Grackle
 Entry Date: 2022-06-08
 
-Main Image here
+![[Great-tailed Grackle Thumbnail.jpg]]
 
-*Image caption here*
+*Great-tailed Grackle exploring the Las Vegas desert*
 
 ---------------------------------------------------------------
 ## Notes

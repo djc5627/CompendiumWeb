@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # House Wren
 Entry Date: 2022-06-08
 
-Main Image here
+![[House Wren Thumbnail.jpg]]
 
-*Image caption here*
+*House Wren in birdhouse at Scherman Hoffman Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes
