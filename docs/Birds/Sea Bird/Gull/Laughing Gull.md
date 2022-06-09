@@ -2,8 +2,8 @@
 image: <CoverImageURL>
 ---
 
-# {{title}}
-Entry Date: {{date}}
+# Laughing Gull
+Entry Date: 2022-06-08
 
 Main Image here
 
@@ -11,18 +11,18 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Notes
+Seen at the beach trying to steal food from people. They kind of look like flying penguins.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/BradleyBeach-NJ 
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-3WV_r0xSikPEHhkt?e=lZbKqb)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Laughing_Gull/overview)

@@ -18,6 +18,7 @@ Apparently, there are two regional subspecies: the "Myrtle" Warbler on east coas
 ## Sightings
 
 -> #location/RahwayRiverPark-Rahway-NJ 
+
 -> #location/EspositoPark-Clark-NJ 
 
 ---------------------------------------------------------------

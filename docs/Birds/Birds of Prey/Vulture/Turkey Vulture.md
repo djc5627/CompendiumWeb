@@ -11,13 +11,15 @@ Entry Date: 2022-04-28
 
 ---------------------------------------------------------------
 ## Notes
-Weird looking bird that is often seen flying high up circling their prey. Theirs feathers kind of look like fingers as they fly.
+Weird looking bird that is often seen flying high up circling their prey. Turkey Vultures have a stomach ph 1 lower than that of humans (10x as acidic). When they overeat, they have difficulty flying but can projectile vomit to shed weight. Since their stomachs are so acidic, they can also projectile vomit onto predators to burn them. Theirs feathers kind of look like fingers as they fly.
 
 ---------------------------------------------------------------
 ## Sightings
 
 -> #location/HarrimanStatePark
+
 -> #location/BestLake-Watchung-NJ 
+
 -> #location/EspositoPark-Clark-NJ 
 
 ---------------------------------------------------------------

@@ -2,8 +2,8 @@
 image: <CoverImageURL>
 ---
 
-# {{title}}
-Entry Date: {{date}}
+# American Crow
+Entry Date: 2022-06-08
 
 Main Image here
 
@@ -11,18 +11,19 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Notes
+Seen stealing food from people at Bradley Beach. Known for their hoarse, cawing voices.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/BradleyBeach-NJ 
 
--> #location/Missing
+-> #location/MiltonLakePark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-3Q7fVKsDVjDXS_kG?e=OSknZy)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/American_Crow/overview)

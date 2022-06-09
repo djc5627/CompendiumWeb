@@ -2,8 +2,8 @@
 image: <CoverImageURL>
 ---
 
-# {{title}}
-Entry Date: {{date}}
+# Great-tailed Grackle
+Entry Date: 2022-06-08
 
 Main Image here
 
@@ -11,18 +11,18 @@ Main Image here
 
 ---------------------------------------------------------------
 ## Notes
+Also called the Mexican Grackle. They are larger than the [[Grackle]] and have a more powerful call that is easily heard from far.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/Las-Vegas-NV
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-3kbnaVfs5pU5biqp?e=W8plvx)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Great-tailed_Grackle/overview)
