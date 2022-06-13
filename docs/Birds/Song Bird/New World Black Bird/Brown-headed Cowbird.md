@@ -6,7 +6,7 @@ image: <CoverImageURL>
 Entry Date: 2022-01-31
 
 
-[![[Brown-headed Cowbird Thumbnail.jpg]]
+![[Brown-headed Cowbird Thumbnail.jpg]]
 
 *Brown-headed Cowbird on a tree at Rahway River Park*
 

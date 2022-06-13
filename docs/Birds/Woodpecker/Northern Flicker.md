@@ -8,7 +8,7 @@ Entry Date: 2022-01-31
 
 ![[Northern Flicker Thumbnail.jpg]]
 
-*Northern Flicker atop the dead tree in neighbor's yard*
+*Northern Flicker atop the tree at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
