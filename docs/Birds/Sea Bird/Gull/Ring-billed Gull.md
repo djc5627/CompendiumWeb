@@ -2,16 +2,16 @@
 image: <CoverImageURL>
 ---
 
-# Seagull
+# Ring-billed Gull
 Entry Date: 2022-01-31
 
-![[Seagull Thumbnail.jpg]]
+![[Ring-billed Gull Thumbnail.jpg]]
 
-*Seagull on baseball field after rainfall at Warinanco Park*
+*Ring-billed Gull on baseball field after rainfall at Warinanco Park*
 
 ---------------------------------------------------------------
 ## Notes
-Their actual name is "Gull" and Seagull is more of a nickname. At the beach a Seagull broke into our bag and ripped open a pack of candied ginger.
+Their actual name is "Gull" and Seagull is more of a nickname. At the beach a Ring-billed Gull broke into our bag and ripped open a pack of candied ginger. Seen at store parking lots as well as parks.
 
 ---------------------------------------------------------------
 ## Sightings

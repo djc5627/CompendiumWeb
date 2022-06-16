@@ -129,10 +129,10 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Seagull]]
+[[Ring-billed Gull]]
 </div>
 <div markdown="1">
-[![[Seagull Thumbnail.jpg]]](Birds/Sea Bird/Gull/Seagull/)
+[![[Ring-billed Gull Thumbnail.jpg]]](Birds/Sea Bird/Gull/Ring-billed Gull/)
 </div>
 
 </div>

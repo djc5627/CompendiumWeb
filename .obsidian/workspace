@@ -9,14 +9,26 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Song Bird/New World Black Bird/Brown-headed Cowbird.md",
-            "mode": "preview",
+            "file": "docs/index.md",
+            "mode": "source",
             "source": true
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Gull/Ring-billed Gull.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":200},\"to\":{\"line\":13,\"ch\":200}},\"scroll\":0}"
+            },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
@@ -123,18 +135,6 @@
               "leaf": "6cb75ababa603e44",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Crow/American Crow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Gull/Laughing Gull.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Osprey.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/New World Black Bird/Brown-headed Cowbird.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,6 +331,8 @@
   },
   "active": "6cb75ababa603e44",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Birds/Sea Bird/Gull/Ring-billed Gull.md",
     "docs/Birds/Song Bird/New World Black Bird/Brown-headed Cowbird.md",
     "docs/Birds/Woodpecker/Red-bellied Woodpecker.md",
     "docs/Birds/Woodpecker/Northern Flicker.md",
@@ -338,8 +340,6 @@
     "docs/Birds/Woodpecker/Hairy Woodpecker.md",
     "docs/Birds/Song Bird/New World Black Bird/Great-tailed Grackle.md",
     "docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md",
-    "docs/Birds/Song Bird/Wren/House Wren.md",
-    "docs/Birds/Song Bird/Flycatcher/Willow Flycatcher.md",
-    "docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md"
+    "docs/Birds/Song Bird/Wren/House Wren.md"
   ]
 }
