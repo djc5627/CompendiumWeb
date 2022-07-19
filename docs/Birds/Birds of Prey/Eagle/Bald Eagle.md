@@ -16,11 +16,11 @@ Entry Date: 2022-05-03
 
 
 <div id="lightgallery">
-    <a href="Thumbnails/American Crow Thumbnail.jpg">
-        <img src="Thumbnails/American Crow Thumbnail.jpg" width="500" height="500" />
+    <a href="../../../../Thumbnails/American Crow Thumbnail.jpg">
+        <img src="../../../../Thumbnails/American Crow Thumbnail.jpg" width="500" height="500" />
     </a>
-    <a href="Thumbnails/American Crow Thumbnail.jpg">
-        <img src="Thumbnails/American Crow Thumbnail.jpg" width="500" height="500" />
+    <a href="../../../../Thumbnails/American Crow Thumbnail.jpg">
+        <img src="../../../../Thumbnails/American Crow Thumbnail.jpg" width="500" height="500" />
     </a>
 </div>
 
