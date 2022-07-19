@@ -14,14 +14,6 @@ Entry Date: 2022-05-03
 
 <img src="https://sat02pap001files.storage.live.com/y4m2q272dhnVI9THYTYdR14xF4hiUfjUMTKL4XMXJkB1FYGoKyM0QREVK603DN1izSNWlW53jekpMqc8seb_exJFwxrjtxkCIlxplgN6jvAQDd8uybsrNtthS2UhGlYkveYB4EbSDidgolT8WYV5aZ28vaDBVI8ugMYbDHdR-hqC_NO-8MgtndR2YXJtOini5ji?width=3000&height=4000&cropmode=none" width="500" height="500" />
 
-<script type="text/javascript">
-    lightGallery(document.getElementById('lightgallery'), {
-        plugins: [lgZoom, lgThumbnail],
-        speed: 500,
-        licenseKey: 0000-0000-000-0000
-    });
-</script>
-
 
 <div id="lightgallery">
     <a href="../../../../Thumbnails/American Crow Thumbnail.jpg">
@@ -32,9 +24,13 @@ Entry Date: 2022-05-03
     </a>
 </div>
 
-![!Description1](../../../../Thumbnails/American Crow Thumbnail.jpg)
-
-
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+        licenseKey: 0000-0000-000-0000
+    });
+</script>
 
 
 
