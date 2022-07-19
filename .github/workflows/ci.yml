@@ -20,5 +20,5 @@ jobs:
       - run: pip show mkdocs-roamlinks-plugin
       - run: pip show lightgallery
       - run: ls /opt/hostedtoolcache/Python/3.10.5/x64/lib/python3.10/site-packages
-      - run: ls /opt/hostedtoolcache/Python/3.10.5/x64/lib/python3.10/site-packages/mkdocs-material
+      - run: ls /opt/hostedtoolcache/Python/3.10.5/x64/lib/python3.10/site-packages/material
       - run: mkdocs gh-deploy --force
