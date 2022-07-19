@@ -24,14 +24,6 @@ Entry Date: 2022-05-03
     </a>
 </div>
 
-<script type="text/javascript">
-    lightGallery(document.getElementById('lightgallery'), {
-        plugins: [lgZoom, lgThumbnail],
-        speed: 500,
-        licenseKey: 0000-0000-000-0000
-    });
-</script>
-
 
 
 ---------------------------------------------------------------
