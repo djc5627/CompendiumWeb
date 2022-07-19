@@ -21,7 +21,31 @@
               "leaf": "6cb75ababa603e44",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":277},\"to\":{\"line\":11,\"ch\":277}},\"scroll\":7.068047337278107}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.140625}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":9.765625}"
             },
             {
               "leaf": "6cb75ababa603e44",
@@ -111,30 +135,6 @@
               "leaf": "6cb75ababa603e44",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Gnatcatcher/Blue-gray Gnatcatcher.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Eastern Kingbird.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Oystercatcher/American Oystercatcher.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Swallow/Barn Swallow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Barred Owl.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -331,6 +331,8 @@
   },
   "active": "6cb75ababa603e44",
   "lastOpenFiles": [
+    "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
+    "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
     "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
     "docs/Birds/Song Bird/Thrush/Veery.md",
@@ -338,8 +340,6 @@
     "docs/Birds/Water Fowl/Duck/Wood Duck.md",
     "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
     "docs/Birds/Sea Bird/Gull/California Gull.md",
-    "docs/Birds/Water Bird/Heron/Green Heron.md",
-    "docs/Birds/Water Bird/Heron/Great Blue Heron.md",
-    "docs/Birds/Shore Bird/Plover/Killdeer.md"
+    "docs/Birds/Water Bird/Heron/Green Heron.md"
   ]
 }
