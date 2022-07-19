@@ -4,7 +4,6 @@ theme:
     name: 'material'
     features:
       - navigation.tracking
-    custom_dir: theme
     palette:
 
     # Light mode
@@ -31,7 +30,6 @@ markdown_extensions:
   - meta
   - attr_list
   - md_in_html
-  - lightgallery
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
