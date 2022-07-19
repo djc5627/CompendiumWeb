@@ -11,7 +11,7 @@
           "state": {
             "file": "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +20,8 @@
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":6},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":14.169921875}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":11.603125}"
             },
             {
               "leaf": "6cb75ababa603e44",
