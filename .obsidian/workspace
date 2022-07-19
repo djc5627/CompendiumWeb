@@ -21,7 +21,7 @@
               "leaf": "6cb75ababa603e44",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":313},\"to\":{\"line\":15,\"ch\":313}},\"scroll\":11.674456521739131}"
             },
             {
               "leaf": "6cb75ababa603e44",
@@ -146,7 +146,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Song Bird/Wren/House Wren.md",
+            "file": "docs/index.md",
             "mode": "source",
             "source": true
           }
@@ -157,8 +157,14 @@
             {
               "leaf": "41797a2f43c30127",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":3.32275390625}"
+            },
+            {
+              "leaf": "41797a2f43c30127",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Wren/House Wren.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":3.125}"
+              "eState": "{}"
             },
             {
               "leaf": "41797a2f43c30127",
@@ -331,15 +337,15 @@
   },
   "active": "6cb75ababa603e44",
   "lastOpenFiles": [
-    "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
+    "docs/index.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
+    "docs/Birds/Song Bird/Wren/House Wren.md",
+    "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
     "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
     "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
     "docs/Birds/Song Bird/Thrush/Veery.md",
     "docs/Birds/Song Bird/Gnatcatcher/Blue-gray Gnatcatcher.md",
     "docs/Birds/Water Fowl/Duck/Wood Duck.md",
-    "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
-    "docs/Birds/Sea Bird/Gull/California Gull.md",
-    "docs/Birds/Water Bird/Heron/Green Heron.md"
+    "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md"
   ]
 }

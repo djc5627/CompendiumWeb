@@ -50,6 +50,10 @@ plugins:
   
 extra_css:
   - stylesheets/extra.css
+  - lightgallery/css/lightgallery.css
  
 extra_javascript:
   - javascripts/extra.js
+  - lightgallery/js/lightgallery.min.js
+  - lightgallery/js/lg-thumbnail.min.js
+  - lightgallery/js/lg-fullscreen.min.js
