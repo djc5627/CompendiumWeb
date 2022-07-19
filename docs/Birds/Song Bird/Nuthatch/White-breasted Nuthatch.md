@@ -18,6 +18,8 @@ Saw this bird on my first visit to Rahway River Park as soon as I stepped out of
 
 -> #location/RahwayRiverPark-Rahway-NJ
 
+-> #location/EspositoPark-Clark-NJ 
+
 ---------------------------------------------------------------
 ## Photos
 OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-0hhCrVoxp_2lNUTc?e=QotzP6)

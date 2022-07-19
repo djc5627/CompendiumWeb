@@ -11,7 +11,7 @@ Entry Date: 2022-05-18
 
 ---------------------------------------------------------------
 ## Notes
-At first, thought this was a variant of [[Mallard Duck]] but turns out there are many different variants of Wood Duck. Our first sighting was an "Eclipse" variant.
+At first, thought this was a variant of [[Mallard Duck]] but turns out there are many different variants of Wood Duck. Our first sighting was an "Eclipse" variant. Wood ducks actually nest in hollow trees which are becoming less common. To help this, many locations set up Wood Duck house boxes by the banks of water.
 
 ---------------------------------------------------------------
 ## Sightings
