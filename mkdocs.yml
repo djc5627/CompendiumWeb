@@ -50,10 +50,6 @@ plugins:
   
 extra_css:
   - stylesheets/extra.css
-  - lightgallery/css/lightgallery-bundle.css
  
 extra_javascript:
   - javascripts/extra.js
-  - lightgallery/lightgallery.umd.js
-  - lightgallery/plugins/thumbnail/lg-thumbnail.umd.js
-  - lightgallery/plugins/zoom/lg-zoom.umd.js
