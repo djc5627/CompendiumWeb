@@ -16,4 +16,7 @@ jobs:
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install lightgallery
       - run: ls
+      - run: pip show mkdocs-material
+      - run: pip show mkdocs-roamlinks-plugin
+      - run: pip show lightgallery
       - run: mkdocs gh-deploy --force
