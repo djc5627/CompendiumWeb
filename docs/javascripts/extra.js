@@ -87,3 +87,5 @@ function collapseWoodpeckers() {
 	y.textContent = 'Woodpeckers [+]';
   }
 }
+
+lightGallery(document.getElementById('lightgallery'));

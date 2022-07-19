@@ -14,6 +14,7 @@ Entry Date: 2022-05-03
 
 <img src="https://sat02pap001files.storage.live.com/y4m2q272dhnVI9THYTYdR14xF4hiUfjUMTKL4XMXJkB1FYGoKyM0QREVK603DN1izSNWlW53jekpMqc8seb_exJFwxrjtxkCIlxplgN6jvAQDd8uybsrNtthS2UhGlYkveYB4EbSDidgolT8WYV5aZ28vaDBVI8ugMYbDHdR-hqC_NO-8MgtndR2YXJtOini5ji?width=3000&height=4000&cropmode=none" width="500" height="500" />
 
+
 <div id="lightgallery">
     <a href="img/img1.jpg">
         <img src="https://sat02pap001files.storage.live.com/y4m2q272dhnVI9THYTYdR14xF4hiUfjUMTKL4XMXJkB1FYGoKyM0QREVK603DN1izSNWlW53jekpMqc8seb_exJFwxrjtxkCIlxplgN6jvAQDd8uybsrNtthS2UhGlYkveYB4EbSDidgolT8WYV5aZ28vaDBVI8ugMYbDHdR-hqC_NO-8MgtndR2YXJtOini5ji?width=3000&height=4000&cropmode=none" width="500" height="500" />
