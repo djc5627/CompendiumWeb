@@ -14,12 +14,4 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
-      - run: pip install lightgallery
-      - run: ls
-      - run: pip show mkdocs-material
-      - run: pip show mkdocs-roamlinks-plugin
-      - run: pip show lightgallery
-      - run: ls /opt/hostedtoolcache/Python/3.10.5/x64/lib/python3.10/site-packages
-      - run: ls /opt/hostedtoolcache/Python/3.10.5/x64/lib/python3.10/site-packages/material
-      - run: ls /opt/hostedtoolcache/Python/3.10.5/x64/lib/python3.10/site-packages/material/assets
       - run: mkdocs gh-deploy --force
