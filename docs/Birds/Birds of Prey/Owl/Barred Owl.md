@@ -5,25 +5,24 @@ image: <CoverImageURL>
 # Barred Owl
 Entry Date: 2022-07-05
 
-Main Image here
+![[Barred Owl Thumbnail.jpg]]
 
-*Image caption here*
+*Barred Owl on a tree branch at Great Swamp Observation Center*
 
 ---------------------------------------------------------------
 ## Notes
-Owls have a poor sense of smell but he best hearing of any animal tested (~10 miles away).
+First seen at Great Swamp Refuge on 4th of July 2022. For weeks there were 2 adults and 1 fledging right by the Observation Center. Many photographers came each day to get pictures of the owls. The owls were definitely not shy and weren't bothered by all the people. One day, saw the owl try to attack a ground hog but the ground hog shoo'd the owl away.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/GreatSwampRefuge-NJ 
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5Aqj6eC8XNyJiLm1?e=c9p7m5)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Barred_Owl/overview)

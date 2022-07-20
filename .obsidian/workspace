@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Birds of Prey/Owl/Great Horned Owl.md",
+            "file": "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         },
         "pane-relief:history-v1": {
@@ -20,122 +20,122 @@
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Great Horned Owl.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Thrush/Wood Thrush.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":4.9787234042553195}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Thrush/Veery.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Thrush/Wood Thrush.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":111},\"to\":{\"line\":13,\"ch\":111}},\"scroll\":0}"
             },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":85},\"to\":{\"line\":22,\"ch\":85}},\"scroll\":7.265285996055227}"
             },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.140625}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":9.765625}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":12},\"to\":{\"line\":16,\"ch\":12}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Thrush/Wood Thrush.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Thrush/Veery.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Thrush/Wood Thrush.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Gnatcatcher/Blue-gray Gnatcatcher.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Water Fowl/Duck/Wood Duck.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Gull/California Gull.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Water Bird/Heron/Green Heron.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Gull/California Gull.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Water Bird/Heron/Great Blue Heron.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Water Bird/Heron/Green Heron.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":3.03125}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":3.03125}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Plover/Killdeer.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Wren/Marsh Wren.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":7.265285996055227}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Wren/Carolina Wren.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Gnatcatcher/Blue-gray Gnatcatcher.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Oystercatcher/American Oystercatcher.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":7.462524654832347}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Sea Bird/Gull/Ring-billed Gull.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Water Bird/Heron/Green Heron.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Oystercatcher/American Oystercatcher.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":13},\"to\":{\"line\":13,\"ch\":13}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Barred Owl.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":7.857001972386588}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Great Horned Owl.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":162},\"to\":{\"line\":13,\"ch\":162}}}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Barred Owl.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":354},\"to\":{\"line\":13,\"ch\":354}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Great Horned Owl.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.301707779886147}"
+            },
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"linkUrl.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Plover/Killdeer.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Wren/Marsh Wren.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Wren/Carolina Wren.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Barred Owl.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":27},\"to\":{\"line\":24,\"ch\":35}}}"
             }
           ]
         }
@@ -152,13 +152,19 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "41797a2f43c30127",
               "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"docs/Thumbnails/Laughing Gull Thumbnail.jpg\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "41797a2f43c30127",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":6},\"to\":{\"line\":0,\"ch\":6}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":144,\"ch\":2},\"to\":{\"line\":144,\"ch\":12}},\"scroll\":103.931640625}"
             },
             {
               "leaf": "41797a2f43c30127",
@@ -228,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#location/ErnestOrosWildlifePreserve-Woodbridge-NJ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Birds of Prey/Owl/Great Horned Owl.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,17 +341,17 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "6cb75ababa603e44",
+  "active": "41797a2f43c30127",
   "lastOpenFiles": [
-    "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
+    "docs/Thumbnails/Laughing Gull Thumbnail.jpg",
     "docs/index.md",
-    "docs/Birds/Song Bird/Wren/House Wren.md",
-    "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
-    "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
+    "docs/Thumbnails/Great Blue Heron Thumbnail.jpg",
     "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
     "docs/Birds/Song Bird/Thrush/Veery.md",
-    "docs/Birds/Song Bird/Gnatcatcher/Blue-gray Gnatcatcher.md",
-    "docs/Birds/Water Fowl/Duck/Wood Duck.md",
+    "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
+    "docs/Birds/Sea Bird/Gull/California Gull.md",
+    "linkhere.md",
+    "docs/Birds/Water Bird/Heron/Green Heron.md",
     "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md"
   ]
 }

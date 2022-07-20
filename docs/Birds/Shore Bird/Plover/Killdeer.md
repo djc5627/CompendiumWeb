@@ -5,25 +5,24 @@ image: <CoverImageURL>
 # Killdeer
 Entry Date: 2022-07-05
 
-Main Image here
+![[Killdeer Thumbnail.jpg]]
 
-*Image caption here*
+*Killdeer walking on grass at a construction site*
 
 ---------------------------------------------------------------
 ## Notes
-Considered Shorebirds but are found common in lawns, golf courses, and parking lots.
+Considered Shorebirds but are found common in lawns, golf courses, and parking lots. First seen after taking a wrong turn onto construction site on the way to Ernest L. Oros Wildlife Preserve.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/ErnestLOrosWildlifePreserve-Woodbridge-NJ
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5E8-TsSPJIFCLGfV?e=eTPXXl)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Killdeer/overview)

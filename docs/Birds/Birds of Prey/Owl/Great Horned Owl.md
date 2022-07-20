@@ -5,25 +5,24 @@ image: <CoverImageURL>
 # Great Horned Owl
 Entry Date: 2022-07-05
 
-Main Image here
+![[Great Horned Owl Thumbnail.jpg]]
 
-*Image caption here*
+*Great Horned Owl in a tree near Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
-Owls have a poor sense of smell but he best hearing of any animal tested (~10 miles away).
+First owl we ever saw. Looks like the owl from Legend of Zelda games. Owls have a poor sense of smell but the best hearing of any animal tested (~10 miles away). This owl has very human-like eyes.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/EspositoPark-Clark-NJ 
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-4GlqY1dXhuZ_tfIj?e=TJnhtc)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview)

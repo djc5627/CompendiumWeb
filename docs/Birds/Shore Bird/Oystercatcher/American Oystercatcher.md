@@ -5,24 +5,24 @@ image: <CoverImageURL>
 # American Oystercatcher
 Entry Date: 2022-07-05
 
-Main Image here
+![[American Oystercatcher Thumbnail.jpg]]
 
-*Image caption here*
+*Male and female American Oystercatchers at Bradley Beach*
 
 ---------------------------------------------------------------
 ## Notes
+First seen on a rock outcrop at Bradley Beach. Their eyes are mesmerizing.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/BradleyBeach-NJ 
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-43Eriab2cHATDpC3?e=HQoGZV)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/American_Oystercatcher/overview)

@@ -5,24 +5,25 @@ image: <CoverImageURL>
 # Marsh Wren
 Entry Date: 2022-07-05
 
-Main Image here
+![[Marsh Wren Thumbnail.jpg]]
 
-*Image caption here*
+*Marsh Wren on dried tall grass at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes
+Very distinct rapid buzzing call that is heard all over marshes. Difficult to photograph because often obscured by tall grass.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/HawkRiseSanctuary-Linden-NJ 
 
--> #location/Missing
+-> #location/CheesequakeStatePark-NJ
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5FyYRUZH_DTjnnCq?e=sJkbWt)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Marsh_Wren/overview)

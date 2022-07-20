@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Blue-gray Gnatcatcher
 Entry Date: 2022-07-05
 
-Main Image here
+![[Blue-gray Gnatcatcher Thumbnail.jpg]]
 
-*Image caption here*
+*Blue-gray Gnatcatcher on a tree branch at Great Swamp Refuge*
 
 ---------------------------------------------------------------
 ## Notes
@@ -16,14 +16,12 @@ At first, mistaken for a tiny [[White-breasted Nuthatch]] due to its erratic mov
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
-
--> #location/Missing
+-> #location/GreatSwampRefuge-NJ 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5BirQPuW74g54211?e=iMcscR)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Blue-gray_Gnatcatcher/overview)

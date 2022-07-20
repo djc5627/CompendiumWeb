@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Swamp Sparrow
 Entry Date: 2022-07-18
 
-Main Image here
+![[Swamp Sparrow Thumbnail.jpg]]
 
-*Image caption here*
+*Swamp Sparrow at Great Swamp Refuge near an observation deck*
 
 ---------------------------------------------------------------
 ## Notes
@@ -20,8 +20,8 @@ First seen at Great Swamp Refuge. Looks similar to [[Chipping Sparrow]] but with
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5QeY-iUC2SfvaTnP?e=ms9FdA)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Swamp_Sparrow/overview)

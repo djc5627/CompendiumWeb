@@ -5,13 +5,13 @@ image: <CoverImageURL>
 # Wood Thrush
 Entry Date: 2022-07-18
 
-Main Image here
+![[Wood Thrush Thumbnail.jpg]]
 
-*Image caption here*
+*Wood Thrush singing high up on a tree at Great Swamp Refuge*
 
 ---------------------------------------------------------------
 ## Notes
-First noticed at the Great Swamp Refuge due to their very distinct call.
+First noticed high up on trees at the Great Swamp Refuge due to their very distinct call. Looks similar to [[Veery]].
 
 ---------------------------------------------------------------
 ## Sightings
@@ -21,7 +21,7 @@ First noticed at the Great Swamp Refuge due to their very distinct call.
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5RVv0D2p64Pr6AHz?e=VTYx5U)
 
 ---------------------------------------------------------------
 ## References

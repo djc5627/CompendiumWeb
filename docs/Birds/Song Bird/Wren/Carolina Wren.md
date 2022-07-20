@@ -5,24 +5,24 @@ image: <CoverImageURL>
 # Carolina Wren
 Entry Date: 2022-07-05
 
-Main Image here
+![[Carolina Wren Thumbnail.jpg]]
 
-*Image caption here*
+*Carolina Wren singing on tree branch at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes
+At first, mistaken for [[House Wren]]. Very distinct call.
 
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/HawkRiseSanctuary-Linden-NJ 
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5CFFppHHxAcur7kx?e=AlntH6)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Carolina_Wren/overview)
