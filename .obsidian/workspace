@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
-            "mode": "preview",
-            "source": false
+            "mode": "source",
+            "source": true
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +20,8 @@
             {
               "leaf": "60b77a245aafe58b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "60b77a245aafe58b",
@@ -44,14 +44,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
-            "mode": "preview",
-            "source": false
+            "file": "docs/index.md",
+            "mode": "source",
+            "source": true
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "d76d98bb4974fc2f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":37},\"to\":{\"line\":25,\"ch\":37}},\"scroll\":9.91015625}"
+            },
             {
               "leaf": "d76d98bb4974fc2f",
               "group": null,
@@ -199,9 +205,9 @@
   },
   "active": "60b77a245aafe58b",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
-    "docs/index.md",
     "docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md",
     "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
     "docs/Birds/Song Bird/Wren/House Wren.md",
