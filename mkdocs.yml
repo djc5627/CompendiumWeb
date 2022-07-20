@@ -47,6 +47,14 @@ plugins:
   - search
   - roamlinks 
   - tags
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
   
 extra_css:
   - stylesheets/extra.css
