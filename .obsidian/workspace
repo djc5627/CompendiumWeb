@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
+            "file": "docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "6cb75ababa603e44",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
             {
               "leaf": "6cb75ababa603e44",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"linkUrl.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "6cb75ababa603e44",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Owl/Barred Owl.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":27},\"to\":{\"line\":24,\"ch\":35}}}"
             }
           ]
         }
@@ -164,7 +164,7 @@
               "leaf": "41797a2f43c30127",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":860,\"ch\":6},\"to\":{\"line\":860,\"ch\":6}},\"scroll\":845.65625}"
+              "eState": "{\"scroll\":835.37890625}"
             },
             {
               "leaf": "41797a2f43c30127",
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#location/ErnestOrosWildlifePreserve-Woodbridge-NJ",
+                "query": "balt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,14 +341,14 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "41797a2f43c30127",
+  "active": "52d1130a1b673527",
   "lastOpenFiles": [
-    "docs/Birds/Song Bird/Wren/House Wren.md",
+    "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
     "docs/index.md",
+    "docs/Birds/Song Bird/Wren/House Wren.md",
     "docs/Birds/Song Bird/Thrush/Solitaire/Townsend Solitaire.md",
     "docs/Thumbnails/Laughing Gull Thumbnail.jpg",
     "docs/Thumbnails/Great Blue Heron Thumbnail.jpg",
-    "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
     "docs/Birds/Song Bird/Thrush/Veery.md",
     "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
     "docs/Birds/Sea Bird/Gull/California Gull.md",
