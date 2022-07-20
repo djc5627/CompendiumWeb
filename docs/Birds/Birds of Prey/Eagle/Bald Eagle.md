@@ -10,7 +10,7 @@ Entry Date: 2022-05-03
 *Bald Eagle soaring over the trees at the Great Swamp*
 
 
-![test|100](https://i.imgur.com/zfnSoPm.jpg)
+![test|100](https://i.imgur.com/zfnSoPm.jpg){: style="height:150px;width:150px"}
 
 ---------------------------------------------------------------
 ## Notes
