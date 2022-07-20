@@ -851,19 +851,6 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Townsend Solitaire]]
-</div>
-<div markdown="1">
-[![[Townsend Solitaire Thumbnail.jpg]]](Birds/Song Bird/Thrush/Solitaire/Townsend Solitaire/)
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
 [[Veery]]
 </div>
 <div markdown="1">
