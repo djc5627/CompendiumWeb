@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "docs/Gallery.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         },
@@ -20,8 +20,8 @@
             {
               "leaf": "60b77a245aafe58b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "60b77a245aafe58b",
