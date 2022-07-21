@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
-            "mode": "source",
+            "file": "docs/Gallery.md",
+            "mode": "preview",
             "source": true
           }
         },
@@ -20,8 +20,14 @@
             {
               "leaf": "60b77a245aafe58b",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "60b77a245aafe58b",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Birds of Prey/Eagle/Bald Eagle.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":54},\"to\":{\"line\":9,\"ch\":54}},\"scroll\":0}"
             },
             {
               "leaf": "60b77a245aafe58b",
@@ -56,7 +62,7 @@
               "leaf": "d76d98bb4974fc2f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":37},\"to\":{\"line\":25,\"ch\":37}},\"scroll\":9.91015625}"
+              "eState": "{\"scroll\":9.91015625}"
             },
             {
               "leaf": "d76d98bb4974fc2f",
@@ -129,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
+                "file": "docs/Gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,14 +212,14 @@
   "active": "60b77a245aafe58b",
   "lastOpenFiles": [
     "docs/index.md",
-    "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
+    "docs/Gallery.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
+    "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
     "docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md",
     "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
     "docs/Birds/Song Bird/Wren/House Wren.md",
     "docs/Birds/Song Bird/Thrush/Solitaire/Townsend Solitaire.md",
     "docs/Thumbnails/Laughing Gull Thumbnail.jpg",
-    "docs/Thumbnails/Great Blue Heron Thumbnail.jpg",
-    "docs/Birds/Song Bird/Thrush/Veery.md"
+    "docs/Thumbnails/Great Blue Heron Thumbnail.jpg"
   ]
 }
