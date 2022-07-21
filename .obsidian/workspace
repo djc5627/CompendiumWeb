@@ -21,7 +21,7 @@
               "leaf": "60b77a245aafe58b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":50},\"to\":{\"line\":7,\"ch\":50}},\"scroll\":0}"
             },
             {
               "leaf": "60b77a245aafe58b",
@@ -62,7 +62,7 @@
               "leaf": "d76d98bb4974fc2f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":9.91015625}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":12},\"to\":{\"line\":38,\"ch\":22}},\"scroll\":9.91015625}"
             },
             {
               "leaf": "d76d98bb4974fc2f",
