@@ -89,7 +89,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 </div>
 
 
-## Doves/Pigeons/Swifts [-]
+## Doves/Pigeons/Swifts/Hummingbirds [-]
 
 <div id="dovespigeonsswifts-row" class="row" markdown="1">
 
@@ -127,6 +127,19 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 </div>
 <div markdown="1">
 [![[Chimney Swift Thumbnail.jpg]]](Birds/Swift/Chimney Swift/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Ruby-throated Hummingbird]]
+</div>
+<div markdown="1">
+[![[Ruby-throated Hummingbird Thumbnail.jpg]]](Birds/Hummingbird/Ruby-throated Hummingbird/)
 </div>
 
 </div>
