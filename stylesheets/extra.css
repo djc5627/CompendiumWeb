@@ -1,0 +1,91 @@
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px 5px 0px 5px;
+  margin: -5px 0;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 33%;
+    display: block;
+    margin-bottom: 0px;
+  }
+}
+
+/* Responsive columns */
+@media screen and (max-width: 450px) {
+  .column {
+    width: 50%;
+    display: block;
+    margin-bottom: 0px;
+  }
+}
+
+/* Responsive columns */
+@media screen and (max-width: 300px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 0px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 1px 10px 0px 10px;
+  text-align: center;
+  background-color: rgb(0 0 0 / 30%);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: scale(1.1);
+}
+
+.card-title {
+  height: 50px;
+}
+
+.galleryItem {
+  padding: 0px 5px 5px 5px;
+  margin: -1px -1px -1px -1px;
+  border: 0px 0px 0px 0px;
+}
+
+.galleryRow1 {
+  width: 100%;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.galleryRow2 {
+  width: 49.9%;
+}
+
+.galleryRow3 {
+  width: 33.1%;
+}
+
+.galleryRow4 {
+  width: 24.9%;
+}
+
+.galleryRowSetHeight {
+	height: 500px;
+}
