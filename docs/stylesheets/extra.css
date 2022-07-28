@@ -61,3 +61,25 @@
 .card-title {
   height: 50px;
 }
+
+.galleryItem {
+  padding: 0px 5px 5px 5px;
+  margin: -1px -1px -1px -1px;
+  border: 0px 0px px 0px;
+}
+
+.galleryRow1 {
+  width: 100%;
+}
+
+.galleryRow2 {
+  width: 50%;
+}
+
+.galleryRow3 {
+  width: 33%;
+}
+
+.galleryRow4 {
+  width: 25%;
+}
