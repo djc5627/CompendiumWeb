@@ -68,8 +68,24 @@
   border: 0px 0px 0px 0px;
 }
 
-.galleryRow {
+.galleryRow1 {
   width: 100%;
-  height:auto;
-  display: flex;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.galleryRow2 {
+  width: 49.9%;
+}
+
+.galleryRow3 {
+  width: 33.1%;
+}
+
+.galleryRow4 {
+  width: 24.9%;
+}
+
+.galleryRowSetHeight {
+	height: 500px;
 }
