@@ -11,12 +11,14 @@ Entry Date: 2022-07-05
 
 ---------------------------------------------------------------
 ## Notes
-First seen flying over pond at Ernest L. Oros Wildlife Preserve. At fist thought it was a young [[Great Blue Heron]]. Green Herons can extend their necks a lot and puff their tufts.
+First seen flying over pond at Ernest L. Oros Wildlife Preserve. At fist thought it was a young [[Great Blue Heron]]. Green Herons can extend their necks a lot and puff their tufts. Fun fact, Green Herons are one of the few tool-using bird species. They often create fishing lures using bread crusts, insects, and feathers, dropping them on the surface to entice small fish.
 
 ---------------------------------------------------------------
 ## Sightings
 
 -> #location/ErnestLOrosWildlifePreserve-Woodbridge-NJ 
+
+-> #location/NomaheganPark-Cranford-NJ
 
 ---------------------------------------------------------------
 ## Photos
