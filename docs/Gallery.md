@@ -41,5 +41,5 @@
 ![](https://i.imgur.com/ru708JB.jpg){ .galleryItem .galleryRow2}
 ![](https://i.imgur.com/mk07uZz.jpg){ .galleryItem .galleryRow2}
 ![](https://i.imgur.com/I3BQurx.jpg){ .galleryItem .galleryRow2}
-![](https://i.imgur.com/ImBJVDy.jpg){ .galleryItem .galleryRow2}
+![](https://i.imgur.com/Xea5UzX.jpg){ .galleryItem .galleryRow2}
 ![](https://i.imgur.com/ffg55t1.jpg){ .galleryItem .galleryRow1}
