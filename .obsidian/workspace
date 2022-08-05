@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Water Bird/Heron/Green Heron.md",
+            "file": "docs/Gallery.md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "d76d98bb4974fc2f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d76d98bb4974fc2f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Water Bird/Heron/Green Heron.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":143},\"to\":{\"line\":13,\"ch\":143}}}"
             },
             {
               "leaf": "d76d98bb4974fc2f",
@@ -74,7 +80,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
             "mode": "source",
             "source": true
           }
@@ -85,8 +91,14 @@
             {
               "leaf": "1940f7973e2b8c2a",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "1940f7973e2b8c2a",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":13.03515625}"
+              "eState": "{\"scroll\":230.37890625}"
             }
           ]
         }
@@ -120,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gree",
+                "query": "stilt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +145,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Water Bird/Heron/Green Heron.md",
+                "file": "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,17 +240,17 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "d76d98bb4974fc2f",
+  "active": "1940f7973e2b8c2a",
   "lastOpenFiles": [
-    "docs/Gallery.md",
     "docs/index.md",
+    "docs/Gallery.md",
+    "docs/Birds/Water Bird/Heron/Green Heron.md",
     "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
     "linkUrl.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
     "docs/Birds/Song Bird/New World Black Bird/Baltimore Oriole.md",
     "docs/Birds/Song Bird/Thrush/Wood Thrush.md",
-    "docs/Birds/Song Bird/Wren/House Wren.md",
-    "docs/Birds/Song Bird/Thrush/Solitaire/Townsend Solitaire.md"
+    "docs/Birds/Song Bird/Wren/House Wren.md"
   ]
 }

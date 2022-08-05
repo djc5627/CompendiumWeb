@@ -246,19 +246,6 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Stilt Sandpiper]]
-</div>
-<div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Shore Bird/Sandpiper/Stilt Sandpiper/)
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
 [[Double-crested Cormorant]]
 </div>
 <div markdown="1">

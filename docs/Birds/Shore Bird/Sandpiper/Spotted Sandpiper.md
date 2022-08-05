@@ -11,7 +11,7 @@ Entry Date: 2022-07-05
 
 ---------------------------------------------------------------
 ## Notes
-Shore bird that spends its time around freshwater. Looks very similar to [[Stilt Sandpiper]].
+Shore bird that spends its time around freshwater.
 
 ---------------------------------------------------------------
 ## Sightings
