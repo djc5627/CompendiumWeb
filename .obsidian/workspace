@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Gallery.md",
-            "mode": "source",
+            "file": "docs/index.md",
+            "mode": "preview",
             "source": true
           }
         },
@@ -20,8 +20,26 @@
             {
               "leaf": "d76d98bb4974fc2f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d76d98bb4974fc2f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d76d98bb4974fc2f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d76d98bb4974fc2f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":35},\"to\":{\"line\":19,\"ch\":35}},\"scroll\":0}"
+              "eState": "{}"
             },
             {
               "leaf": "d76d98bb4974fc2f",
@@ -116,8 +134,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Gallery.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,9 +230,9 @@
   },
   "active": "d76d98bb4974fc2f",
   "lastOpenFiles": [
-    "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
-    "docs/index.md",
     "docs/Gallery.md",
+    "docs/index.md",
+    "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
     "docs/Birds/Water Bird/Heron/Green Heron.md",
     "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
     "linkUrl.md",
