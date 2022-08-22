@@ -9,19 +9,37 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "source",
+            "file": "docs/Birds/Song Bird/Waxwing/Cedar Waxwing.md",
+            "mode": "preview",
             "source": true
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "6fa54450368e9ad7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "6fa54450368e9ad7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Waxwing/Cedar Waxwing.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":4.051282051282051}"
+            },
+            {
+              "leaf": "6fa54450368e9ad7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Vireo/Red-eyed Vireo.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "6fa54450368e9ad7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":253,\"ch\":39},\"to\":{\"line\":253,\"ch\":39}},\"scroll\":227.88671875}"
             }
           ]
         }
@@ -55,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reds",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +86,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/Waxwing/Cedar Waxwing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,15 +183,15 @@
   },
   "active": "6fa54450368e9ad7",
   "lastOpenFiles": [
-    "docs/Thumbnails/Killdeer Thumbnail.jpg",
+    "docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md",
+    "docs/Birds/Song Bird/Waxwing/Cedar Waxwing.md",
+    "docs/Birds/Song Bird/Vireo/Red-eyed Vireo.md",
     "docs/index.md",
+    "docs/Thumbnails/Killdeer Thumbnail.jpg",
     "docs/Birds/Song Bird/Grosbeak/Rose-breasted Grosbeak.md",
     "docs/Birds/Song Bird/Warbler/American Redstart.md",
-    "docs/Birds/Song Bird/Waxwing/Cedar Waxwing.md",
     "linkhere.md",
-    "docs/Birds/Song Bird/Vireo/Red-eyed Vireo.md",
     "docs/Birds/Sea Bird/Tern/Caspian Tern.md",
-    "docs/Birds/Kingfisher/Belted Kingfisher.md",
-    "docs/Birds/Shore Bird/Sandpiper/Least Sandpiper.md"
+    "docs/Birds/Kingfisher/Belted Kingfisher.md"
   ]
 }

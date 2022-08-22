@@ -11,7 +11,7 @@ Entry Date: 2022-08-22
 
 ---------------------------------------------------------------
 ## Notes
-First seen at Treman State Park in NY feeding another bird that was much larger. Soon realized that it was feeding the parasitic ![[Brown-headed Cowbird]] who was almost twice the size of the Vireo.
+First seen at Treman State Park in NY feeding another bird that was much larger. Soon realized that it was feeding the parasitic [[Brown-headed Cowbird]] who was almost twice the size of the Vireo.
 
 ---------------------------------------------------------------
 ## Sightings

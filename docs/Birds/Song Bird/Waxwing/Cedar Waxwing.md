@@ -11,7 +11,7 @@ Entry Date: 2022-08-22
 
 ---------------------------------------------------------------
 ## Notes
-Cedar Waxwings have a very beautiful assortment of colors and a fancy tuft. Like to eat berries. Observed repeatedly flying around and returning to the same perch similar to [[Eastern Wood-Peewee]].
+Cedar Waxwings have a very beautiful assortment of colors and a fancy tuft. Like to eat berries. Observed repeatedly flying around and returning to the same perch similar to [[Eastern Wood-Pewee]].
 
 ---------------------------------------------------------------
 ## Sightings

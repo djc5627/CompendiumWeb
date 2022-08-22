@@ -251,7 +251,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 [[Semipalmated Plover]]
 </div>
 <div markdown="1">
-[![[Semipalmated Thumbnail.jpg]]](Birds/Shore Bird/Plover/Semipalmated Plover/)
+[![[Semipalmated Plover Thumbnail.jpg]]](Birds/Shore Bird/Plover/Semipalmated Plover/)
 </div>
 
 </div>
