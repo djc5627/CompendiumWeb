@@ -91,7 +91,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 </div>
 
 
-## Doves/Pigeons/Swifts/Hummingbirds [-]
+## Doves/Swifts/Hummingbirds/Kingfishers [-]
 
 <div id="dovespigeonsswifts-row" class="row" markdown="1">
 
@@ -147,6 +147,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 </div>
 </div>
 
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Belted Kingfisher]]
+</div>
+<div markdown="1">
+[![[Belted Kingfisher Thumbnail.jpg]]](Birds/Kingfisher/Belted Kingfisher/)
+</div>
+
+</div>
+</div>
+
 </div>
 
 ## Sea/Water/Shore Birds [-]
@@ -196,6 +209,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Caspian Tern]]
+</div>
+<div markdown="1">
+[![[Caspian Tern Thumbnail.jpg]]](Birds/Sea Bird/Tern/Caspian Tern/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[American Oystercatcher]]
 </div>
 <div markdown="1">
@@ -213,6 +239,32 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 </div>
 <div markdown="1">
 [![[Killdeer Thumbnail.jpg]]](Birds/Shore Bird/Plover/Killdeer/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Semipalmated Plover]]
+</div>
+<div markdown="1">
+[![[Semipalmated Thumbnail.jpg]]](Birds/Shore Bird/Plover/Semipalmated Plover/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Least Sandpiper]]
+</div>
+<div markdown="1">
+[![[Least Sandpiper Thumbnail.jpg]]](Birds/Shore Bird/Sandpiper/Least Sandpiper/)
 </div>
 
 </div>
@@ -671,6 +723,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[American Redstart]]
+</div>
+<div markdown="1">
+[![[American Redstart Thumbnail.jpg]]](Birds/Song Bird/Warbler/American Redstart/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Black-and-white Warbler]]
 </div>
 <div markdown="1">
@@ -853,6 +918,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Rose-breasted Grosbeak]]
+</div>
+<div markdown="1">
+[![[Rose-breasted Grosbeak Thumbnail.jpg]]](Birds/Song Bird/Grosbeak/Rose-breasted Grosbeak/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Veery]]
 </div>
 <div markdown="1">
@@ -896,6 +974,32 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 </div>
 <div markdown="1">
 [![[Tufted Titmouse Thumbnail.jpg]]](Birds/Song Bird/Tit/Titmouse/Tufted Titmouse/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Red-eyed Vireo]]
+</div>
+<div markdown="1">
+[![[Red-eyed Vireo Thumbnail.jpg]]](Birds/Song Bird/Vireo/Red-eyed Vireo/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Cedar Waxwing]]
+</div>
+<div markdown="1">
+[![[Cedar Waxwing Thumbnail.jpg]]](Birds/Song Bird/Waxwing/Cedar Waxwing/)
 </div>
 
 </div>
