@@ -16,7 +16,7 @@ function collapseBirdsOfPrey() {
   }
 }
 
-var dovesPigeonsSwifts = document.getElementById('dovespigeonsswifts-');
+var dovesPigeonsSwifts = document.getElementById('dovesswiftshummingbirdskingfishers-');
 
 dovesPigeonsSwifts.style.cursor = 'pointer';
 dovesPigeonsSwifts.onclick = collapseDovesPigeonsSwifts;
