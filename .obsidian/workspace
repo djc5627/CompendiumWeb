@@ -21,7 +21,19 @@
               "leaf": "542ef13fc13cb8b7",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":95,\"ch\":27},\"to\":{\"line\":95,\"ch\":27}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "542ef13fc13cb8b7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Bunting/Indigo Bunting.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}},\"scroll\":0}"
+            },
+            {
+              "leaf": "542ef13fc13cb8b7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":11},\"to\":{\"line\":2,\"ch\":11}}}"
             }
           ]
         }
@@ -164,15 +176,15 @@
   },
   "active": "542ef13fc13cb8b7",
   "lastOpenFiles": [
-    "docs/Birds/Song Bird/Waxwing/Cedar Waxwing.md",
+    "docs/Birds/Song Bird/Bunting/Indigo Bunting.md",
     "docs/index.md",
+    "docs/Birds/Song Bird/Waxwing/Cedar Waxwing.md",
     "docs/Birds/Song Bird/Flycatcher/Eastern Wood-Pewee.md",
     "docs/Birds/Song Bird/Vireo/Red-eyed Vireo.md",
     "docs/Thumbnails/Killdeer Thumbnail.jpg",
     "docs/Birds/Song Bird/Grosbeak/Rose-breasted Grosbeak.md",
     "docs/Birds/Song Bird/Warbler/American Redstart.md",
     "linkhere.md",
-    "docs/Birds/Sea Bird/Tern/Caspian Tern.md",
-    "docs/Birds/Kingfisher/Belted Kingfisher.md"
+    "docs/Birds/Sea Bird/Tern/Caspian Tern.md"
   ]
 }
