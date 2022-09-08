@@ -47,6 +47,7 @@ plugins:
   - search
   - roamlinks 
   - tags
+  - mkdocs-video
   - glightbox:
        touchNavigation: true
        loop: false
