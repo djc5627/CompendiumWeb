@@ -26,6 +26,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Cooper's Hawk]]
+</div>
+<div markdown="1">
+[![[Cooper's Hawk Thumbnail.jpg]]](Birds/Birds of Prey/Hawk/Cooper's Hawk/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Red-Tailed Hawk]]
 </div>
 <div markdown="1">
@@ -788,10 +801,36 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Cape May Warbler]]
+</div>
+<div markdown="1">
+[![[Cape May Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Cape May Warbler/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Common Yellowthroat]]
 </div>
 <div markdown="1">
 [![[Common Yellowthroat Thumbnail.jpg]]](Birds/Song Bird/Warbler/Common Yellowthroat/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Magnolia Warbler]]
+</div>
+<div markdown="1">
+[![[Magnolia Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Magnolia Warbler/)
 </div>
 
 </div>
@@ -1098,6 +1137,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 </div>
 <div markdown="1">
 [![[Northern Flicker Thumbnail.jpg]]](Birds/Woodpecker/Northern Flicker/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Pileated Woodpecker]]
+</div>
+<div markdown="1">
+[![[Pileated Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Pileated Woodpecker/)
 </div>
 
 </div>

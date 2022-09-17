@@ -11,12 +11,14 @@ Entry Date: 2022-08-22
 
 ---------------------------------------------------------------
 ## Notes
-Only seen the female version which has similar colors to [[American Goldfinch]]. The male has vibrant orange and black plumage.
+Only seen the female version which has similar colors to [[American Goldfinch]]. The male has vibrant orange and black plumage. Also seen at Milton Lake park where we noticed it fanning out its vibrant back plumage.
 
 ---------------------------------------------------------------
 ## Sightings
 
 -> #location/MontezumaNationalWildlifeRefuge-NY
+
+-> #location/MiltonLakePark-Clark-NJ 
 
 
 ---------------------------------------------------------------
