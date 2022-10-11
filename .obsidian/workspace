@@ -21,7 +21,7 @@
               "leaf": "542ef13fc13cb8b7",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Bunting/Indigo Bunting.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}},\"scroll\":4.9787234042553195}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "542ef13fc13cb8b7",
@@ -276,7 +276,7 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "52d1130a1b673527",
+  "active": "542ef13fc13cb8b7",
   "lastOpenFiles": [
     "docs/index.md",
     "docs/Gallery.md",
