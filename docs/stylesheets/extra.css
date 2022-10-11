@@ -68,6 +68,12 @@
   border: 0px 0px 0px 0px;
 }
 
+/* On mouse-over, add a deeper shadow */
+.galleryItem:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: scale(1.1);
+}
+
 .galleryRow1 {
   width: 100%;
   margin-bottom: 30px;
