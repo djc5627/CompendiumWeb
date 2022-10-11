@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Gallery.md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "542ef13fc13cb8b7",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":278},\"to\":{\"line\":46,\"ch\":278}},\"scroll\":45.90522243713733}"
+            },
+            {
+              "leaf": "542ef13fc13cb8b7",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":3.61962890625}"
+              "eState": "{}"
             },
             {
               "leaf": "542ef13fc13cb8b7",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "542ef13fc13cb8b7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Videos.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +278,7 @@
   },
   "active": "542ef13fc13cb8b7",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/Birds/Woodpecker/Pileated Woodpecker.md",
     "docs/Birds/Song Bird/Warbler/Magnolia Warbler.md",
     "linkhere.md",
@@ -286,7 +287,6 @@
     "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
     "docs/Birds/Song Bird/Warbler/Common Yellowthroat.md",
     "docs/Birds/Song Bird/Warbler/American Redstart.md",
-    "docs/Videos.md",
-    "docs/index.md"
+    "docs/Videos.md"
   ]
 }

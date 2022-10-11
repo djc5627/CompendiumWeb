@@ -43,3 +43,9 @@
 ![](https://i.imgur.com/I3BQurx.jpg){ .galleryItem .galleryRow2}
 ![](https://i.imgur.com/MBDyjA1.jpg){ .galleryItem .galleryRow2}
 ![](https://i.imgur.com/ffg55t1.jpg){ .galleryItem .galleryRow1}
+
+![](https://sat02pap001files.storage.live.com/y4mLmi-3kuJtvjphwitm52lwFzDKUpWsBdu67NVlIJh2T-rZe1w6XWkOTpCLBTnCpw33R8z425EZ_06_EHh9r_BDXob5LGb7X2ngM9WID0DUWKiZQv49iXa1Qkm_mLBPiS9sdEQ_c27z9Q-S6lbXsWpuWQevM-7qcew_aYpAKpViyKNUaHpX6jNSVb7vMcKiMl_?width=2198&height=1465&cropmode=none){ .galleryItem .galleryRow2}
+![](https://sat02pap001files.storage.live.com/y4mLmi-3kuJtvjphwitm52lwFzDKUpWsBdu67NVlIJh2T-rZe1w6XWkOTpCLBTnCpw33R8z425EZ_06_EHh9r_BDXob5LGb7X2ngM9WID0DUWKiZQv49iXa1Qkm_mLBPiS9sdEQ_c27z9Q-S6lbXsWpuWQevM-7qcew_aYpAKpViyKNUaHpX6jNSVb7vMcKiMl_?width=2198&height=1465&cropmode=none){ .galleryItem .galleryRow2}
+
+
+<img src="https://sat02pap001files.storage.live.com/y4mLmi-3kuJtvjphwitm52lwFzDKUpWsBdu67NVlIJh2T-rZe1w6XWkOTpCLBTnCpw33R8z425EZ_06_EHh9r_BDXob5LGb7X2ngM9WID0DUWKiZQv49iXa1Qkm_mLBPiS9sdEQ_c27z9Q-S6lbXsWpuWQevM-7qcew_aYpAKpViyKNUaHpX6jNSVb7vMcKiMl_?width=2198&height=1465&cropmode=none" width="2198" height="1465" />
