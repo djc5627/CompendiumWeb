@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Birds/Song Bird/Bunting/Indigo Bunting.md",
+            "file": "docs/index.md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,20 @@
             {
               "leaf": "542ef13fc13cb8b7",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "542ef13fc13cb8b7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Gallery.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "542ef13fc13cb8b7",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Bunting/Indigo Bunting.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":33},\"to\":{\"line\":7,\"ch\":33}},\"scroll\":0}"
             },
             {
               "leaf": "542ef13fc13cb8b7",
@@ -124,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Birds/Song Bird/Warbler/American Redstart.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":215},\"to\":{\"line\":13,\"ch\":215}},\"scroll\":0}"
-            },
-            {
-              "leaf": "542ef13fc13cb8b7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/Videos.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "542ef13fc13cb8b7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Bunting/Indigo Bunting.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,15 +278,15 @@
   },
   "active": "542ef13fc13cb8b7",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/Gallery.md",
+    "docs/Birds/Song Bird/Bunting/Indigo Bunting.md",
+    "docs/index.md",
     "docs/Birds/Woodpecker/Pileated Woodpecker.md",
     "docs/Birds/Song Bird/Warbler/Magnolia Warbler.md",
     "linkhere.md",
     "docs/Birds/Song Bird/Warbler/Cape May Warbler.md",
     "docs/Birds/Birds of Prey/Hawk/Cooper's Hawk.md",
     "docs/Birds/Birds of Prey/Hawk/Red-Tailed Hawk.md",
-    "docs/Birds/Song Bird/Warbler/Common Yellowthroat.md",
-    "docs/Birds/Song Bird/Warbler/American Redstart.md"
+    "docs/Birds/Song Bird/Warbler/Common Yellowthroat.md"
   ]
 }

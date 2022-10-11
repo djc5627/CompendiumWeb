@@ -5,7 +5,7 @@ image: <CoverImageURL>
 # Indigo Bunting
 Entry Date: 2022-09-05
 
-![[Indigo Bunting Thumbnail.jpg]]{ data-title="test" data-description="testDesc"}
+![[Indigo Bunting Thumbnail.jpg]]
 
 *Indigo Bunting on a tree atop a mountain in Harriman State Park*
 

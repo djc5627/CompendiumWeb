@@ -16,7 +16,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 [[Bald Eagle]]
 </div>
 <div markdown="1">
-[![[Bald Eagle Thumbnail.jpg]]](Birds/Birds of Prey/Eagle/Bald Eagle/)
+[![[Bald Eagle Thumbnail.jpg]]](Birds/Birds of Prey/Eagle/Bald Eagle/){ data-title="Bald Eagle"}
 </div>
 
 </div>
