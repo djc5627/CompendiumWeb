@@ -64,7 +64,7 @@
 
 .galleryItem {
   padding: 0px 0px 0px 0px;
-  margin: 5px 5px 5px 5px;
+  margin: .5% .5% .5% .5%;
   border: 0px 0px 0px 0px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .5);
   transition: 0.3s;
@@ -77,13 +77,13 @@
 }
 
 .galleryRow1 {
-  width: 98.1%;
+  width: 98.6%;
   margin-bottom: 30px;
   margin-top: 30px;
 }
 
 .galleryRow2 {
-  width: 48.2%;
+  width: 48.5%;
 }
 
 .galleryRow3 {
@@ -91,7 +91,7 @@
 }
 
 .galleryRow4 {
-  width: 23.2%;
+  width: 23.45%;
 }
 
 .galleryRowSetHeight {
