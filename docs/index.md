@@ -29,10 +29,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 [[Cooper's Hawk]]
 </div>
 <div markdown="1">
-[![[Cooper's Hawk Thumbnail.jpg]]{
-data-title="Bald Eagle"
-data-description="Birds of Prey"}]
-](Birds/Birds of Prey/Hawk/Cooper's Hawk/)
+[![[Cooper's Hawk Thumbnail.jpg]]{data-title="Cooper's Hawk" data-description="Birds of Prey"}](Birds/Birds of Prey/Hawk/Cooper's Hawk/)
 </div>
 
 </div>
@@ -45,7 +42,7 @@ data-description="Birds of Prey"}]
 [[Red-Tailed Hawk]]
 </div>
 <div markdown="1">
-[![[Red-tailed Hawk Thumbnail.jpg]]](Birds/Birds of Prey/Hawk/Red-Tailed Hawk/)
+[![[Red-tailed Hawk Thumbnail.jpg]]{data-title="Red-Tailed Hawk" data-description="Birds of Prey"}](Birds/Birds of Prey/Hawk/Red-Tailed Hawk/)
 </div>
 
 </div>
@@ -58,7 +55,7 @@ data-description="Birds of Prey"}]
 [[Barred Owl]]
 </div>
 <div markdown="1">
-[![[Barred Owl Thumbnail.jpg]]](Birds/Birds of Prey/Owl/Barred Owl/)
+[![[Barred Owl Thumbnail.jpg]]{data-title="Barred Owl" data-description="Birds of Prey"}](Birds/Birds of Prey/Owl/Barred Owl/)
 </div>
 
 </div>
@@ -71,7 +68,7 @@ data-description="Birds of Prey"}]
 [[Great Horned Owl]]
 </div>
 <div markdown="1">
-[![[Great Horned Owl Thumbnail.jpg]]](Birds/Birds of Prey/Owl/Great Horned Owl/)
+[![[Great Horned Owl Thumbnail.jpg]]{data-title="Great Horned Owl" data-description="Birds of Prey"}](Birds/Birds of Prey/Owl/Great Horned Owl/)
 </div>
 
 </div>
@@ -84,7 +81,7 @@ data-description="Birds of Prey"}]
 [[Turkey Vulture]]
 </div>
 <div markdown="1">
-[![[Turkey Vulture Thumbnail.jpg]]](Birds/Birds of Prey/Vulture/Turkey Vulture/)
+[![[Turkey Vulture Thumbnail.jpg]]{data-title="Turkey Vulture" data-description="Birds of Prey"}](Birds/Birds of Prey/Vulture/Turkey Vulture/)
 </div>
 
 </div>
@@ -97,7 +94,7 @@ data-description="Birds of Prey"}]
 [[Osprey]]
 </div>
 <div markdown="1">
-[![[Osprey Thumbnail.jpg]]](Birds/Birds of Prey/Osprey/)
+[![[Osprey Thumbnail.jpg]]{data-title="Osprey" data-description="Birds of Prey"}](Birds/Birds of Prey/Osprey/)
 </div>
 
 </div>
@@ -118,7 +115,7 @@ data-description="Birds of Prey"}]
 [[Mourning Dove]]
 </div>
 <div markdown="1">
-[![[Mourning Dove Thumbnail.jpg]]](Birds/Dove/Mourning Dove/)
+[![[Mourning Dove Thumbnail.jpg]]{data-title="Mourning Dove" data-description="Doves"}](Birds/Dove/Mourning Dove/)
 </div>
 
 </div>
@@ -131,7 +128,7 @@ data-description="Birds of Prey"}]
 [[Rock Pigeon]]
 </div>
 <div markdown="1">
-[![[Rock Pigeon Thumbnail.jpg]]](Birds/Pigeon/Rock Pigeon/)
+[![[Rock Pigeon Thumbnail.jpg]]{data-title="Rock Pigeon" data-description="Pigeons"}](Birds/Pigeon/Rock Pigeon/)
 </div>
 
 </div>
@@ -144,7 +141,7 @@ data-description="Birds of Prey"}]
 [[Chimney Swift]]
 </div>
 <div markdown="1">
-[![[Chimney Swift Thumbnail.jpg]]](Birds/Swift/Chimney Swift/)
+[![[Chimney Swift Thumbnail.jpg]]{data-title="Chimney Swift" data-description="Swifts"}](Birds/Swift/Chimney Swift/)
 </div>
 
 </div>
@@ -157,7 +154,7 @@ data-description="Birds of Prey"}]
 [[Ruby-throated Hummingbird]]
 </div>
 <div markdown="1">
-[![[Ruby-throated Hummingbird Thumbnail.jpg]]](Birds/Hummingbird/Ruby-throated Hummingbird/)
+[![[Ruby-throated Hummingbird Thumbnail.jpg]]{data-title="Ruby-throated Hummingbird" data-description="Hummingbirds"}](Birds/Hummingbird/Ruby-throated Hummingbird/)
 </div>
 
 </div>
@@ -170,7 +167,7 @@ data-description="Birds of Prey"}]
 [[Belted Kingfisher]]
 </div>
 <div markdown="1">
-[![[Belted Kingfisher Thumbnail.jpg]]](Birds/Kingfisher/Belted Kingfisher/)
+[![[Belted Kingfisher Thumbnail.jpg]]{data-title="Belted Kingfisher" data-description="Kingfishers"}](Birds/Kingfisher/Belted Kingfisher/)
 </div>
 
 </div>
@@ -189,7 +186,7 @@ data-description="Birds of Prey"}]
 [[California Gull]]
 </div>
 <div markdown="1">
-[![[California Gull Thumbnail.jpg]]](Birds/Sea Bird/Gull/California Gull/)
+[![[California Gull Thumbnail.jpg]]{data-title="California Gull" data-description="Sea Birds"}](Birds/Sea Bird/Gull/California Gull/)
 </div>
 
 </div>
@@ -202,7 +199,7 @@ data-description="Birds of Prey"}]
 [[Laughing Gull]]
 </div>
 <div markdown="1">
-[![[Laughing Gull Thumbnail.jpg]]](Birds/Sea Bird/Gull/Laughing Gull/)
+[![[Laughing Gull Thumbnail.jpg]]{data-title="Laughing Gull" data-description="Sea Birds"}](Birds/Sea Bird/Gull/Laughing Gull/)
 </div>
 
 </div>
@@ -215,7 +212,7 @@ data-description="Birds of Prey"}]
 [[Ring-billed Gull]]
 </div>
 <div markdown="1">
-[![[Ring-billed Gull Thumbnail.jpg]]](Birds/Sea Bird/Gull/Ring-billed Gull/)
+[![[Ring-billed Gull Thumbnail.jpg]]{data-title="Ring-billed Gull" data-description="Sea Birds"}](Birds/Sea Bird/Gull/Ring-billed Gull/)
 </div>
 
 </div>
@@ -228,7 +225,7 @@ data-description="Birds of Prey"}]
 [[Caspian Tern]]
 </div>
 <div markdown="1">
-[![[Caspian Tern Thumbnail.jpg]]](Birds/Sea Bird/Tern/Caspian Tern/)
+[![[Caspian Tern Thumbnail.jpg]]{data-title="Caspian Tern" data-description="Sea Birds"}](Birds/Sea Bird/Tern/Caspian Tern/)
 </div>
 
 </div>
@@ -241,7 +238,7 @@ data-description="Birds of Prey"}]
 [[American Oystercatcher]]
 </div>
 <div markdown="1">
-[![[American Oystercatcher Thumbnail.jpg]]](Birds/Shore Bird/Oystercatcher/American Oystercatcher/)
+[![[American Oystercatcher Thumbnail.jpg]]{data-title="American Oystercatcher" data-description="Shore Birds"}](Birds/Shore Bird/Oystercatcher/American Oystercatcher/)
 </div>
 
 </div>
@@ -254,7 +251,7 @@ data-description="Birds of Prey"}]
 [[Killdeer]]
 </div>
 <div markdown="1">
-[![[Killdeer Thumbnail.jpg]]](Birds/Shore Bird/Plover/Killdeer/)
+[![[Killdeer Thumbnail.jpg]]{data-title="Killdeer" data-description="Shore Birds"}](Birds/Shore Bird/Plover/Killdeer/)
 </div>
 
 </div>
@@ -267,7 +264,7 @@ data-description="Birds of Prey"}]
 [[Semipalmated Plover]]
 </div>
 <div markdown="1">
-[![[Semipalmated Plover Thumbnail.jpg]]](Birds/Shore Bird/Plover/Semipalmated Plover/)
+[![[Semipalmated Plover Thumbnail.jpg]]{data-title="Semipalmated Plover" data-description="Shore Birds"}](Birds/Shore Bird/Plover/Semipalmated Plover/)
 </div>
 
 </div>
@@ -280,7 +277,7 @@ data-description="Birds of Prey"}]
 [[Least Sandpiper]]
 </div>
 <div markdown="1">
-[![[Least Sandpiper Thumbnail.jpg]]](Birds/Shore Bird/Sandpiper/Least Sandpiper/)
+[![[Least Sandpiper Thumbnail.jpg]]{data-title="Least Sandpiper" data-description="Shore Birds"}](Birds/Shore Bird/Sandpiper/Least Sandpiper/)
 </div>
 
 </div>
@@ -293,7 +290,7 @@ data-description="Birds of Prey"}]
 [[Lesser Yellowlegs]]
 </div>
 <div markdown="1">
-[![[Lesser Yellowlegs Thumbnail.jpg]]](Birds/Shore Bird/Sandpiper/Lesser Yellowlegs/)
+[![[Lesser Yellowlegs Thumbnail.jpg]]{data-title="Lesser Yellowlegs" data-description="Shore Birds"}](Birds/Shore Bird/Sandpiper/Lesser Yellowlegs/)
 </div>
 
 </div>
@@ -306,7 +303,7 @@ data-description="Birds of Prey"}]
 [[Spotted Sandpiper]]
 </div>
 <div markdown="1">
-[![[Spotted Sandpiper Thumbnail.jpg]]](Birds/Shore Bird/Sandpiper/Spotted Sandpiper/)
+[![[Spotted Sandpiper Thumbnail.jpg]]{data-title="Spotted Sandpiper" data-description="Shore Birds"}](Birds/Shore Bird/Sandpiper/Spotted Sandpiper/)
 </div>
 
 </div>
@@ -319,7 +316,7 @@ data-description="Birds of Prey"}]
 [[Double-crested Cormorant]]
 </div>
 <div markdown="1">
-[![[Double-crested Cormorant Thumbnail.jpg]]](Birds/Water Bird/Cormorant/Double-crested Cormorant/)
+[![[Double-crested Cormorant Thumbnail.jpg]]{data-title="Double-crested Cormorant" data-description="Water Birds"}](Birds/Water Bird/Cormorant/Double-crested Cormorant/)
 </div>
 
 </div>
@@ -332,7 +329,7 @@ data-description="Birds of Prey"}]
 [[Great Egret]]
 </div>
 <div markdown="1">
-[![[Great Egret Thumbnail.jpg]]](Birds/Water Bird/Egret/Great Egret/)
+[![[Great Egret Thumbnail.jpg]]{data-title="Great Egret" data-description="Water Birds"}](Birds/Water Bird/Egret/Great Egret/)
 </div>
 
 </div>
@@ -345,7 +342,7 @@ data-description="Birds of Prey"}]
 [[Great Blue Heron]]
 </div>
 <div markdown="1">
-[![[Great Blue Heron Thumbnail.jpg]]](Birds/Water Bird/Heron/Great Blue Heron/)
+[![[Great Blue Heron Thumbnail.jpg]]{data-title="Great Blue Heron" data-description="Water Birds"}](Birds/Water Bird/Heron/Great Blue Heron/)
 </div>
 
 </div>
@@ -358,7 +355,7 @@ data-description="Birds of Prey"}]
 [[Green Heron]]
 </div>
 <div markdown="1">
-[![[Green Heron Thumbnail.jpg]]](Birds/Water Bird/Heron/Green Heron/)
+[![[Green Heron Thumbnail.jpg]]{data-title="Green Heron" data-description="Water Birds"}](Birds/Water Bird/Heron/Green Heron/)
 </div>
 
 </div>
@@ -371,7 +368,7 @@ data-description="Birds of Prey"}]
 [[Mallard Duck]]
 </div>
 <div markdown="1">
-[![[Mallard Duck Thumbnail.jpg]]](Birds/Water Fowl/Duck/Mallard Duck/)
+[![[Mallard Duck Thumbnail.jpg]]{data-title="Mallard Duck" data-description="Water Fowl"}](Birds/Water Fowl/Duck/Mallard Duck/)
 </div>
 
 </div>
@@ -384,7 +381,7 @@ data-description="Birds of Prey"}]
 [[Wood Duck]]
 </div>
 <div markdown="1">
-[![[Wood Duck Thumbnail.jpg]]](Birds/Water Fowl/Duck/Wood Duck/)
+[![[Wood Duck Thumbnail.jpg]]{data-title="Wood Duck" data-description="Water Fowl"}](Birds/Water Fowl/Duck/Wood Duck/)
 </div>
 
 </div>
@@ -397,7 +394,7 @@ data-description="Birds of Prey"}]
 [[Canadian Goose]]
 </div>
 <div markdown="1">
-[![[Canadian Goose Thumbnail.jpg]]](Birds/Water Fowl/Goose/Canadian Goose/)
+[![[Canadian Goose Thumbnail.jpg]]{data-title="Canadian Goose" data-description="Water Fowl"}](Birds/Water Fowl/Goose/Canadian Goose/)
 </div>
 
 </div>
@@ -417,7 +414,7 @@ data-description="Birds of Prey"}]
 [[Indigo Bunting]]
 </div>
 <div markdown="1">
-[![[Indigo Bunting Thumbnail.jpg]]](Birds/Song Bird/Bunting/Indigo Bunting/)
+[![[Indigo Bunting Thumbnail.jpg]]{data-title="Indigo Bunting" data-description="Song Birds"}](Birds/Song Bird/Bunting/Indigo Bunting/)
 </div>
 
 </div>
@@ -430,7 +427,7 @@ data-description="Birds of Prey"}]
 [[Northern Cardinal]]
 </div>
 <div markdown="1">
-[![[Northern Cardinal Thumbnail.jpg]]](Birds/Song Bird/Cardinal/Northern Cardinal/)
+[![[Northern Cardinal Thumbnail.jpg]]{data-title="Northern Cardinal" data-description="Song Birds"}](Birds/Song Bird/Cardinal/Northern Cardinal/)
 </div>
 
 </div>
@@ -443,7 +440,7 @@ data-description="Birds of Prey"}]
 [[Gray Catbird]]
 </div>
 <div markdown="1">
-[![[Gray Catbird Thumbnail.jpg]]](Birds/Song Bird/Catbird/Gray Catbird/)
+[![[Gray Catbird Thumbnail.jpg]]{data-title="Gray Catbird" data-description="Song Birds"}](Birds/Song Bird/Catbird/Gray Catbird/)
 </div>
 
 </div>
@@ -456,7 +453,7 @@ data-description="Birds of Prey"}]
 [[American Crow]]
 </div>
 <div markdown="1">
-[![[American Crow Thumbnail.jpg]]](Birds/Song Bird/Crow/American Crow/)
+[![[American Crow Thumbnail.jpg]]{data-title="American Crow" data-description="Song Birds"}](Birds/Song Bird/Crow/American Crow/)
 </div>
 
 </div>
@@ -469,7 +466,7 @@ data-description="Birds of Prey"}]
 [[American Goldfinch]]
 </div>
 <div markdown="1">
-[![[American Goldfinch Thumbnail.jpg]]](Birds/Song Bird/Finch/American Goldfinch/)
+[![[American Goldfinch Thumbnail.jpg]]{data-title="American Goldfinch" data-description="Song Birds"}](Birds/Song Bird/Finch/American Goldfinch/)
 </div>
 
 </div>
@@ -482,7 +479,7 @@ data-description="Birds of Prey"}]
 [[House Finch]]
 </div>
 <div markdown="1">
-[![[House Finch Thumbnail.jpg]]](Birds/Song Bird/Finch/House Finch/)
+[![[House Finch Thumbnail.jpg]]{data-title="House Finch" data-description="Song Birds"}](Birds/Song Bird/Finch/House Finch/)
 </div>
 
 </div>
@@ -495,7 +492,7 @@ data-description="Birds of Prey"}]
 [[Blue Jay]]
 </div>
 <div markdown="1">
-[![[Blue Jay Thumbnail.jpg]]](Birds/Song Bird/Jay/Blue Jay/)
+[![[Blue Jay Thumbnail.jpg]]{data-title="Blue Jay" data-description="Song Birds"}](Birds/Song Bird/Jay/Blue Jay/)
 </div>
 
 </div>
@@ -508,7 +505,7 @@ data-description="Birds of Prey"}]
 [[Gold-crowned Kinglet]]
 </div>
 <div markdown="1">
-[![[Gold-crowned Kinglet Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Gold-crowned Kinglet/)
+[![[Gold-crowned Kinglet Thumbnail.jpg]]{data-title="Gold-crowned Kinglet" data-description="Song Birds"}](Birds/Song Bird/Kinglet/Gold-crowned Kinglet/)
 </div>
 
 </div>
@@ -521,7 +518,7 @@ data-description="Birds of Prey"}]
 [[Ruby-crowned Kinglet]]
 </div>
 <div markdown="1">
-[![[Ruby-crowned Kinglet Thumbnail.jpg]]](Birds/Song Bird/Kinglet/Ruby-crowned Kinglet/)
+[![[Ruby-crowned Kinglet Thumbnail.jpg]]{data-title="Ruby-crowned Kinglet" data-description="Song Birds"}](Birds/Song Bird/Kinglet/Ruby-crowned Kinglet/)
 </div>
 
 </div>
@@ -534,7 +531,7 @@ data-description="Birds of Prey"}]
 [[Northern Mockingbird]]
 </div>
 <div markdown="1">
-[![[Northern Mockingbird Thumbnail.jpg]]](Birds/Song Bird/Mocking Bird/Northern Mockingbird/)
+[![[Northern Mockingbird Thumbnail.jpg]]{data-title="Northern Mockingbird" data-description="Song Birds"}](Birds/Song Bird/Mocking Bird/Northern Mockingbird/)
 </div>
 
 </div>
@@ -547,7 +544,7 @@ data-description="Birds of Prey"}]
 [[Baltimore Oriole]]
 </div>
 <div markdown="1">
-[![[Baltimore Oriole Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Baltimore Oriole/)
+[![[Baltimore Oriole Thumbnail.jpg]]{data-title="Baltimore Oriole" data-description="Song Birds"}](Birds/Song Bird/New World Black Bird/Baltimore Oriole/)
 </div>
 
 </div>
@@ -560,7 +557,7 @@ data-description="Birds of Prey"}]
 [[Brown-headed Cowbird]]
 </div>
 <div markdown="1">
-[![[Brown-headed Cowbird Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Brown-headed Cowbird/)
+[![[Brown-headed Cowbird Thumbnail.jpg]]{data-title="Brown-headed Cowbird" data-description="Song Birds"}](Birds/Song Bird/New World Black Bird/Brown-headed Cowbird/)
 </div>
 
 </div>
@@ -573,7 +570,7 @@ data-description="Birds of Prey"}]
 [[Grackle]]
 </div>
 <div markdown="1">
-[![[Grackle Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Grackle/)
+[![[Grackle Thumbnail.jpg]]{data-title="Grackle" data-description="Song Birds"}](Birds/Song Bird/New World Black Bird/Grackle/)
 </div>
 
 </div>
@@ -586,7 +583,7 @@ data-description="Birds of Prey"}]
 [[Great-tailed Grackle]]
 </div>
 <div markdown="1">
-[![[Great-tailed Grackle Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Great-tailed Grackle/)
+[![[Great-tailed Grackle Thumbnail.jpg]]{data-title="Great-tailed Grackle" data-description="Song Birds"}](Birds/Song Bird/New World Black Bird/Great-tailed Grackle/)
 </div>
 
 </div>
@@ -599,7 +596,7 @@ data-description="Birds of Prey"}]
 [[Red-winged Blackbird]]
 </div>
 <div markdown="1">
-[![[Red-winged Blackbird Thumbnail.jpg]]](Birds/Song Bird/New World Black Bird/Red-winged Blackbird/)
+[![[Red-winged Blackbird Thumbnail.jpg]]{data-title="Red-winged Blackbird" data-description="Song Birds"}](Birds/Song Bird/New World Black Bird/Red-winged Blackbird/)
 </div>
 
 </div>
@@ -612,7 +609,7 @@ data-description="Birds of Prey"}]
 [[White-breasted Nuthatch]]
 </div>
 <div markdown="1">
-[![[White-breasted Nuthatch Thumbnail.jpg]]](Birds/Song Bird/Nuthatch/White-breasted Nuthatch/)
+[![[White-breasted Nuthatch Thumbnail.jpg]]{data-title="White-breasted Nuthatch" data-description="Song Birds"}](Birds/Song Bird/Nuthatch/White-breasted Nuthatch/)
 </div>
 
 </div>
@@ -625,7 +622,7 @@ data-description="Birds of Prey"}]
 [[American Robin]]
 </div>
 <div markdown="1">
-[![[American Robin Thumbnail.jpg]]](Birds/Song Bird/Thrush/Robin/American Robin/)
+[![[American Robin Thumbnail.jpg]]{data-title="American Robin" data-description="Song Birds"}](Birds/Song Bird/Thrush/Robin/American Robin/)
 </div>
 
 </div>
@@ -638,7 +635,7 @@ data-description="Birds of Prey"}]
 [[Chipping Sparrow]]
 </div>
 <div markdown="1">
-[![[Chipping Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Chipping Sparrow/)
+[![[Chipping Sparrow Thumbnail.jpg]]{data-title="Chipping Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/Chipping Sparrow/)
 </div>
 
 </div>
@@ -651,7 +648,7 @@ data-description="Birds of Prey"}]
 [[Dark-eyed Junco]]
 </div>
 <div markdown="1">
-[![[Dark-eyed Junco Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Dark-eyed Junco/)
+[![[Dark-eyed Junco Thumbnail.jpg]]{data-title="Dark-eyed Junco" data-description="Song Birds"}](Birds/Song Bird/Sparrow/Dark-eyed Junco/)
 </div>
 
 </div>
@@ -664,7 +661,7 @@ data-description="Birds of Prey"}]
 [[House Sparrow]]
 </div>
 <div markdown="1">
-[![[House Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/House Sparrow/)
+[![[House Sparrow Thumbnail.jpg]]{data-title="House Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/House Sparrow/)
 </div>
 
 </div>
@@ -677,7 +674,7 @@ data-description="Birds of Prey"}]
 [[Song Sparrow]]
 </div>
 <div markdown="1">
-[![[Song Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Song Sparrow/)
+[![[Song Sparrow Thumbnail.jpg]]{data-title="Song Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/Song Sparrow/)
 </div>
 
 </div>
@@ -690,7 +687,7 @@ data-description="Birds of Prey"}]
 [[Swamp Sparrow]]
 </div>
 <div markdown="1">
-[![[Swamp Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/Swamp Sparrow/)
+[![[Swamp Sparrow Thumbnail.jpg]]{data-title="Swamp Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/Swamp Sparrow/)
 </div>
 
 </div>
@@ -703,7 +700,7 @@ data-description="Birds of Prey"}]
 [[White-throated Sparrow]]
 </div>
 <div markdown="1">
-[![[White-throated Sparrow Thumbnail.jpg]]](Birds/Song Bird/Sparrow/White-throated Sparrow/)
+[![[White-throated Sparrow Thumbnail.jpg]]{data-title="White-throated Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/White-throated Sparrow/)
 </div>
 
 </div>
@@ -716,7 +713,7 @@ data-description="Birds of Prey"}]
 [[European Starling]]
 </div>
 <div markdown="1">
-[![[European Starling Thumbnail.jpg]]](Birds/Song Bird/Starling/European Starling/)
+[![[European Starling Thumbnail.jpg]]{data-title="European Starling" data-description="Song Birds"}](Birds/Song Bird/Starling/European Starling/)
 </div>
 
 </div>
@@ -729,7 +726,7 @@ data-description="Birds of Prey"}]
 [[Barn Swallow]]
 </div>
 <div markdown="1">
-[![[Barn Swallow Thumbnail.jpg]]](Birds/Song Bird/Swallow/Barn Swallow/)
+[![[Barn Swallow Thumbnail.jpg]]{data-title="Barn Swallow" data-description="Song Birds"}](Birds/Song Bird/Swallow/Barn Swallow/)
 </div>
 
 </div>
@@ -742,7 +739,7 @@ data-description="Birds of Prey"}]
 [[Tree Swallow]]
 </div>
 <div markdown="1">
-[![[Tree Swallow Thumbnail.jpg]]](Birds/Song Bird/Swallow/Tree Swallow/)
+[![[Tree Swallow Thumbnail.jpg]]{data-title="Tree Swallow" data-description="Song Birds"}](Birds/Song Bird/Swallow/Tree Swallow/)
 </div>
 
 </div>
@@ -755,7 +752,7 @@ data-description="Birds of Prey"}]
 [[American Redstart]]
 </div>
 <div markdown="1">
-[![[American Redstart Thumbnail.jpg]]](Birds/Song Bird/Warbler/American Redstart/)
+[![[American Redstart Thumbnail.jpg]]{data-title="American Redstart" data-description="Song Birds"}](Birds/Song Bird/Warbler/American Redstart/)
 </div>
 
 </div>
@@ -768,7 +765,7 @@ data-description="Birds of Prey"}]
 [[Black-and-white Warbler]]
 </div>
 <div markdown="1">
-[![[Black-and-white Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-and-white Warbler/)
+[![[Black-and-white Warbler Thumbnail.jpg]]{data-title="Black-and-white Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Black-and-white Warbler/)
 </div>
 
 </div>
@@ -781,7 +778,7 @@ data-description="Birds of Prey"}]
 [[Black-throated Blue Warbler]]
 </div>
 <div markdown="1">
-[![[Black-throated Blue Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Black-throated Blue Warbler/)
+[![[Black-throated Blue Warbler Thumbnail.jpg]]{data-title="Black-throated Blue Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Black-throated Blue Warbler/)
 </div>
 
 </div>
@@ -794,7 +791,7 @@ data-description="Birds of Prey"}]
 [[Blue-winged Warbler]]
 </div>
 <div markdown="1">
-[![[Blue-winged Warbler.jpg]]](Birds/Song Bird/Warbler/Blue-winged Warbler/)
+[![[Blue-winged Warbler.jpg]]{data-title="Blue-winged Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Blue-winged Warbler/)
 </div>
 
 </div>
@@ -807,7 +804,7 @@ data-description="Birds of Prey"}]
 [[Cape May Warbler]]
 </div>
 <div markdown="1">
-[![[Cape May Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Cape May Warbler/)
+[![[Cape May Warbler Thumbnail.jpg]]{data-title="Cape May Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Cape May Warbler/)
 </div>
 
 </div>
@@ -820,7 +817,7 @@ data-description="Birds of Prey"}]
 [[Common Yellowthroat]]
 </div>
 <div markdown="1">
-[![[Common Yellowthroat Thumbnail.jpg]]](Birds/Song Bird/Warbler/Common Yellowthroat/)
+[![[Common Yellowthroat Thumbnail.jpg]]{data-title="Common Yellowthroat" data-description="Song Birds"}](Birds/Song Bird/Warbler/Common Yellowthroat/)
 </div>
 
 </div>
@@ -833,7 +830,7 @@ data-description="Birds of Prey"}]
 [[Magnolia Warbler]]
 </div>
 <div markdown="1">
-[![[Magnolia Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Magnolia Warbler/)
+[![[Magnolia Warbler Thumbnail.jpg]]{data-title="Magnolia Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Magnolia Warbler/)
 </div>
 
 </div>
@@ -846,7 +843,7 @@ data-description="Birds of Prey"}]
 [[Ovenbird]]
 </div>
 <div markdown="1">
-[![[Ovenbird Thumbnail.jpg]]](Birds/Song Bird/Warbler/Ovenbird/)
+[![[Ovenbird Thumbnail.jpg]]{data-title="Ovenbird" data-description="Song Birds"}](Birds/Song Bird/Warbler/Ovenbird/)
 </div>
 
 </div>
@@ -859,7 +856,7 @@ data-description="Birds of Prey"}]
 [[Palm Warbler]]
 </div>
 <div markdown="1">
-[![[Palm Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Palm Warbler/)
+[![[Palm Warbler Thumbnail.jpg]]{data-title="Palm Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Palm Warbler/)
 </div>
 
 </div>
@@ -872,7 +869,7 @@ data-description="Birds of Prey"}]
 [[Yellow Warbler]]
 </div>
 <div markdown="1">
-[![[Yellow Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Yellow Warbler/)
+[![[Yellow Warbler Thumbnail.jpg]]{data-title="Yellow Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Yellow Warbler/)
 </div>
 
 </div>
@@ -885,7 +882,7 @@ data-description="Birds of Prey"}]
 [[Yellow-rumped Warbler]]
 </div>
 <div markdown="1">
-[![[Yellow-rumped Warbler Thumbnail.jpg]]](Birds/Song Bird/Warbler/Yellow-rumped Warbler/)
+[![[Yellow-rumped Warbler Thumbnail.jpg]]{data-title="Yellow-rumped Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Yellow-rumped Warbler/)
 </div>
 
 </div>
@@ -898,7 +895,7 @@ data-description="Birds of Prey"}]
 [[Eastern Bluebird]]
 </div>
 <div markdown="1">
-[![[Eastern Bluebird Thumbnail.jpg]]](Birds/Song Bird/Thrush/Bluebird/Eastern Bluebird/)
+[![[Eastern Bluebird Thumbnail.jpg]]{data-title="Eastern Bluebird" data-description="Song Birds"}](Birds/Song Bird/Thrush/Bluebird/Eastern Bluebird/)
 </div>
 
 </div>
@@ -911,7 +908,7 @@ data-description="Birds of Prey"}]
 [[Eastern Kingbird]]
 </div>
 <div markdown="1">
-[![[Eastern Kingbird Thumbnail.jpg]]](Birds/Song Bird/Flycatcher/Eastern Kingbird/)
+[![[Eastern Kingbird Thumbnail.jpg]]{data-title="Eastern Kingbird" data-description="Song Birds"}](Birds/Song Bird/Flycatcher/Eastern Kingbird/)
 </div>
 
 </div>
@@ -924,7 +921,7 @@ data-description="Birds of Prey"}]
 [[Eastern Phoebe]]
 </div>
 <div markdown="1">
-[![[Eastern Phoebe Thumbnail.jpg]]](Birds/Song Bird/Flycatcher/Eastern Phoebe/)
+[![[Eastern Phoebe Thumbnail.jpg]]{data-title="Eastern Phoebe" data-description="Song Birds"}](Birds/Song Bird/Flycatcher/Eastern Phoebe/)
 </div>
 
 </div>
@@ -937,7 +934,7 @@ data-description="Birds of Prey"}]
 [[Eastern Wood-Pewee]]
 </div>
 <div markdown="1">
-[![[Eastern Wood-Peewee Thumbnail.jpg]]](Birds/Song Bird/Flycatcher/Eastern Wood-Pewee/)
+[![[Eastern Wood-Peewee Thumbnail.jpg]]{data-title="Eastern Wood-Pewee" data-description="Song Birds"}](Birds/Song Bird/Flycatcher/Eastern Wood-Pewee/)
 </div>
 
 </div>
@@ -950,7 +947,7 @@ data-description="Birds of Prey"}]
 [[Willow Flycatcher]]
 </div>
 <div markdown="1">
-[![[Willow Flycatcher Thumbnail.jpg]]](Birds/Song Bird/Flycatcher/Willow Flycatcher/)
+[![[Willow Flycatcher Thumbnail.jpg]]{data-title="Willow Flycatcher" data-description="Song Birds"}](Birds/Song Bird/Flycatcher/Willow Flycatcher/)
 </div>
 
 </div>
@@ -963,7 +960,7 @@ data-description="Birds of Prey"}]
 [[Blue-gray Gnatcatcher]]
 </div>
 <div markdown="1">
-[![[Blue-gray Gnatcatcher Thumbnail.jpg]]](Birds/Song Bird/Gnatcatcher/Blue-gray Gnatcatcher/)
+[![[Blue-gray Gnatcatcher Thumbnail.jpg]]{data-title="Blue-gray Gnatcatcher" data-description="Song Birds"}](Birds/Song Bird/Gnatcatcher/Blue-gray Gnatcatcher/)
 </div>
 
 </div>
@@ -976,7 +973,7 @@ data-description="Birds of Prey"}]
 [[Rose-breasted Grosbeak]]
 </div>
 <div markdown="1">
-[![[Rose-breasted Grosbeak Thumbnail.jpg]]](Birds/Song Bird/Grosbeak/Rose-breasted Grosbeak/)
+[![[Rose-breasted Grosbeak Thumbnail.jpg]]{data-title="Rose-breasted Grosbeak" data-description="Song Birds"}](Birds/Song Bird/Grosbeak/Rose-breasted Grosbeak/)
 </div>
 
 </div>
@@ -989,7 +986,7 @@ data-description="Birds of Prey"}]
 [[Veery]]
 </div>
 <div markdown="1">
-[![[Veery Thumbnail.jpg]]](Birds/Song Bird/Thrush/Veery/)
+[![[Veery Thumbnail.jpg]]{data-title="Veery" data-description="Song Birds"}](Birds/Song Bird/Thrush/Veery/)
 </div>
 
 </div>
@@ -1002,7 +999,7 @@ data-description="Birds of Prey"}]
 [[Wood Thrush]]
 </div>
 <div markdown="1">
-[![[Wood Thrush Thumbnail.jpg]]](Birds/Song Bird/Thrush/Wood Thrush/)
+[![[Wood Thrush Thumbnail.jpg]]{data-title="Wood Thrush" data-description="Song Birds"}](Birds/Song Bird/Thrush/Wood Thrush/)
 </div>
 
 </div>
@@ -1015,7 +1012,7 @@ data-description="Birds of Prey"}]
 [[Black-capped Chickadee]]
 </div>
 <div markdown="1">
-[![[Black-capped Chickadee Thumbnail.jpg]]](Birds/Song Bird/Tit/Chickadee/Black-capped Chickadee/)
+[![[Black-capped Chickadee Thumbnail.jpg]]{data-title="Black-capped Chickadee" data-description="Song Birds"}](Birds/Song Bird/Tit/Chickadee/Black-capped Chickadee/)
 </div>
 
 </div>
@@ -1028,7 +1025,7 @@ data-description="Birds of Prey"}]
 [[Tufted Titmouse]]
 </div>
 <div markdown="1">
-[![[Tufted Titmouse Thumbnail.jpg]]](Birds/Song Bird/Tit/Titmouse/Tufted Titmouse/)
+[![[Tufted Titmouse Thumbnail.jpg]]{data-title="Tufted Titmouse" data-description="Song Birds"}](Birds/Song Bird/Tit/Titmouse/Tufted Titmouse/)
 </div>
 
 </div>
@@ -1041,7 +1038,7 @@ data-description="Birds of Prey"}]
 [[Red-eyed Vireo]]
 </div>
 <div markdown="1">
-[![[Red-eyed Vireo Thumbnail.jpg]]](Birds/Song Bird/Vireo/Red-eyed Vireo/)
+[![[Red-eyed Vireo Thumbnail.jpg]]{data-title="Red-eyed Vireo" data-description="Song Birds"}](Birds/Song Bird/Vireo/Red-eyed Vireo/)
 </div>
 
 </div>
@@ -1054,7 +1051,7 @@ data-description="Birds of Prey"}]
 [[Cedar Waxwing]]
 </div>
 <div markdown="1">
-[![[Cedar Waxwing Thumbnail.jpg]]](Birds/Song Bird/Waxwing/Cedar Waxwing/)
+[![[Cedar Waxwing Thumbnail.jpg]]{data-title="Cedar Waxwing" data-description="Song Birds"}](Birds/Song Bird/Waxwing/Cedar Waxwing/)
 </div>
 
 </div>
@@ -1067,7 +1064,7 @@ data-description="Birds of Prey"}]
 [[Carolina Wren]]
 </div>
 <div markdown="1">
-[![[Carolina Wren Thumbnail.jpg]]](Birds/Song Bird/Wren/Carolina Wren/)
+[![[Carolina Wren Thumbnail.jpg]]{data-title="Carolina Wren" data-description="Song Birds"}](Birds/Song Bird/Wren/Carolina Wren/)
 </div>
 
 </div>
@@ -1080,7 +1077,7 @@ data-description="Birds of Prey"}]
 [[House Wren]]
 </div>
 <div markdown="1">
-[![[House Wren Thumbnail.jpg]]](Birds/Song Bird/Wren/House Wren/)
+[![[House Wren Thumbnail.jpg]]{data-title="House Wren" data-description="Song Birds"}](Birds/Song Bird/Wren/House Wren/)
 </div>
 
 </div>
@@ -1093,7 +1090,7 @@ data-description="Birds of Prey"}]
 [[Marsh Wren]]
 </div>
 <div markdown="1">
-[![[Marsh Wren Thumbnail.jpg]]](Birds/Song Bird/Wren/Marsh Wren/)
+[![[Marsh Wren Thumbnail.jpg]]{data-title="Marsh Wren" data-description="Song Birds"}](Birds/Song Bird/Wren/Marsh Wren/)
 </div>
 
 </div>
@@ -1113,7 +1110,7 @@ data-description="Birds of Prey"}]
 [[Downy Woodpecker]]
 </div>
 <div markdown="1">
-[![[Downy Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Downy Woodpecker/)
+[![[Downy Woodpecker Thumbnail.jpg]]{data-title="Downy Woodpecker" data-description="Woodpeckers"}](Birds/Woodpecker/Downy Woodpecker/)
 </div>
 
 </div>
@@ -1126,7 +1123,7 @@ data-description="Birds of Prey"}]
 [[Hairy Woodpecker]]
 </div>
 <div markdown="1">
-[![[Hairy Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Hairy Woodpecker/)
+[![[Hairy Woodpecker Thumbnail.jpg]]{data-title="Hairy Woodpecker" data-description="Woodpeckers"}](Birds/Woodpecker/Hairy Woodpecker/)
 </div>
 
 </div>
@@ -1139,7 +1136,7 @@ data-description="Birds of Prey"}]
 [[Northern Flicker]]
 </div>
 <div markdown="1">
-[![[Northern Flicker Thumbnail.jpg]]](Birds/Woodpecker/Northern Flicker/)
+[![[Northern Flicker Thumbnail.jpg]]{data-title="Northern Flicker" data-description="Woodpeckers"}](Birds/Woodpecker/Northern Flicker/)
 </div>
 
 </div>
@@ -1152,7 +1149,7 @@ data-description="Birds of Prey"}]
 [[Pileated Woodpecker]]
 </div>
 <div markdown="1">
-[![[Pileated Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Pileated Woodpecker/)
+[![[Pileated Woodpecker Thumbnail.jpg]]{data-title="Pileated Woodpecker" data-description="Woodpeckers"}](Birds/Woodpecker/Pileated Woodpecker/)
 </div>
 
 </div>
@@ -1165,7 +1162,7 @@ data-description="Birds of Prey"}]
 [[Red-bellied Woodpecker]]
 </div>
 <div markdown="1">
-[![[Red-bellied Woodpecker Thumbnail.jpg]]](Birds/Woodpecker/Red-bellied Woodpecker/)
+[![[Red-bellied Woodpecker Thumbnail.jpg]]{data-title="Red-bellied Woodpecker" data-description="Woodpeckers"}](Birds/Woodpecker/Red-bellied Woodpecker/)
 </div>
 
 </div>
