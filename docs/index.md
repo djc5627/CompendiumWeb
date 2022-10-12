@@ -16,12 +16,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 [[Bald Eagle]]
 </div>
 <div markdown="1">
-[![[Bald Eagle Thumbnail.jpg]]
-{
-data-title="Bald Eagle"
-data-description="Birds of Prey"
-}]
-(Birds/Birds of Prey/Eagle/Bald Eagle/)
+[![[Bald Eagle Thumbnail.jpg]]{data-title="Bald Eagle" data-description="Birds of Prey"}] (Birds/Birds of Prey/Eagle/Bald Eagle/)
 </div>
 
 </div>
@@ -34,7 +29,10 @@ data-description="Birds of Prey"
 [[Cooper's Hawk]]
 </div>
 <div markdown="1">
-[![[Cooper's Hawk Thumbnail.jpg]]](Birds/Birds of Prey/Hawk/Cooper's Hawk/)
+[![[Cooper's Hawk Thumbnail.jpg]]{
+data-title="Bald Eagle"
+data-description="Birds of Prey"
+}]](Birds/Birds of Prey/Hawk/Cooper's Hawk/)
 </div>
 
 </div>
