@@ -88,8 +88,30 @@ function collapseWoodpeckers() {
   }
 }
 
-var elements = document.querySelectorAll('.card');
-for(var i=0; i<elements.length; i++){
-    elements[i].style.width = 1000 + "px";
-    elements[i].style.height = 1000 + "px";
+// Grab slider for compendium thumbnail size
+var thumbnailSlider = document.getElementById("thumbnailSlider");
+//var output = document.getElementById("demo");
+//output.innerHTML = slider.value; // Display the default slider value
+
+// Update the current slider value (each time you drag the slider handle)
+slider.oninput = function() {
+  setThumbnailSize(this.value);
+}
+
+// Store original sizes
+var thumbnails = document.getElementsByClassName('card');
+var thumbnail1 = thumbnails[0];
+
+var originalWidth = thumbnail1.style.width;
+var originalHeight = thumbnail1.style.height;
+
+// Init thumbnail size
+setThumbnailSize(thumbnailSlider.value);
+
+function setThumbnailSize(newSize) {
+	var elements = document.querySelectorAll('.card');
+	for(var i=0; i<elements.length; i++){
+		elements[i].style.width = originalWidth * newSize + "px";
+		elements[i].style.height = originalHeight * newSize + "px";
+	}
 }
