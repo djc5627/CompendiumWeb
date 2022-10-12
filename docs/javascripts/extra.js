@@ -97,7 +97,7 @@ thumbnailSlider.oninput = function() {
 	setThumbnailSize(this.value);
 }
 
-imagesPerRowSelect.onChange = function() {
+imagesPerRowSelect.onchange = function() {
 	setThumbnailSize(this.value);
 }
 
