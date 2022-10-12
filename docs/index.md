@@ -5,11 +5,11 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 You can also visit our [[Gallery|gallery of top bird photos here]].
 
-<label for="cars">Images Per Row:</label>
-  <select name="cars" id="cars">
+<label for="imagesPerRow">Images Per Row:</label>
+  <select name="imagesPerRow" id="imagesPerRow">
     <option value="1">1</option>
     <option value="2">2</option>
-    <option value="3">3</option>
+    <option value="3" selected>3</option>
     <option value="4">4</option>
     <option value="5">5</option>
   </select>

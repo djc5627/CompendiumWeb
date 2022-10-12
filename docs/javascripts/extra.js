@@ -90,12 +90,15 @@ function collapseWoodpeckers() {
 
 // Grab slider for compendium thumbnail size
 var thumbnailSlider = document.getElementById("thumbnailSlider");
-//var output = document.getElementById("demo");
-//output.innerHTML = slider.value; // Display the default slider value
+var imagesPerRowSelect = document.getElementById("imagesPerRow");
 
 // Update the current slider value (each time you drag the slider handle)
 thumbnailSlider.oninput = function() {
-  setThumbnailSize(this.value);
+	setThumbnailSize(this.value);
+}
+
+imagesPerRowSelect.onChange = function() {
+	setThumbnailSize(this.value);
 }
 
 // Init thumbnail size
