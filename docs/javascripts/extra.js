@@ -99,19 +99,19 @@ thumbnailSlider.oninput = function() {
 }
 
 // Store original sizes
-var thumbnails = document.getElementsByClassName('card');
+var thumbnails = document.getElementsByClassName('column');
 var thumbnail1 = thumbnails[0];
 
 var originalWidth = thumbnail1.style.width;
-var originalHeight = thumbnail1.style.height;
+//var originalHeight = thumbnail1.style.height;
 
 // Init thumbnail size
 setThumbnailSize(thumbnailSlider.value);
 
 function setThumbnailSize(newSize) {
-	var elements = document.querySelectorAll('.card');
+	var elements = document.querySelectorAll('.column');
 	for(var i=0; i<elements.length; i++){
-		elements[i].style.width = originalWidth * newSize + "px";
-		elements[i].style.height = originalHeight * newSize + "px";
+		elements[i].style.width = elements[i].style.width * newSize + "px";
+		//elements[i].style.height = elements[i].style.height * newSize + "px";
 	}
 }
