@@ -58,6 +58,7 @@ plugins:
   
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/uSwitchSelect.css
  
 extra_javascript:
   - javascripts/extra.js
