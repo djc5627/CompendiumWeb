@@ -5,7 +5,8 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 You can also visit our [[Gallery|gallery of top bird photos here]].
 
-<label for="imagesPerRow">Images Per Row:</label>
+<div class="us-form">
+  <label for="imagesPerRow">Images Per Row:</label>
   <select name="imagesPerRow" id="imagesPerRow">
     <option value="1">1</option>
     <option value="2">2</option>
@@ -13,8 +14,6 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
     <option value="4">4</option>
     <option value="5">5</option>
   </select>
-
-<div class="slidecontainer"> <input type="range" min="1" max="5" value="3" id="thumbnailSlider">  
 </div>
 
 ## Birds of Prey [-]

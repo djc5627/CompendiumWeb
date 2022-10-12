@@ -89,13 +89,13 @@ function collapseWoodpeckers() {
 }
 
 // Grab slider for compendium thumbnail size
-var thumbnailSlider = document.getElementById("thumbnailSlider");
+//var thumbnailSlider = document.getElementById("thumbnailSlider");
 var imagesPerRowSelect = document.getElementById("imagesPerRow");
 
 // Update the current slider value (each time you drag the slider handle)
-thumbnailSlider.oninput = function() {
-	setThumbnailSize(this.value);
-}
+//thumbnailSlider.oninput = function() {
+//	setThumbnailSize(this.value);
+//}
 
 imagesPerRowSelect.onchange = function() {
 	setThumbnailSize(this.value);
