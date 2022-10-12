@@ -5,6 +5,10 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 You can also visit our [[Gallery|gallery of top bird photos here]].
 
+<div class="slidecontainer">  
+  <input type="range" min="1" max="5" value="4" class="slider" id="thumbnailSlider">  
+</div>
+
 ## Birds of Prey [-]
 
 <div id="birds-of-prey-row" class="row" markdown="1">
