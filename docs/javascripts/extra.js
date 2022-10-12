@@ -102,7 +102,7 @@ imagesPerRowSelect.onChange = function() {
 }
 
 // Init thumbnail size
-setThumbnailSize(thumbnailSlider.value);
+setThumbnailSize(imagesPerRowSelect.value);
 
 function setThumbnailSize(newSize) {
 	var elements = document.querySelectorAll('.column');
