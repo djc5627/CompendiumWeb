@@ -21,7 +21,7 @@
               "leaf": "542ef13fc13cb8b7",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"docs/index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":170.154296875}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":6},\"to\":{\"line\":9,\"ch\":6}},\"scroll\":0}"
             },
             {
               "leaf": "542ef13fc13cb8b7",
@@ -305,7 +305,7 @@
     "width": 260,
     "collapsed": true
   },
-  "active": "52d1130a1b673527",
+  "active": "542ef13fc13cb8b7",
   "lastOpenFiles": [
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/index.md",

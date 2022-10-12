@@ -87,3 +87,9 @@ function collapseWoodpeckers() {
 	y.textContent = 'Woodpeckers [+]';
   }
 }
+
+var elements = document.querySelectorAll('.card');
+for(var i=0; i<elements.length; i++){
+    elements[i].style.width = 1000 + "px";
+    elements[i].style.height = 1000 + "px";
+}
