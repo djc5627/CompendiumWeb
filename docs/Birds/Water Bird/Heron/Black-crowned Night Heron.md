@@ -12,12 +12,13 @@ Main Image here
 ---------------------------------------------------------------
 ## Notes
 
+First seen during our first birding trip to Sandy Hook. Seen flying overhead while walking on Plum Island. At first thought it was an American Bittern but a friendly photographer helped to identify it.
+
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/SandyHook-NJ 
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
@@ -25,4 +26,4 @@ OneDrive Album: [OneDrive](linkhere)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Black-crowned_Night-Heron/overview)

@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3f2a4c349937cb18",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
+                "file": "docs/Blog/2022-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,11 +221,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d56c6f74ea9c202",
+  "active": "5943f61d5bfd52fb",
   "lastOpenFiles": [
-    "docs/Blog/2022-10.md",
-    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
     "docs/Birds/Water Bird/Heron/Black-crowned Night Heron.md",
+    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
+    "docs/Blog/2022-10.md",
     "Templates/BirdTemplate.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/index.md",
