@@ -4,5 +4,6 @@
     "image-zoom"
   ],
   "cssTheme": "Atom",
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
