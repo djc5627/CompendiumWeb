@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3f2a4c349937cb18",
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog/2022-10.md",
+                "file": "docs/Birds/Song Bird/Sparrow/Savannah Sparrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,15 +270,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5943f61d5bfd52fb",
+  "active": "5984eadc44ed141f",
   "lastOpenFiles": [
     "docs/Birds/Song Bird/Sparrow/White-crowned Sparrow.md",
     "docs/Birds/Song Bird/Warbler/Tennessee Warbler.md",
-    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
-    "docs/Birds/Water Bird/Heron/Black-crowned Night Heron.md",
     "docs/Birds/Birds of Prey/Hawk/Broad-winged Hawk.md",
-    "docs/Birds/Song Bird/Sparrow/Savannah Sparrow.md",
+    "docs/Birds/Water Bird/Heron/Black-crowned Night Heron.md",
+    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
     "docs/Blog/2022-10.md",
+    "docs/Birds/Song Bird/Sparrow/Savannah Sparrow.md",
     "Templates/BirdTemplate.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/index.md"

@@ -12,12 +12,13 @@ Main Image here
 ---------------------------------------------------------------
 ## Notes
 
+First seen at Esposito Park. At first thought it was an [[American Goldfinch]] but the different wing plumage patterns and eye streak gave it away. They also have different beaks than the similar looking [[Red-eyed Vireo]]. 
+
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
+-> #location/EspositoPark-Clark-NJ 
 
--> #location/Missing
 
 ---------------------------------------------------------------
 ## Photos
@@ -25,4 +26,4 @@ OneDrive Album: [OneDrive](linkhere)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Tennessee_Warbler/overview)
