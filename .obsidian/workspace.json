@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "pane-relief:history-v1": {
@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -234,7 +233,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1ccca1ab9b7d586f",
+  "active": "5943f61d5bfd52fb",
   "lastOpenFiles": [
     "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
     "docs/index.md",
