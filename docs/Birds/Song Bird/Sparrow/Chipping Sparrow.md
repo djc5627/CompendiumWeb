@@ -7,7 +7,7 @@ Entry Date: 2022-04-28
 
 ![[Chipping Sparrow Thumbnail.jpg]]
 
-*Chipping Sparrow at our bird feeder pole*
+*Chipping Sparrow at the Great Swamp*
 
 ---------------------------------------------------------------
 ## Notes

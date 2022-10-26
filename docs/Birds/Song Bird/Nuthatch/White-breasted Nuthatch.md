@@ -7,7 +7,7 @@ Entry Date: 2022-04-29
 
 ![[White-breasted Nuthatch Thumbnail.jpg]]
 
-*White-breasted Nuthatch high up on trees at Rahway River Park*
+*White-breasted Nuthatch high up on trees at Milton Lake Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -19,6 +19,8 @@ Saw this bird on my first visit to Rahway River Park as soon as I stepped out of
 -> #location/RahwayRiverPark-Rahway-NJ
 
 -> #location/EspositoPark-Clark-NJ 
+
+-> #location/MiltonLakePark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos

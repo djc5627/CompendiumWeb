@@ -8,7 +8,7 @@ Entry Date: 2022-01-31
 
 ![[Brown-headed Cowbird Thumbnail.jpg]]
 
-*Brown-headed Cowbird on a tree at Rahway River Park*
+*Brown-headed Cowbird on a fence at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -20,6 +20,8 @@ A parasitic bird (brood parasite) that lays their eggs in other bird's nests so 
 -> #location/Home-Clark-NJ 
 
 -> #location/RahwayRiverPark-Rahway-NJ 
+
+-> #location/EspositoPark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos

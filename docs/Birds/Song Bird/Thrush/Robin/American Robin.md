@@ -8,8 +8,7 @@ Entry Date: 2022-02-01
 
 ![[American Robin Thumbnail.jpg]]
 
-*Robin (puffed up) eating berries from holly tree outside our house during snowfall*
-
+*American Robin with a beak full of worms at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes

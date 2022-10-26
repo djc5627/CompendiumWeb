@@ -7,7 +7,7 @@ Entry Date: 2022-05-18
 
 ![[Barn Swallow Thumbnail.jpg]]
 
-*Barn Swallow soaring over the water at Best Lake in Watchung*
+*Barn Swallow soaring over the grass at Esposito Park' Field*
 
 ---------------------------------------------------------------
 ## Notes

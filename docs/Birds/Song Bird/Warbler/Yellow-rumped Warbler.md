@@ -8,7 +8,7 @@ Entry Date: 2022-04-29
 
 ![[Yellow-rumped Warbler Thumbnail.jpg]]
 
-*Yellow-rumped Warbler on tree at Esposito Park*
+*Yellow-rumped Warbler on tree at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes
@@ -20,6 +20,10 @@ Apparently, there are two regional subspecies: the "Myrtle" Warbler on east coas
 -> #location/RahwayRiverPark-Rahway-NJ 
 
 -> #location/EspositoPark-Clark-NJ 
+
+-> #location/HawkRiseSanctuary-Linden-NJ 
+
+-> #location/SandyHook-NJ 
 
 ---------------------------------------------------------------
 ## Photos

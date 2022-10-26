@@ -7,7 +7,7 @@ Entry Date: 2022-01-31
 
 ![[Great Blue Heron Thumbnail.jpg]]
 
-*Great Blue Heron at Morristown Patriot Trail by a creek.*
+*Great Blue Heron at Milton Lake Park.*
 
 ---------------------------------------------------------------
 ## Notes

@@ -8,7 +8,7 @@ Entry Date: 2022-04-12
 
 ![[White-throated Sparrow Thumbnail.jpg]]
 
-*White-throated Sparrow on log at Hawk Rise Sanctuary*
+*White-throated Sparrow on branch at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

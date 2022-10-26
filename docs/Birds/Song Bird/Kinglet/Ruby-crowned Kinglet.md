@@ -8,7 +8,7 @@ Entry Date: 2022-04-12
 
 ![[Ruby-crowned Kinglet Thumbnail.jpg]]
 
-*Ruby-crowned Kinglet on trees at Esposito Park*
+*Ruby-crowned Kinglet on trees at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

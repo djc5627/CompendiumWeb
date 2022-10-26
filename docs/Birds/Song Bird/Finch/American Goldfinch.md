@@ -8,7 +8,7 @@ Entry Date: 2022-04-28
 
 ![[American Goldfinch Thumbnail.jpg]]
 
-*American Goldfinch on a tree at Esposito Park.*
+*American Goldfinch on our bird feeder.*
 
 ---------------------------------------------------------------
 ## Notes

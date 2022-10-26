@@ -8,7 +8,7 @@ Entry Date: 2022-01-31
 
 ![[Song Sparrow Thumbnail.jpg]]
 
-*Song Sparrow foraging around Warinanco Park at start of Spring.*
+*Song Sparrow on a tree at Hawk Rise Sanctuary.*
 
 ---------------------------------------------------------------
 ## Notes

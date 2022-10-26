@@ -7,7 +7,7 @@ Entry Date: 2022-04-28
 
 ![[Northern Mockingbird Thumbnail.jpg]]
 
-*Northern Mockingbird up on the powerline poles by our house*
+*Northern Mockingbird at Cheesequake State Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -17,6 +17,14 @@ One of the noisiest birds I have ever seen. Spotted on our roof while filling bi
 ## Sightings
 
 -> #location/Home-Clark-NJ 
+
+-> #location/EspositoPark-Clark-NJ 
+
+-> #location/GreatSwampRefuge-NJ 
+
+-> #location/CheesequakeStatePark-NJ 
+
+-> #location/SandyHook-NJ 
 
 ---------------------------------------------------------------
 ## Photos

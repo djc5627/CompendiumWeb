@@ -8,7 +8,7 @@ Entry Date: 2022-04-12
 
 ![[Eastern Phoebe Thumbnail.jpg]]
 
-*High up in the trees at Warinanco Park*
+*Eastern Phoebe at the Great Swamp Refuge*
 
 ---------------------------------------------------------------
 ## Notes
@@ -18,6 +18,12 @@ At first thought this one was a [[Dark-eyed Junco]]. Seen very high up on tree c
 ## Sightings
 
 -> #location/WarinancoPark-Roselle-NJ 
+
+-> #location/GreatSwampRefuge-NJ 
+
+-> #location/HawkRiseSanctuary-Linden-NJ 
+
+-> #location/WatchungReservation-NJ 
 
 ---------------------------------------------------------------
 ## Photos

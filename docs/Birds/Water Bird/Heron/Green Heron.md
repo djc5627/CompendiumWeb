@@ -7,7 +7,7 @@ Entry Date: 2022-07-05
 
 ![[Green Heron Thumbnail.jpg]]
 
-*Green Heron on a tree at Ernest L. Oros Wildlife Preserve*
+*Green Heron on the banks of Nomahegan Park Creek*
 
 ---------------------------------------------------------------
 ## Notes

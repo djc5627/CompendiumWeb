@@ -7,7 +7,7 @@ Entry Date: 2022-05-17
 
 ![[Yellow Warbler Thumbnail.jpg]]
 
-*Image caption here*
+*Yellow Warbler with an insect in its mouth at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes

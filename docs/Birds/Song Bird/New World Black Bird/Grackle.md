@@ -8,7 +8,7 @@ Entry Date: 2022-01-31
 
 ![[Grackle Thumbnail.jpg]]
 
-*Grackle on fallen tree at Esposito Park*
+*Grackle on our bird feeder*
 
 ---------------------------------------------------------------
 ## Notes

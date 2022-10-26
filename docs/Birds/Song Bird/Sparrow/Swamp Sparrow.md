@@ -7,7 +7,7 @@ Entry Date: 2022-07-18
 
 ![[Swamp Sparrow Thumbnail.jpg]]
 
-*Swamp Sparrow at Great Swamp Refuge near an observation deck*
+*Swamp Sparrow on a fence at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes
@@ -17,6 +17,10 @@ First seen at Great Swamp Refuge. Looks similar to [[Chipping Sparrow]] but with
 ## Sightings
 
 -> #location/GreatSwampRefuge-NJ 
+
+-> #location/HawkRiseSanctuary-Linden-NJ 
+
+-> #location/SandyHook-NJ 
 
 ---------------------------------------------------------------
 ## Photos

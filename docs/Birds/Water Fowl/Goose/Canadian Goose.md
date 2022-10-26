@@ -7,7 +7,7 @@ Entry Date: 2022-01-31
 
 ![[Canadian Goose Thumbnail.jpg]]
 
-*Canadian Goose by the dam at Rahway River Park.*
+*Canadian Goose at Eldridge Park in Horseheads NY.*
 
 ---------------------------------------------------------------
 ## Notes
@@ -21,6 +21,8 @@ Pretty commonly seen in our area. Very territorial and start hissing if get too 
 -> #location/EspositoPark-Clark-NJ
 
 -> #location/WarinancoPark-Roselle-NJ
+
+-> #location/Horseheads-NY 
 
 ---------------------------------------------------------------
 ## Photos

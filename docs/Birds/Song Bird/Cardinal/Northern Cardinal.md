@@ -7,7 +7,7 @@ Entry Date: 2022-01-31
 
 ![[Northern Cardinal Thumbnail.jpg]]
 
-*Cardinal (male) on a bush by our bird feeder in the winter.*
+*Northern Cardinal (female) on our bird feeder.*
 
 ---------------------------------------------------------------
 ## Notes

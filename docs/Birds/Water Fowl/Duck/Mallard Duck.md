@@ -8,7 +8,7 @@ Entry Date: 2022-01-31
 
 ![[Mallard Duck Thumbnail.jpg]]
 
-*Mallard Duck at Warinanco Park Pond.*
+*Mallard Duck at Eldridge Park in Horseheads NY*
 
 ---------------------------------------------------------------
 ## Notes
@@ -26,6 +26,8 @@ Mallard ducks are noisy, specially when someone is approaching them. They quickl
 -> #location/Boston-MA 
 
 -> #location/RahwayRiverPark-Rahway-NJ 
+
+-> #location/Horseheads-NY
 
 ---------------------------------------------------------------
 ## Photos

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Sea Bird/Gull/Ring-billed Gull.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,8 +22,57 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "3f4abcbdcac3f170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Song Bird/Cardinal/Northern Cardinal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4049e9486f693d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "445372cb57134a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2b2b5a48e9a08a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Mallard Duck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -74,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ring-b",
+                "query": "eastern phoebe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,17 +234,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1ccca1ab9b7d586f",
+  "active": "445372cb57134a1f",
   "lastOpenFiles": [
-    "docs/Birds/Sea Bird/Gull/Ring-billed Gull.md",
     "docs/index.md",
-    "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
-    "docs/Blog/2022-10.md",
-    "docs/Birds/Water Bird/Heron/Black-crowned Night Heron.md",
-    "docs/Birds/Birds of Prey/Hawk/Broad-winged Hawk.md",
-    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
-    "docs/Birds/Song Bird/Sparrow/White-crowned Sparrow.md",
-    "docs/Birds/Song Bird/Warbler/Tennessee Warbler.md",
-    "Tennessee Warbler t.md"
+    "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
+    "docs/Birds/Song Bird/Warbler/Yellow Warbler.md",
+    "docs/Birds/Song Bird/Swallow/Barn Swallow.md",
+    "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
+    "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
+    "docs/Birds/Song Bird/Sparrow/Dark-eyed Junco.md",
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
+    "docs/Birds/Song Bird/Sparrow/Song Sparrow.md",
+    "docs/Birds/Song Bird/Sparrow/House Sparrow.md"
   ]
 }

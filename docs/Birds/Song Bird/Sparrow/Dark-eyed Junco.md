@@ -8,7 +8,7 @@ Entry Date: 2022-01-31
 
 ![[Dark-eyed Junco Thumbnail.jpg]]
 
-*Junco at our bird feeder after snowfall*
+*Dark-eyed Junco at Watkins Glen Gorge Trail*
 
 ---------------------------------------------------------------
 ## Notes
@@ -20,6 +20,8 @@ A type of Sparrow. Also called Snow Bird. They seem to like eating feed off the 
 -> #location/Home-Clark-NJ 
 
 -> #location/EspositoPark-Clark-NJ
+
+-> #location/WatkinsGlensGorge-NY
 
 ---------------------------------------------------------------
 ## Photos
