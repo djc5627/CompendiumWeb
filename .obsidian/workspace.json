@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,8 +234,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "445372cb57134a1f",
+  "active": "1ccca1ab9b7d586f",
   "lastOpenFiles": [
+    "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
     "docs/index.md",
     "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
     "docs/Birds/Song Bird/Warbler/Yellow Warbler.md",
@@ -244,7 +245,6 @@
     "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
     "docs/Birds/Song Bird/Sparrow/Dark-eyed Junco.md",
     "docs/Birds/Song Bird/Finch/American Goldfinch.md",
-    "docs/Birds/Song Bird/Sparrow/Song Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/House Sparrow.md"
+    "docs/Birds/Song Bird/Sparrow/Song Sparrow.md"
   ]
 }

@@ -402,7 +402,9 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+<a href="Birds/Water Fowl/Duck/Mallard Duck/" class='glightbox'
 [[Mallard Duck]]
+   </a>
 </div>
 <div markdown="1">
 [![[Mallard Duck Thumbnail.jpg]]{data-title="Mallard Duck" data-description="Water Fowl"}](Birds/Water Fowl/Duck/Mallard Duck/)
