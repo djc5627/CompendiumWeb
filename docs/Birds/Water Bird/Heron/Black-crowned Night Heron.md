@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Black-crowned Night Heron
 Entry Date: 2022-10-22
 
-Main Image here
+![[Black-crowned Night Heron Thumbnail.jpg]]
 
-*Image caption here*
+*Black-crowned Night Heron flying over Plum Island at Sandy Hook*
 
 ---------------------------------------------------------------
 ## Notes

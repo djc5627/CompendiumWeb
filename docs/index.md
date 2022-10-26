@@ -363,6 +363,22 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Black-crowned Night Heron]]
+</div>
+<div markdown="1">
+[![[Black-crowned Night Heron Thumbnail.jpg]]{data-title="Black-crowned Night Heron" data-description="Water Birds"}](Birds/Water Bird/Heron/Black-crowned Night Heron/)
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Great Blue Heron]]
 </div>
 <div markdown="1">
