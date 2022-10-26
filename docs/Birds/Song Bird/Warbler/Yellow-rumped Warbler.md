@@ -8,7 +8,7 @@ Entry Date: 2022-04-29
 
 ![[Yellow-rumped Warbler Thumbnail.jpg]]
 
-*Yellow-rumped Warbler on tree at Hawk Rise Sanctuary*
+*Yellow-rumped Warbler on branch at Sandy Hook's Plum Island*
 
 ---------------------------------------------------------------
 ## Notes

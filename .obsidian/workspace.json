@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eastern phoebe",
+                "query": "rumped",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,15 +235,15 @@
   },
   "active": "5943f61d5bfd52fb",
   "lastOpenFiles": [
-    "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
-    "docs/index.md",
+    "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
     "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
+    "docs/index.md",
+    "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
     "docs/Birds/Song Bird/Warbler/Yellow Warbler.md",
     "docs/Birds/Song Bird/Swallow/Barn Swallow.md",
     "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
     "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
     "docs/Birds/Song Bird/Sparrow/Dark-eyed Junco.md",
-    "docs/Birds/Song Bird/Finch/American Goldfinch.md",
-    "docs/Birds/Song Bird/Sparrow/Song Sparrow.md"
+    "docs/Birds/Song Bird/Finch/American Goldfinch.md"
   ]
 }

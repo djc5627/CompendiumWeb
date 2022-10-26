@@ -7,7 +7,7 @@ Entry Date: 2022-04-28
 
 ![[Northern Mockingbird Thumbnail.jpg]]
 
-*Northern Mockingbird at Cheesequake State Park*
+*Northern Mockingbird on a fench at Sandy Hook's Plum Island*
 
 ---------------------------------------------------------------
 ## Notes
