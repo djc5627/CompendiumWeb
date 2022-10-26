@@ -7,7 +7,7 @@ Entry Date: 2022-01-31
 
 ![[Ring-billed Gull Thumbnail.jpg]]
 
-*Ring-billed Gull on baseball field after rainfall at Warinanco Park*
+*Ring-billed Gull at eating a shellfish Bradley Beach*
 
 ---------------------------------------------------------------
 ## Notes
@@ -23,6 +23,8 @@ Their actual name is "Gull" and Seagull is more of a nickname. At the beach a Ri
 -> #location/RahwayRiverPark-Rahway-NJ 
 
 -> #location/HawkRiseSanctuary-Linden-NJ 
+
+-> #location/BradleyBeach-NJ 
 
 ---------------------------------------------------------------
 ## Photos

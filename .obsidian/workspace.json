@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/2022-10.md",
+                "file": "docs/Birds/Sea Bird/Gull/Ring-billed Gull.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,81 +22,8 @@
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "cc079170cbfb6eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Birds of Prey/Hawk/Broad-winged Hawk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39f9f0a18528cf0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Bird/Heron/Black-crowned Night Heron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5984eadc44ed141f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/Savannah Sparrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a3228830375caf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Warbler/Tennessee Warbler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c2caff82745039f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/White-crowned Sparrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d56c6f74ea9c202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -147,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "towh",
+                "query": "ring-b",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +87,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,15 +187,15 @@
   },
   "active": "1ccca1ab9b7d586f",
   "lastOpenFiles": [
-    "docs/Birds/Water Bird/Heron/Black-crowned Night Heron.md",
+    "docs/Birds/Sea Bird/Gull/Ring-billed Gull.md",
     "docs/index.md",
+    "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
+    "docs/Blog/2022-10.md",
+    "docs/Birds/Water Bird/Heron/Black-crowned Night Heron.md",
     "docs/Birds/Birds of Prey/Hawk/Broad-winged Hawk.md",
     "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
     "docs/Birds/Song Bird/Sparrow/White-crowned Sparrow.md",
     "docs/Birds/Song Bird/Warbler/Tennessee Warbler.md",
-    "Tennessee Warbler t.md",
-    "docs/Birds/Song Bird/Sparrow/Savannah Sparrow.md",
-    "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
-    "docs/Blog/2022-10.md"
+    "Tennessee Warbler t.md"
   ]
 }

@@ -7,7 +7,7 @@ Entry Date: 2022-07-21
 
 ![[Ruby-throated Hummingbird Thumbnail.jpg]]
 
-*Hummingbird on a branch at Lord Stirling Park*
+*Ruby-throated Hummingbird drinking nectar at Montezuma Wildlife Refuge*
 
 ---------------------------------------------------------------
 ## Notes
@@ -18,6 +18,7 @@ Very difficult to photograph due to their tiny size and very erratic behavior. T
 
 -> #location/LordStirlingPark-NJ
 
+-> #location/MontezumaNationalWildlifeRefuge-NY 
 
 ---------------------------------------------------------------
 ## Photos
