@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Savannah Sparrow
 Entry Date: 2022-10-23
 
-Main Image here
+![[Savannah Sparrow Thumbnail.jpg]]
 
-*Image caption here*
+*Savannah Sparrow on a tree at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

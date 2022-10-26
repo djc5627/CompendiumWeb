@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Eastern Towhee
 Entry Date: 2022-10-22
 
-Main Image here
+![[Eastern Towhee Thumbnail.jpg]]
 
-*Image caption here*
+*Eastern Towhee foraging through shrubs at Sandy Hook*
 
 ---------------------------------------------------------------
 ## Notes

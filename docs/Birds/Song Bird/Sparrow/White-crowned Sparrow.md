@@ -2,12 +2,12 @@
 image: <CoverImageURL>
 ---
 
-# Field Sparrow
+# White-crowned Sparrow
 Entry Date: 2022-10-23
 
-Main Image here
+![[White-crowned Sparrow Thumbnail.jpg]]
 
-*Image caption here*
+*White-crowned Sparrow on a broken fence at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

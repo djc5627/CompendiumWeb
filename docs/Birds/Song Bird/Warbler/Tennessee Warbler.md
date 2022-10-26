@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Tennessee Warbler
 Entry Date: 2022-10-23
 
-Main Image here
+![[Tennessee Warbler Thumbnail.jpg]]
 
-*Image caption here*
+*Tennessee Warbler on a tree at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes

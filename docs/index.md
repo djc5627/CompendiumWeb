@@ -37,6 +37,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Broad-winged Hawk]]
+</div>
+<div markdown="1">
+[![[Broad-winged Hawk Thumbnail.jpg]]{data-title="Broad-winged Hawk" data-description="Birds of Prey"}](Birds/Birds of Prey/Hawk/Broad-winged Hawk/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Cooper's Hawk]]
 </div>
 <div markdown="1">
@@ -669,10 +682,36 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Eastern Towhee]]
+</div>
+<div markdown="1">
+[![[Eastern Towhee Thumbnail.jpg]]{data-title="Eastern Towhee" data-description="Song Birds"}](Birds/Song Bird/Sparrow/Eastern Towhee/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[House Sparrow]]
 </div>
 <div markdown="1">
 [![[House Sparrow Thumbnail.jpg]]{data-title="House Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/House Sparrow/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Savannah Sparrow]]
+</div>
+<div markdown="1">
+[![[Savannah Sparrow Thumbnail.jpg]]{data-title="Savannah Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/Savannah Sparrow/)
 </div>
 
 </div>
@@ -699,6 +738,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 </div>
 <div markdown="1">
 [![[Swamp Sparrow Thumbnail.jpg]]{data-title="Swamp Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/Swamp Sparrow/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[White-crowned Sparrow]]
+</div>
+<div markdown="1">
+[![[White-crowned Sparrow Thumbnail.jpg]]{data-title="White-crowned Sparrow" data-description="Song Birds"}](Birds/Song Bird/Sparrow/White-crowned Sparrow/)
 </div>
 
 </div>
@@ -868,6 +920,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]].
 </div>
 <div markdown="1">
 [![[Palm Warbler Thumbnail.jpg]]{data-title="Palm Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Palm Warbler/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Tennessee Warbler]]
+</div>
+<div markdown="1">
+[![[Tennessee Warbler Thumbnail.jpg]]{data-title="Tennessee Warbler" data-description="Song Birds"}](Birds/Song Bird/Warbler/Tennessee Warbler/)
 </div>
 
 </div>

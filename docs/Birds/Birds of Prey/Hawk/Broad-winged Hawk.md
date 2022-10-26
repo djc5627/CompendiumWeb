@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Broad-winged Hawk
 Entry Date: 2022-10-23
 
-Main Image here
+![[Broad-winged Hawk Thumbnail.jpg]]
 
-*Image caption here*
+*Broad-winged Hawk on a tree at Tamaques Park*
 
 ---------------------------------------------------------------
 ## Notes
