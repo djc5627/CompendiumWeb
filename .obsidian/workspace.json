@@ -24,6 +24,30 @@
             }
           },
           {
+            "id": "f3c12743fcf703ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog/2022-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a53d621beb3a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f4abcbdcac3f170",
             "type": "leaf",
             "state": {
@@ -71,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -122,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mockingb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +160,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
+                "file": "docs/Blog/2022-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,20 +254,17 @@
     "width": 260,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5943f61d5bfd52fb",
+  "active": "f3c12743fcf703ab",
   "lastOpenFiles": [
-    "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
+    "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
+    "docs/Blog/2022-10.md",
     "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
+    "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
     "docs/index.md",
     "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
     "docs/Birds/Song Bird/Warbler/Yellow Warbler.md",
     "docs/Birds/Song Bird/Swallow/Barn Swallow.md",
     "docs/Birds/Song Bird/Sparrow/Swamp Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/Dark-eyed Junco.md",
-    "docs/Birds/Song Bird/Finch/American Goldfinch.md"
+    "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md"
   ]
 }
