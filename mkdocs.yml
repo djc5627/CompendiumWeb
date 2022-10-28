@@ -27,9 +27,6 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
         
-nav:
-    - Home: 'index.md'
-    - Blog: 'recent.md'
 
 # Extensions
 markdown_extensions:

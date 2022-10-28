@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/Recent.md",
+                "file": "docs/Blog/_Blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,9 +53,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/index.md",
+                "file": "docs/Blog/2022-10.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog/index.md",
+                "file": "docs/Blog/_Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,21 +270,19 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 260,
-    "collapsed": true
+    "width": 260
   },
-  "active": "deb91fe04e811425",
+  "active": "84e71a038a22556b",
   "lastOpenFiles": [
-    "docs/Blog/Recent.md",
-    "docs/Blog/index.md",
     "docs/Blog/2022-10.md",
-    "docs/index.md",
+    "docs/Blog/_Blog.md",
+    "docs/Blog/index.md",
     "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
+    "docs/index.md",
     "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
     "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
     "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
