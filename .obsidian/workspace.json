@@ -8,58 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5943f61d5bfd52fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "f3c12743fcf703ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog Archive/2022-10-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84e71a038a22556b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog Archive/2022-10-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5754ea9e1920b38d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog Archive/2022-10-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d8c2bb006eb3c7c9",
             "type": "leaf",
             "state": {
@@ -69,82 +17,49 @@
                 "mode": "source",
                 "source": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "deb91fe04e811425",
+            "id": "60cfb04e2d859972",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog Archive/2022-10-27.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b3a53d621beb3a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
+                "file": "docs/Blog Archive/2022-10/2022-10-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f4abcbdcac3f170",
+            "id": "ba4c008dd6b958ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Song Bird/Cardinal/Northern Cardinal.md",
+                "file": "docs/Blog Archive/2022-10/2022-10-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4049e9486f693d4e",
+            "id": "ac31d287efa88fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "445372cb57134a1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2b2b5a48e9a08a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Mallard Duck.md",
+                "file": "docs/Blog Archive/2022-10/2022-10-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -302,12 +217,12 @@
   },
   "active": "d8c2bb006eb3c7c9",
   "lastOpenFiles": [
-    "docs/Gallery.md",
+    "docs/Blog Archive/2022-10/2022-10-27.md",
+    "docs/Blog Archive/2022-10/2022-10-22.md",
+    "docs/Blog Archive/2022-10/2022-10-23.md",
     "docs/Blog.md",
+    "docs/Gallery.md",
     "docs/index.md",
-    "docs/Blog Archive/2022-10-22.md",
-    "docs/Blog Archive/2022-10-23.md",
-    "docs/Blog Archive/2022-10-27.md",
     "docs/Blog/index.md",
     "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
     "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
