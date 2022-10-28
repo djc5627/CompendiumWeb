@@ -4,6 +4,9 @@ theme:
     name: 'material'
     features:
       - navigation.tracking
+      - navigation.tabs
+      - navigation.top
+      - toc.integrate 
     palette:
 
     # Light mode
