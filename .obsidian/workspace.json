@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/Blog.md",
+                "file": "docs/Blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog/Blog.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,15 +302,15 @@
   },
   "active": "d8c2bb006eb3c7c9",
   "lastOpenFiles": [
+    "docs/Gallery.md",
+    "docs/Blog.md",
     "docs/index.md",
-    "docs/Blog/Blog.md",
     "docs/Blog Archive/2022-10-22.md",
     "docs/Blog Archive/2022-10-23.md",
     "docs/Blog Archive/2022-10-27.md",
     "docs/Blog/index.md",
     "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
     "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
-    "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md",
-    "docs/Birds/Song Bird/Flycatcher/Eastern Phoebe.md"
+    "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md"
   ]
 }
