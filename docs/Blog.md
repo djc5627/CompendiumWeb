@@ -9,8 +9,6 @@ Upon entering Hawk Rise, I was not greeted with a flock of [[Yellow-rumped Warbl
 
 [[2022-10-27|Continue Reading]]
 
-![[2022-10-27]]
-
 ---------------------------------------------------------------
 
 ## 2022-10-23
