@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "c85761233b1b493a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-10/2022-10-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60cfb04e2d859972",
             "type": "leaf",
             "state": {
@@ -217,15 +229,15 @@
   },
   "active": "d8c2bb006eb3c7c9",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-10/2022-10-27.md",
-    "docs/Blog Archive/2022-10/2022-10-22.md",
-    "docs/Blog Archive/2022-10/2022-10-23.md",
+    "docs/Blog Archive/2022-10/2022-10-28.md",
     "docs/Blog.md",
+    "docs/Blog Archive/2022-10/2022-10-27.md",
+    "docs/Blog Archive/2022-10/2022-10-23.md",
+    "docs/Blog Archive/2022-10/2022-10-22.md",
     "docs/Gallery.md",
     "docs/index.md",
     "docs/Blog/index.md",
     "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
-    "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md",
-    "docs/Birds/Song Bird/Warbler/Yellow-rumped Warbler.md"
+    "docs/Birds/Song Bird/Mocking Bird/Northern Mockingbird.md"
   ]
 }
