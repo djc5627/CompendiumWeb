@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,10 +227,10 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "d8c2bb006eb3c7c9",
+  "active": "1ccca1ab9b7d586f",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-10/2022-10-28.md",
     "docs/Blog.md",
+    "docs/Blog Archive/2022-10/2022-10-28.md",
     "docs/Blog Archive/2022-10/2022-10-27.md",
     "docs/Blog Archive/2022-10/2022-10-23.md",
     "docs/Blog Archive/2022-10/2022-10-22.md",
