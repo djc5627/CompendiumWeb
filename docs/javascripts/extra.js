@@ -107,6 +107,9 @@ if (screen.width < 500)
 else
 	imagesPerRowSelect.value = 3;
 
+console.log(screen.width);
+console.log(imagesPerRowSelect.value);
+
 // Init thumbnail size
 setThumbnailSize(imagesPerRowSelect.value);
 
