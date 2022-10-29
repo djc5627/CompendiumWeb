@@ -102,12 +102,13 @@ imagesPerRowSelect.onchange = function() {
 }
 
 //Init the imagesPerRow based on screen width
-if (screen.width < 500)
+if (screen.width < 1280)
 	imagesPerRowSelect.value = 2;
 else
 	imagesPerRowSelect.value = 3;
 
 console.log(screen.width);
+console.log(window.innerWidth);
 console.log(imagesPerRowSelect.value);
 
 // Init thumbnail size
