@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8c2bb006eb3c7c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "a128d0d00fed5928",
             "type": "leaf",
             "state": {
@@ -31,6 +15,18 @@
               "state": {
                 "file": "docs/Blog Archive/2022-10/2022-10-29.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dcd2e20fa8fff89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -47,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -228,17 +225,17 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "d8c2bb006eb3c7c9",
+  "active": "3dcd2e20fa8fff89",
   "lastOpenFiles": [
+    "docs/Gallery.md",
     "docs/Blog Archive/2022-10/2022-10-29.md",
-    "docs/Blog Archive/2022-10/2022-10-28.md",
     "docs/Blog.md",
+    "docs/Blog Archive/2022-10/2022-10-28.md",
     "Templates/BirdBlogTemplate.md",
     "Templates/BirdBlogTemplate Preview.md",
     "docs/Blog Archive/2022-10/2022-10-27.md",
     "docs/index.md",
     "docs/Blog Archive/2022-10/2022-10-23.md",
-    "docs/Blog Archive/2022-10/2022-10-22.md",
-    "docs/Gallery.md"
+    "docs/Blog Archive/2022-10/2022-10-22.md"
   ]
 }
