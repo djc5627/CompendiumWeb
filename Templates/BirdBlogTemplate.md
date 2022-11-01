@@ -1,11 +1,12 @@
 
-# {{date}}
+## Title here
+{{date}}
 
----------------------------------------------------------------
-## Notes
+Some Text Here
 
----------------------------------------------------------------
-## Locations/Sightings
+Next Paragraph here
+
+### Locations/Sightings
 
 -> #location/Missing
 
