@@ -63,6 +63,18 @@
             }
           },
           {
+            "id": "132488594adec084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Gallery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed475b3779715942",
             "type": "leaf",
             "state": {
@@ -86,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,9 +239,9 @@
   },
   "active": "3dcd2e20fa8fff89",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/Blog.md",
     "docs/Gallery.md",
+    "docs/Blog.md",
+    "docs/index.md",
     "docs/Blog Archive/2022-10/2022-10-29.md",
     "docs/Blog Archive/2022-10/2022-10-28.md",
     "Templates/BirdBlogTemplate.md",
