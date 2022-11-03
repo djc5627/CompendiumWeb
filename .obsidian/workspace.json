@@ -98,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "black-ca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +144,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,11 +237,11 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "3dcd2e20fa8fff89",
+  "active": "09b79646f4374d7e",
   "lastOpenFiles": [
-    "docs/Gallery.md",
-    "docs/Blog.md",
     "docs/index.md",
+    "docs/Blog.md",
+    "docs/Gallery.md",
     "Templates/BirdBlogTemplate.md",
     "docs/Blog Archive/2022-10/2022-10-29.md",
     "docs/Blog Archive/2022-10/2022-10-28.md",
