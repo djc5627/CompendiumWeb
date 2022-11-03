@@ -2,6 +2,8 @@
 ## Title here
 {{date}}
 
+[[SpecificLinkToBlogHere|< Back to Blog Home]]
+
 Some Text Here
 
 Next Paragraph here
