@@ -48,7 +48,7 @@ Upon entering Hawk Rise, I was not greeted with a flock of [[Yellow-rumped Warbl
 ## Sandy Hook Overrun by Mockingbirds
 2022-10-23
 
-![[DSC00710_2.jpg]]{ .galleryItem .galleryRow2 data-title="Northern Mockingbird watching over the Sandy Hook parking lot"}
+![[DSC00710_1.jpg]]{ .galleryItem .galleryRow2 data-title="Northern Mockingbird watching over the Sandy Hook parking lot"}
 ![[DSC00714_2.jpg]]{ .galleryItem .galleryRow2 data-title="Northern Mockingbird enforcing the law"}
 ![[DSC00692_1.jpg]]{ .galleryItem .galleryRow2 data-title="Fishermen packing up at Sandy Hook Beach with NYC in the background"}
 ![[DSC00640_1.jpg]]{ .galleryItem .galleryRow2 data-title="Man walking his dog at Sandy Hook Beach with NYC in the background"}
