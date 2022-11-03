@@ -5,7 +5,7 @@
 ## Titmice at Central Park
 2022-10-39
 
-![[Tufted Titmouse Thumbnail.jpg]]
+![[Tufted Titmouse Thumbnail.jpg]]{ .galleryItem .galleryRow1}
 
 Today I went to Central Park with some friends to explore and take photos. We decided to visit Central Park since the weather was nice (60 degrees) and the fall colors were in full bloom. While crossing Bow Bridge, I saw a [[Red-Tailed Hawk]] fly overhead and got some cool shots. I think I startled the people around me when I yelled "Red-Tailed Hawk!" and pointed at the sky. 
 
@@ -18,7 +18,8 @@ The Ramble at Central Park is a well-known birding spot and the number of people
 ## Bald Eagle Over Jackson Pond
 2022-10-28
 
-![[Bald Eagle Thumbnail.jpg]]
+![[Bald Eagle Thumbnail.jpg]]{ .galleryItem .galleryRow2}
+![[Bald Eagle Thumbnail.jpg]]{ .galleryItem .galleryRow2}
 
 This morning I was torn between going back to Hawk Rise Sanctuary and going to a different location. I ended up flipping a coin which ended in me going to Rahway River Park's Jackson Pond. The morning started quietly with few birds but the fall colors inspired me to switch to my wide-angle lens and get some shots of the pond. 
 
@@ -31,7 +32,10 @@ After getting some wide-angle shots I decided to move further up the pond where 
 ## Kestrel and Kingfisher at Hawk Rise
 2022-10-27
 
-![[Red-tailed Hawk Thumbnail.jpg]]
+![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
+![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
+![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
+![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
 
 I went to Hawk Rise Sanctuary this morning before work. It was a cool fall morning with no clouds in the sky. The leaves are almost all turned to their fall colors but still mostly on the trees. This time, I brought my wide-angle lens to get shots of the landscape as well.
 
