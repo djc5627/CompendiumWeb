@@ -49,7 +49,7 @@ Upon entering Hawk Rise, I was not greeted with a flock of [[Yellow-rumped Warbl
 2022-10-23
 
 ![[DSC00710_2.jpg]]{ .galleryItem .galleryRow2 data-title="Northern Mockingbird watching over the Sandy Hook parking lot"}
-![[DSC00714_1.jpg]]{ .galleryItem .galleryRow2 data-title="Northern Mockingbird enforcing the law"}
+![[DSC00714_2.jpg]]{ .galleryItem .galleryRow2 data-title="Northern Mockingbird enforcing the law"}
 ![[DSC00692_1.jpg]]{ .galleryItem .galleryRow2 data-title="Fishermen packing up at Sandy Hook Beach with NYC in the background"}
 ![[DSC00640_1.jpg]]{ .galleryItem .galleryRow2 data-title="Man walking his dog at Sandy Hook Beach with NYC in the background"}
 
@@ -65,7 +65,7 @@ We went back to Sandy Hook today early in the morning with the help of some espr
 
 ![[DSC00528_2.jpg]]{ .galleryItem .galleryRow2 data-title="Eastern Towhee foraging at Sandy Hook"}
 ![[DSC00540_2.jpg]]{ .galleryItem .galleryRow2 data-title="Yellow-Rumped Warbler perched on a branch at Sandy Hook"}
-![[DSC00550_2.jpg]]{ .galleryItem .galleryRow2 data-title="Black-crowned Night Heron soaring over Sandy Hook's Plum Island"}
+![[DSC00556_1.jpg]]{ .galleryItem .galleryRow2 data-title="Black-crowned Night Heron soaring over Sandy Hook's Plum Island"}
 ![[DSC00608_1.jpg]]{ .galleryItem .galleryRow2 data-title="Sunset at Sandy Hook"}
 
 Today we went birding at Sandy Hook for the first time. We decided to try out the location because I saw the NJ Audubon Society was having a birding tour there earlier in the day and figured it must be a good location. The tour started at parking lot B near Plum Island so I assumed that island is where the birding took place. 
