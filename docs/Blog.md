@@ -48,7 +48,7 @@ Upon entering Hawk Rise, I was not greeted with a flock of [[Yellow-rumped Warbl
 ## Sandy Hook Overrun by Mockingbirds
 2022-10-23
 
-![[Northern Mockingbird Thumbnail.jpg]]
+![[Northern Mockingbird Thumbnail.jpg]]{ .galleryItem .galleryRow2}
 
 We went back to Sandy Hook today early in the morning with the help of some espresso. It was a cloudy day with some drizzling that wasn't ideal for photos but I was too excited to go back. This time we decided to walk around the shore before going to Plum Island where we saw large groups of gulls alongside fishermen. You can see New York City from the shore and I got some interesting shots of fishermen with the city behind them.
 
