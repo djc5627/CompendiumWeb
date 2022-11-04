@@ -39,7 +39,7 @@ After getting some wide-angle shots I decided to move further up the pond where 
 ![[DSC00792_1.jpg]]{ .galleryItem .galleryRow2 data-title="Me at Hawk Rise Sanctuary"}
 ![[DSC00868_1.jpg]]{ .galleryItem .galleryRow2 data-title="Eastern Kingfisher hovering over Hawk Rise's water"}
 ![[DSC00935_1.jpg]]{ .galleryItem .galleryRow2 data-title="Yellow-rumped Warbler on wire at Hawk Rise Santuary"}
-![[DSC00949_1.jpg]]{ .galleryItem .galleryRow2 data-title="View platform at Hawk Rise Sanctuary"}
+![[DSC00949_1.jpg]]{ .galleryItem .galleryRow2 data-title="Viewing platform at Hawk Rise Sanctuary"}
 
 I went to Hawk Rise Sanctuary this morning before work. It was a cool fall morning with no clouds in the sky. The leaves are almost all turned to their fall colors but still mostly on the trees. This time, I brought my wide-angle lens to get shots of the landscape as well.
 
