@@ -9,8 +9,6 @@
 
 Today I went to Central Park with some friends to explore and take photos. We decided to visit Central Park since the weather was nice (60 degrees) and the fall colors were in full bloom. While crossing Bow Bridge, I saw a [[Red-Tailed Hawk]] fly overhead and got some cool shots. I think I startled the people around me when I yelled "Red-Tailed Hawk!" and pointed at the sky. 
 
-The Ramble at Central Park is a well-known birding spot and the number of people carrying large lenses supports that. We saw a group of photographers gathering to photograph a [[Great Horned Owl]]. I tried to get some shots but the owl was in dark shadow with the sun behind them. All around the Ramble there were [[Tufted Titmouse|Tufted Titmice]]. I hadn't seen a titmouse since my trip to Boston last year. I was surprised to see them all around foraging on the ground. I'd love to visit Central Park more often and get to know some of the photographers that frequent it.
-
 [[2022-10-29|Continue Reading]]
 
 ---------------------------------------------------------------
@@ -24,8 +22,6 @@ The Ramble at Central Park is a well-known birding spot and the number of people
 ![[DSC01019_1.jpg]]{ .galleryItem .galleryRow2 data-title="Jackson Pond"}
 
 This morning I was torn between going back to Hawk Rise Sanctuary and going to a different location. I ended up flipping a coin which ended in me going to Rahway River Park's Jackson Pond. The morning started quietly with few birds but the fall colors inspired me to switch to my wide-angle lens and get some shots of the pond. 
-
-After getting some wide-angle shots I decided to move further up the pond where some [[Mallard Duck|Mallard Ducks]] were hanging out. After a while, I saw a large bird flying high up in the sky. After switching my camera to my birds-in-flight mode, I realized it was a [[Bald Eagle]]! This was my second time ever seeing one, but my first time seeing one this close. I was able to get some great shots of them in flight which will make a great compendium thumbnail. To think a coin flip was what led me here today.
 
 [[2022-10-28|Continue Reading]]
 
@@ -42,8 +38,6 @@ After getting some wide-angle shots I decided to move further up the pond where 
 ![[DSC00949_1.jpg]]{ .galleryItem .galleryRow2 data-title="Viewing platform at Hawk Rise Sanctuary"}
 
 I went to Hawk Rise Sanctuary this morning before work. It was a cool fall morning with no clouds in the sky. The leaves are almost all turned to their fall colors but still mostly on the trees. This time, I brought my wide-angle lens to get shots of the landscape as well.
-
-Upon entering Hawk Rise, I was not greeted with a flock of [[Yellow-rumped Warbler|Yellow-rumped Warblers]] like the previous times this Fall, instead, it was actually quiet with few birds. I decided to switch to my wide-angle lens and get some cool shots of the sanctuary from the observation deck. The wind was whistling and the ocean of marsh reeds was swaying with it.
 
 [[2022-10-27|Continue Reading]]
 
