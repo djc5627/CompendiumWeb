@@ -18,8 +18,10 @@ The Ramble at Central Park is a well-known birding spot and the number of people
 ## Bald Eagle Over Jackson Pond
 2022-10-28
 
-![[Bald Eagle Thumbnail.jpg]]{ .galleryItem .galleryRow2}
-![[Bald Eagle Thumbnail.jpg]]{ .galleryItem .galleryRow2}
+![[DSC00981_1.jpg]]{ .galleryItem .galleryRow2 data-title="Bald Eagle soaring over Jackson Pond"}
+![[DSC01014_1.jpg]]{ .galleryItem .galleryRow2 data-title="Eastern Grey Squirrel at Jackson Pond"}
+![[DSC01010_1.jpg]]{ .galleryItem .galleryRow2 data-title="Mallard Ducks at Jackson Pond"}
+![[DSC01019_1.jpg]]{ .galleryItem .galleryRow2 data-title="Jackson Pond"}
 
 This morning I was torn between going back to Hawk Rise Sanctuary and going to a different location. I ended up flipping a coin which ended in me going to Rahway River Park's Jackson Pond. The morning started quietly with few birds but the fall colors inspired me to switch to my wide-angle lens and get some shots of the pond. 
 
@@ -29,17 +31,19 @@ After getting some wide-angle shots I decided to move further up the pond where 
 
 ---------------------------------------------------------------
 
-## Kestrel and Kingfisher at Hawk Rise
+## Kestrel and Kingfisher at Hawk Rise Sanctuary
 2022-10-27
 
-![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
-![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
-![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
-![[Red-tailed Hawk Thumbnail.jpg]]{ .galleryItem .galleryRow4}
+![[DSC00811_1.jpg]]{ .galleryItem .galleryRow2 data-title="Red-tailed Hawk soaring over Hawk Rise Sanctuary"}
+![[DSC00913_1.jpg]]{ .galleryItem .galleryRow2 data-title="American Kestrel soaring over Hawk Rise Sanctuary"}
+![[DSC00792_1.jpg]]{ .galleryItem .galleryRow2 data-title="Me at Hawk Rise Sanctuary"}
+![[DSC00868_1.jpg]]{ .galleryItem .galleryRow2 data-title="Eastern Kingfisher hovering over Hawk Rise's water"}
+![[DSC00935_1.jpg]]{ .galleryItem .galleryRow2 data-title="Yellow-rumped Warbler on wire at Hawk Rise Santuary"}
+![[DSC00949_1.jpg]]{ .galleryItem .galleryRow2 data-title="View platform at Hawk Rise Sanctuary"}
 
 I went to Hawk Rise Sanctuary this morning before work. It was a cool fall morning with no clouds in the sky. The leaves are almost all turned to their fall colors but still mostly on the trees. This time, I brought my wide-angle lens to get shots of the landscape as well.
 
-Upon entering Hawk Rise, I was not greeted with a flock of [[Yellow-rumped Warbler]]s like the previous times this Fall, instead, it was actually quiet with few birds. I decided to switch to my wide-angle lens and get some cool shots of the sanctuary from the observation deck. The wind was whistling and the ocean of marsh reeds was swaying with it.
+Upon entering Hawk Rise, I was not greeted with a flock of [[Yellow-rumped Warbler|Yellow-rumped Warblers]] like the previous times this Fall, instead, it was actually quiet with few birds. I decided to switch to my wide-angle lens and get some cool shots of the sanctuary from the observation deck. The wind was whistling and the ocean of marsh reeds was swaying with it.
 
 [[2022-10-27|Continue Reading]]
 
