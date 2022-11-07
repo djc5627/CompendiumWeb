@@ -3,9 +3,9 @@
 ---------------------------------------------------------------
 
 ## Titmice at Central Park
-2022-10-39
+2022-10-29
 
-![[Tufted Titmouse Thumbnail.jpg]]{ .galleryItem .galleryRow1}
+![[DSC01213_1.jpg]]{ .galleryItem .galleryRow1 data-title="Tufted Titmouse foraging on the ground at Central Park"}
 
 Today I went to Central Park with some friends to explore and take photos. We decided to visit Central Park since the weather was nice (60 degrees) and the fall colors were in full bloom. While crossing Bow Bridge, I saw a [[Red-Tailed Hawk]] fly overhead and got some cool shots. I think I startled the people around me when I yelled "Red-Tailed Hawk!" and pointed at the sky. 
 
