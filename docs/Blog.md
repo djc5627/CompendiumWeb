@@ -47,8 +47,8 @@ This weekend, some of my college friends and I got together at Penn State for a 
 ## Halloween Hike Ravens
 2022-10-30
 
-![[DSC01461_1.jpg]]{ .galleryItem .galleryRow2 data-title="Me on a mountain peak at Harriman State Park"}
-![[DSC01383_1.jpg]]{ .galleryItem .galleryRow2 data-title="Ravens flying over a mountain peak at Harriman State Park"}
+![[DSC01461_1.jpg]]{ .galleryItem .galleryRow1 data-title="Me on a mountain peak at Harriman State Park"}
+![[DSC01383_1.jpg]]{ .galleryItem .galleryRow1 data-title="Ravens flying over a mountain peak at Harriman State Park"}
 
 Today I went on a Halloween hike with my sister at Harriman State Park. We decided to revisit a trail from last year, Seven Hills Loop, because we wanted something challenging and this one had scrambling. The motivation for the hike was that my sister had not been to our favorite Japanese restaurant near Harriman State Park since last Halloween, and we couldn't let it be more than a year without pork buns.
 
