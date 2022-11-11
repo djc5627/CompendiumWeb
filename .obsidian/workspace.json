@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/Blog Archive/2022-11/2022-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,17 +337,17 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "3dcd2e20fa8fff89",
+  "active": "0a8b50f0b7ff9cbe",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-10/2022-10-30.md",
-    "docs/Blog Archive/2022-11/2022-11-05.md",
-    "docs/Blog Archive/2022-10/2022-10-23.md",
-    "docs/Blog Archive/2022-10/2022-10-27.md",
-    "docs/Blog Archive/2022-10/2022-10-22.md",
-    "docs/Blog Archive/2022-10/2022-10-29.md",
     "docs/Blog Archive/2022-11/2022-11-08.md",
-    "docs/Blog Archive/2022-11/2022-11-09.md",
+    "docs/Blog Archive/2022-11/2022-11-05.md",
+    "docs/Blog Archive/2022-10/2022-10-30.md",
+    "docs/Blog Archive/2022-10/2022-10-29.md",
+    "docs/Blog Archive/2022-10/2022-10-28.md",
+    "docs/Blog Archive/2022-10/2022-10-27.md",
+    "docs/Blog Archive/2022-10/2022-10-23.md",
+    "docs/Blog Archive/2022-10/2022-10-22.md",
     "docs/Blog.md",
-    "docs/Blog Archive/2022-10/2022-10-28.md"
+    "docs/Blog Archive/2022-11/2022-11-09.md"
   ]
 }
