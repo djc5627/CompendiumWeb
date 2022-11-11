@@ -2,6 +2,60 @@
 
 ---------------------------------------------------------------
 
+## Fungal Foraging, Foxes, and Merlin Sighting
+2022-11-09
+
+![[IMG_7154_1.jpg]]{ .galleryItem .galleryRow2 data-title="Me harvesting Lion's Mane at Milton Lake"}
+![[DSC09488_1.jpg]]{ .galleryItem .galleryRow2 data-title="Merlin perched on my deck camping out my bird feeder"}
+![[IMG_7168_1.jpg]]{ .galleryItem .galleryRow2 data-title="Harvested Lion's Mane I cooked into stir fry"}
+![[DSC09557_1.jpg]]{ .galleryItem .galleryRow2 data-title="Wood Duck at Milton Lake"}
+
+I couldn't resist heading back to Milton Lake Park this morning in search of another [[Hooded Merganser]]. I woke up, immediately drank coffee, and headed out. I was quickly greeted by a cacophony of screeches coming from a flock of [[Grackle|Grackles]] above, one of the many signs that winter is coming. Along the path I saw a bunch of [[Dark-eyed Junco|Dark-eyed Juncos]] and [[White-throated Sparrow|White-throated Sparrows]]. I also talked to a jogger who asked me about my camera and mentioned he travels to the city for people photography.
+
+[[2022-11-09|Continue Reading]]
+
+---------------------------------------------------------------
+
+## Hooded Merganser at Milton Lake Park
+2022-11-08
+
+![[DSC09465_1.jpg]]{ .galleryItem .galleryRow2 data-title="A Hooded Merganser at Milton Lake"}
+![[DSC09451_1.jpg]]{ .galleryItem .galleryRow2 data-title="A Hooded Merganser and Canadian Goose at Milton Lake"}
+![[DSC09437_1.jpg]]{ .galleryItem .galleryRow2 data-title="Lion's Mane Mushroom at Milton Lake"}
+![[F0FD6FE0-0D5B-4FAA-B889-9C038C131021_1.jpg]]{ .galleryItem .galleryRow2 data-title="Lion's Mane Mushroom at Milton Lake next to my hand"}
+
+After eating way too much for breakfast, I felt like I needed to go for a walk. I decided to head over to Milton Lake Park and bring my camera since I had not gone birding there in a while. Milton Lake Park consists of a walking path that goes alongside the Hazel Wood Cemetery and Middlesex Reservoir which eventually becomes Milton Lake. The area is fairly secluded compared to the nearby Esposito Park but dense foliage makes birding difficult at times.
+
+[[2022-11-08|Continue Reading]]
+
+---------------------------------------------------------------
+
+## Penn State Birding
+2022-11-05
+
+![[DSC09314_1.jpg]]{ .galleryItem .galleryRow2 data-title="A turtle at Penn State's Duck Pond"}
+![[DSC09307_1.jpg]]{ .galleryItem .galleryRow2 data-title="An American Robin at Penn State's Duck Pond eating a berry"}
+![[DSC09283_1.jpg]]{ .galleryItem .galleryRow2 data-title="Penn State honor's college garden"}
+![[DSC09344_1.jpg]]{ .galleryItem .galleryRow2 data-title="A Red-tailed Hawk soaring over Penn State"}
+
+This weekend, some of my college friends and I got together at Penn State for a reunion we planned. It has been over 4 years since we graduated and most of us had not been back to State College. I was excited to see my friends and catch up. It was also a good opportunity to bring my camera and see Penn State from a photographer's perspective. During my years at Penn State, I did not own a camera or know much of anything much about birds.
+
+[[2022-11-05|Continue Reading]]
+
+---------------------------------------------------------------
+
+## Halloween Hike Ravens
+2022-10-30
+
+![[DSC01461_1.jpg]]{ .galleryItem .galleryRow2 data-title="Me on a mountain peak at Harriman State Park"}
+![[DSC01383_1.jpg]]{ .galleryItem .galleryRow2 data-title="Ravens flying over a mountain peak at Harriman State Park"}
+
+Today I went on a Halloween hike with my sister at Harriman State Park. We decided to revisit a trail from last year, Seven Hills Loop, because we wanted something challenging and this one had scrambling. The motivation for the hike was that my sister had not been to our favorite Japanese restaurant near Harriman State Park since last Halloween, and we couldn't let it be more than a year without pork buns.
+
+[[2022-10-30|Continue Reading]]
+
+---------------------------------------------------------------
+
 ## Titmice at Central Park
 2022-10-29
 

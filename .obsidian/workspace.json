@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3dcd2e20fa8fff89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "af00a280fdafd7e0",
             "type": "leaf",
             "state": {
@@ -60,7 +44,7 @@
             }
           },
           {
-            "id": "c85761233b1b493a",
+            "id": "a0d5df58001cf5d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,8 +66,57 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ae7faefc9b0bcd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-10/2022-10-30.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "867b196a0fd90216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-11/2022-11-05.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d8ad39f6134fa37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-11/2022-11-08.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0a8b50f0b7ff9cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-11/2022-11-09.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -102,43 +135,71 @@
             }
           },
           {
-            "id": "ed475b3779715942",
+            "id": "b234a041fec1bac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/BirdBlogTemplate.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0c5a7c0e1543e6e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/BirdBlogTemplate Preview.md",
+                "file": "docs/Birds/Song Bird/Raven/Common Raven.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ded21e1754829ef6",
+            "id": "c2f9e98fb58c5206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Gallery.md",
+                "file": "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0728e421594a9727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02742a002a984844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Birds of Prey/Falcon/Merlin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dcd2e20fa8fff89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog.md",
                 "mode": "source",
                 "source": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/Blog Archive/2022-10/2022-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,17 +337,17 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "3dcd2e20fa8fff89",
+  "active": "ae7faefc9b0bcd77",
   "lastOpenFiles": [
     "docs/Blog Archive/2022-10/2022-10-29.md",
-    "docs/Blog Archive/2022-10/2022-10-28.md",
-    "docs/Blog Archive/2022-10/2022-10-27.md",
+    "docs/Blog Archive/2022-10/2022-10-30.md",
+    "docs/Blog Archive/2022-11/2022-11-05.md",
+    "docs/Blog Archive/2022-11/2022-11-08.md",
+    "docs/Blog Archive/2022-11/2022-11-09.md",
     "docs/Blog.md",
-    "docs/Blog Archive/2022-10/2022-10-23.md",
-    "docs/Blog Archive/2022-10/2022-10-22.md",
-    "Templates/BirdBlogTemplate.md",
-    "docs/index.md",
-    "docs/Gallery.md",
-    "Templates/BirdBlogTemplate Preview.md"
+    "docs/Blog Archive/2022-10/2022-10-28.md",
+    "docs/Birds/Birds of Prey/Falcon/Merlin.md",
+    "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
+    "docs/Birds/Song Bird/Sparrow/Dark-eyed Junco.md"
   ]
 }
