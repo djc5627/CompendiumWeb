@@ -33,6 +33,9 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 </div>
 
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
 <div class="card-title" markdown="1">
 [[American Kestrel]]
 </div>
@@ -42,6 +45,9 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 
 </div>
 </div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
 [[Merlin]]
@@ -464,7 +470,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 [[Hooded Merganser]]
 </div>
 <div markdown="1">
-[![[Hooded Merganser Thumbnail.jpg]]{data-title="Hooded Merganser Thumbnail" data-description="Water Fowl"}](Birds/Water Fowl/Goose/Hooded Merganser/)
+[![[Hooded Merganser Thumbnail.jpg]]{data-title="Hooded Merganser" data-description="Water Fowl"}](Birds/Water Fowl/Goose/Hooded Merganser/)
 </div>
 
 </div>
