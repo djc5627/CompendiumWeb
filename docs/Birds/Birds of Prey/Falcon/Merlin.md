@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Merlin
 Entry Date: 2022-11-09
 
-Main Image here
+![[Merlin Thumbnail.jpg]]
 
-*Image caption here*
+*Merlin camping out my bird feeder*
 
 ---------------------------------------------------------------
 ## Notes

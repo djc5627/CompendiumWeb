@@ -33,6 +33,26 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 </div>
 
+<div class="card-title" markdown="1">
+[[American Kestrel]]
+</div>
+<div markdown="1">
+[![[American Kestrel Thumbnail.jpg]]{data-title="American Kestrel" data-description="Birds of Prey"}](Birds/Birds of Prey/Falcon/American Kestrel/)
+</div>
+
+</div>
+</div>
+
+<div class="card-title" markdown="1">
+[[Merlin]]
+</div>
+<div markdown="1">
+[![[Merlin Thumbnail.jpg]]{data-title="Merlin" data-description="Birds of Prey"}](Birds/Birds of Prey/Falcon/Merlin/)
+</div>
+
+</div>
+</div>
+
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 
@@ -437,6 +457,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 </div>
 
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Hooded Merganser]]
+</div>
+<div markdown="1">
+[![[Hooded Merganser Thumbnail.jpg]]{data-title="Hooded Merganser Thumbnail" data-description="Water Fowl"}](Birds/Water Fowl/Goose/Hooded Merganser/)
+</div>
+
+</div>
+</div>
+
 
 </div>
 
@@ -647,6 +680,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 <div markdown="1">
 [![[White-breasted Nuthatch Thumbnail.jpg]]{data-title="White-breasted Nuthatch" data-description="Song Birds"}](Birds/Song Bird/Nuthatch/White-breasted Nuthatch/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Common Raven]]
+</div>
+<div markdown="1">
+[![[Common Raven]]{data-title="Common Raven" data-description="Song Birds"}](Birds/Song Bird/Raven/Common Raven/)
 </div>
 
 </div>

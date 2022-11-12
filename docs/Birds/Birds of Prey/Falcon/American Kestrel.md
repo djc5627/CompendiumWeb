@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # American Kestrel
 Entry Date: 2022-10-27
 
-Main Image here
+![[American Kestrel Thumbnail.jpg]]
 
-*Image caption here*
+*American Kestrel soaring over Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes

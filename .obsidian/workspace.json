@@ -198,8 +198,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2022-11/2022-11-09.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,17 +336,17 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "0a8b50f0b7ff9cbe",
+  "active": "1ccca1ab9b7d586f",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-11/2022-11-08.md",
-    "docs/Blog Archive/2022-11/2022-11-05.md",
-    "docs/Blog Archive/2022-10/2022-10-30.md",
-    "docs/Blog Archive/2022-10/2022-10-29.md",
-    "docs/Blog Archive/2022-10/2022-10-28.md",
-    "docs/Blog Archive/2022-10/2022-10-27.md",
-    "docs/Blog Archive/2022-10/2022-10-23.md",
-    "docs/Blog Archive/2022-10/2022-10-22.md",
+    "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
+    "docs/index.md",
+    "docs/Birds/Birds of Prey/Falcon/Merlin.md",
+    "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
+    "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md",
+    "docs/Birds/Song Bird/Raven/Common Raven.md",
     "docs/Blog.md",
-    "docs/Blog Archive/2022-11/2022-11-09.md"
+    "docs/Blog Archive/2022-11/2022-11-09.md",
+    "docs/Blog Archive/2022-11/2022-11-08.md",
+    "docs/Blog Archive/2022-11/2022-11-05.md"
   ]
 }

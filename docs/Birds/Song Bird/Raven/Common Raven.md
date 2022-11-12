@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Common Raven
 Entry Date: 2022-11-08
 
-Main Image here
+![[Common Raven Thumbnail.jpg]]
 
-*Image caption here*
+*Common Raven Soaring mountain peak at Harriman State Park*
 
 ---------------------------------------------------------------
 ## Notes
