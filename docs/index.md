@@ -698,7 +698,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 [[Common Raven]]
 </div>
 <div markdown="1">
-[![[Common Raven]]{data-title="Common Raven" data-description="Song Birds"}](Birds/Song Bird/Raven/Common Raven/)
+[![[Common Raven Thumbnail.jpg]]{data-title="Common Raven" data-description="Song Birds"}](Birds/Song Bird/Raven/Common Raven/)
 </div>
 
 </div>
