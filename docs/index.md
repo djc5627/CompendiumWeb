@@ -50,19 +50,6 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Merlin]]
-</div>
-<div markdown="1">
-[![[Merlin Thumbnail.jpg]]{data-title="Merlin" data-description="Birds of Prey"}](Birds/Birds of Prey/Falcon/Merlin/)
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
 [[Broad-winged Hawk]]
 </div>
 <div markdown="1">
