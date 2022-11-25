@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------
 
-## Fungal Foraging, Foxes, and Merlin Sighting
+## Fungal Foraging, Foxes, and Cooper's Hawk Sighting
 2022-11-09
 
 ![[IMG_7154_1.jpg]]{ .blogItem .blogRow2 data-title="Me harvesting Lion's Mane at Milton Lake"}
