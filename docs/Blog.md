@@ -6,7 +6,7 @@
 2022-11-09
 
 ![[IMG_7154_1.jpg]]{ .blogItem .blogRow2 data-title="Me harvesting Lion's Mane at Milton Lake"}
-![[DSC09488_1.jpg]]{ .blogItem .blogRow2 data-title="Merlin perched on my deck camping out my bird feeder"}
+![[DSC09488_1.jpg]]{ .blogItem .blogRow2 data-title="Cooper's Hawk perched on my deck camping out my bird feeder"}
 ![[IMG_7168_1.jpg]]{ .blogItem .blogRow2 data-title="Harvested Lion's Mane I cooked into stir fry"}
 ![[DSC09557_1.jpg]]{ .blogItem .blogRow2 data-title="Wood Duck at Milton Lake"}
 
