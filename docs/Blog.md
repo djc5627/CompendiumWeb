@@ -2,6 +2,20 @@
 
 ---------------------------------------------------------------
 
+## Shovelers and Hand-feeding Titmice at Central Park
+2022-11-26
+
+![[DSC00043_1.jpg]]{ .blogItem .blogRow2 data-title="Northern Shoveler at Central Park Lake"}
+![[DSC00107_1.jpg]]{ .blogItem .blogRow2 data-title="Squirrel eating peanut butter from a branch at Central Park"}
+![[DSC00128_1.jpg]]{ .blogItem .blogRow2 data-title="Hand-feeding Tufted Titmouse at Central Park"}
+![[DSC00109_3.jpg]]{ .blogItem .blogRow2 data-title="Hand-feeding Tufted Titmouse at Central Park"}
+
+After stuffing ourselves with multiple Thanksgiving meals these past few days (leftovers included), we decided to take advantage of the unusually nice weather in November (50 and sunny) and choose to take a day trip to New York City. We planned to do birding at Central Park and after seeing multiple posts on the Manhattan Birds Twitter account of people hand-feeding birds there, I also packed bird feed and peanuts.
+
+[[2022-11-26|Continue Reading]]
+
+---------------------------------------------------------------
+
 ## Fungal Foraging, Foxes, and Cooper's Hawk Sighting
 2022-11-09
 
