@@ -421,6 +421,22 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[American Black Duck]]
+</div>
+<div markdown="1">
+![[American Black Duck Thumbnail.jpg]]{data-title="American Black Duck" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Mallard Duck]]
 </div>
 <div markdown="1">
