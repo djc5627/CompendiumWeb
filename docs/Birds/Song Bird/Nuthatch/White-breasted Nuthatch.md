@@ -7,7 +7,7 @@ Entry Date: 2022-04-29
 
 ![[White-breasted Nuthatch Thumbnail.jpg]]
 
-*White-breasted Nuthatch high up on trees at Milton Lake Park*
+*White-breasted Nuthatch high up on trees at Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes

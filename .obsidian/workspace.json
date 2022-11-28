@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Birds of Prey/Hawk/Cooper's Hawk.md",
                 "mode": "source",
                 "source": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hooded mer",
+                "query": "file:coop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Birds of Prey/Hawk/Cooper's Hawk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,15 +247,15 @@
   },
   "active": "1ccca1ab9b7d586f",
   "lastOpenFiles": [
+    "docs/Birds/Water Fowl/Duck/Wood Duck.md",
+    "docs/Birds/Song Bird/Nuthatch/White-breasted Nuthatch.md",
+    "docs/index.md",
     "docs/Birds/Water Fowl/Duck/American Black Duck.md",
     "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md",
-    "docs/index.md",
     "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md",
     "docs/Birds/Song Bird/Raven/Common Raven.md",
     "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
     "docs/Blog Archive/2022-11/2022-11-26.md",
-    "northern shov.md",
-    "docs/Blog.md",
-    "docs/Blog Archive/2022-11/2022-11-09.md"
+    "northern shov.md"
   ]
 }

@@ -7,7 +7,7 @@ Entry Date: 2022-09-17
 
 ![[Cooper's Hawk Thumbnail.jpg]]
 
-*Cooper's Hawk on a tree at Milton Lake Park over St. Mary's Cemetery*
+*Cooper's Hawk on a tree at Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes

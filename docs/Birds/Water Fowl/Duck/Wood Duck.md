@@ -7,7 +7,7 @@ Entry Date: 2022-05-18
 
 ![[Wood Duck Thumbnail.jpg]]
 
-*Wood Duck soaring over water at Great Swamp Refuge*
+*Wood Duck swimming at Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes
