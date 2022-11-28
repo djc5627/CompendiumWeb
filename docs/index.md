@@ -66,7 +66,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 [[Cooper's Hawk]]
 </div>
 <div markdown="1">
-![[Cooper's Hawk Thumbnail.jpg]]{data-title="Cooper's Hawk" data-description="Birds of Prey"}]
+![[Cooper's Hawk Thumbnail.jpg]]{data-title="Cooper's Hawk" data-description="Birds of Prey"}
 </div>
 
 </div>
@@ -79,7 +79,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 [[Red-Tailed Hawk]]
 </div>
 <div markdown="1">
-![[Red-tailed Hawk Thumbnail.jpg]]{data-title="Red-Tailed Hawk" data-description="Birds of Prey"}]
+![[Red-tailed Hawk Thumbnail.jpg]]{data-title="Red-Tailed Hawk" data-description="Birds of Prey"}
 </div>
 
 </div>
@@ -92,7 +92,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 [[Barred Owl]]
 </div>
 <div markdown="1">
-![[Barred Owl Thumbnail.jpg]]{data-title="Barred Owl" data-description="Birds of Prey"}]
+![[Barred Owl Thumbnail.jpg]]{data-title="Barred Owl" data-description="Birds of Prey"}
 </div>
 
 </div>
