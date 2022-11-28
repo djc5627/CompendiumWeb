@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -153,7 +153,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,8 +200,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,15 +294,15 @@
   },
   "active": "1ccca1ab9b7d586f",
   "lastOpenFiles": [
+    "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md",
+    "docs/index.md",
+    "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md",
     "docs/Birds/Song Bird/Raven/Common Raven.md",
     "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
-    "docs/index.md",
     "docs/Blog Archive/2022-11/2022-11-26.md",
-    "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md",
     "northern shov.md",
     "docs/Blog.md",
     "docs/Blog Archive/2022-11/2022-11-09.md",
-    "docs/Blog Archive/2022-10/2022-10-28.md",
-    "docs/Blog Archive/2022-10/2022-10-27.md"
+    "docs/Blog Archive/2022-10/2022-10-28.md"
   ]
 }

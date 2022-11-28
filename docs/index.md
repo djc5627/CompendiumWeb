@@ -141,7 +141,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 
 
-## Doves/Swifts/Hummingbirds/Kingfishers [-]
+## Doves/Swifts [-]
 
 <div id="dovespigeonsswifts-row" class="row" markdown="1">
 
@@ -183,6 +183,12 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 
 </div>
 </div>
+
+</div>
+
+## Hummingbirds/Kingfishers [-]
+
+<div id="hummingbirdskingfishers-row" class="row" markdown="1">
 
 <div class="column" markdown="1">
 <div class="card" markdown="1">

@@ -16,7 +16,7 @@ function collapseBirdsOfPrey() {
   }
 }
 
-var dovesPigeonsSwifts = document.getElementById('dovesswiftshummingbirdskingfishers-');
+var dovesPigeonsSwifts = document.getElementById('dovesswifts-');
 
 dovesPigeonsSwifts.style.cursor = 'pointer';
 dovesPigeonsSwifts.onclick = collapseDovesPigeonsSwifts;
@@ -27,10 +27,30 @@ function collapseDovesPigeonsSwifts() {
   
   if (x.style.display === "none") {
     x.style.display = "block";
-	y.textContent = 'Doves/Pigeons/Swifts [-]';
+	y.textContent = 'Doves/Swifts [-]';
   } else {
     x.style.display = "none";
-	y.textContent = 'Doves/Pigeons/Swifts [+]';
+	y.textContent = 'Doves/Swifts [+]';
+  }
+}
+
+
+
+var hummingbirdsKingfishers = document.getElementById('hummingbirdskingfishers-');
+
+hummingbirdsKingfishers.style.cursor = 'pointer';
+hummingbirdsKingfishers.onclick = collapseHummingbirdsKingfishers;
+
+function collapseHummingbirdsKingfishers() {
+  var x = document.getElementById("hummingbirdsKingfishers-row");
+  var y = document.getElementById('hummingbirdsKingfishers-');
+  
+  if (x.style.display === "none") {
+    x.style.display = "block";
+	y.textContent = 'Hummingbirds/Kingfishers [-]';
+  } else {
+    x.style.display = "none";
+	y.textContent = 'Hummingbirds/Kingfishers [+]';
   }
 }
 
