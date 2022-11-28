@@ -42,8 +42,8 @@ hummingbirdsKingfishers.style.cursor = 'pointer';
 hummingbirdsKingfishers.onclick = collapseHummingbirdsKingfishers;
 
 function collapseHummingbirdsKingfishers() {
-  var x = document.getElementById("hummingbirdsKingfishers-row");
-  var y = document.getElementById('hummingbirdsKingfishers-');
+  var x = document.getElementById("hummingbirdskingfishers-row");
+  var y = document.getElementById('hummingbirdskingfishers-');
   
   if (x.style.display === "none") {
     x.style.display = "block";
