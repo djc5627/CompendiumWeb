@@ -27,7 +27,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 [[Bald Eagle]]
 </div>
 <div markdown="1">
-[![[Bald Eagle Thumbnail.jpg]]{data-title="Bald Eagle" data-description="Birds of Prey"}](Birds/Birds of Prey/Eagle/Bald Eagle/)
+[![[Bald Eagle Thumbnail.jpg]]{data-title="Bald Eagle" data-description="Birds of Prey"}]
 </div>
 
 </div>
