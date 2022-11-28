@@ -139,19 +139,22 @@
             }
           },
           {
-            "id": "37bf999d78d547b2",
+            "id": "2b4c021ea4e2413f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2022-11/2022-11-26.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,17 +292,17 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "bbfe41b16f39c0af",
+  "active": "1ccca1ab9b7d586f",
   "lastOpenFiles": [
+    "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md",
+    "northern shov.md",
     "docs/Blog.md",
     "docs/Blog Archive/2022-11/2022-11-26.md",
-    "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md",
     "docs/Blog Archive/2022-11/2022-11-09.md",
     "docs/Blog Archive/2022-10/2022-10-28.md",
     "docs/Blog Archive/2022-10/2022-10-27.md",
     "docs/Blog Archive/2022-10/2022-10-23.md",
     "docs/Blog Archive/2022-10/2022-10-22.md",
-    "docs/Blog Archive/2022-11/2022-11-08.md",
-    "docs/Blog Archive/2022-10/2022-10-30.md"
+    "docs/Blog Archive/2022-11/2022-11-08.md"
   ]
 }

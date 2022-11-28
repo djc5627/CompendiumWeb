@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Northern Shoveler
 Entry Date: 2022-11-26
 
-Main Image here
+![[Northern Shoveler Thumbnail.jpg]]
 
-*Image caption here*
+*Northern Shoveler at Central Park Lake*
 
 ---------------------------------------------------------------
 ## Notes

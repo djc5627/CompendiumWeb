@@ -457,7 +457,20 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 [[Hooded Merganser]]
 </div>
 <div markdown="1">
-[![[Hooded Merganser Thumbnail.jpg]]{data-title="Hooded Merganser" data-description="Water Fowl"}](Birds/Water Fowl/Goose/Hooded Merganser/)
+[![[Hooded Merganser Thumbnail.jpg]]{data-title="Hooded Merganser" data-description="Water Fowl"}](Birds/Water Fowl/Merganser/Hooded Merganser/)
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Northern Shoveler]]
+</div>
+<div markdown="1">
+[![[Northern Shoveler Thumbnail.jpg]]{data-title="Northern Shoveler" data-description="Water Fowl"}](Birds/Water Fowl/Shoveler/Northern Shoveler/)
 </div>
 
 </div>
