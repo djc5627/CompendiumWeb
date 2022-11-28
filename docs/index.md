@@ -1024,6 +1024,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 <div markdown="1">
 ![[Yellow-rumped Warbler Thumbnail.jpg]]{data-title="Yellow-rumped Warbler" data-description="Song Birds"}
+</div>
 
 </div>
 </div>
