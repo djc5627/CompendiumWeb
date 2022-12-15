@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "10a98a0c3fcd140b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-12/2022-12-14.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -104,9 +117,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46ad0caa635f881f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-11/2022-11-08.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:coop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,8 +177,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Birds of Prey/Hawk/Cooper's Hawk.md",
+                "file": "docs/Blog Archive/2022-12/2022-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,17 +269,17 @@
     "direction": "horizontal",
     "width": 260
   },
-  "active": "1ccca1ab9b7d586f",
+  "active": "10a98a0c3fcd140b",
   "lastOpenFiles": [
+    "docs/Blog.md",
+    "docs/Blog Archive/2022-12/2022-12-14.md",
+    "docs/Blog Archive/2022-11/2022-11-08.md",
+    "docs/Birds/Water Fowl/Duck/American Black Duck.md",
+    "docs/Birds/Birds of Prey/Hawk/Cooper's Hawk.md",
     "docs/Birds/Water Fowl/Duck/Wood Duck.md",
     "docs/Birds/Song Bird/Nuthatch/White-breasted Nuthatch.md",
     "docs/index.md",
-    "docs/Birds/Water Fowl/Duck/American Black Duck.md",
     "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md",
-    "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md",
-    "docs/Birds/Song Bird/Raven/Common Raven.md",
-    "docs/Birds/Birds of Prey/Falcon/American Kestrel.md",
-    "docs/Blog Archive/2022-11/2022-11-26.md",
-    "northern shov.md"
+    "docs/Birds/Water Fowl/Merganser/Hooded Merganser.md"
   ]
 }

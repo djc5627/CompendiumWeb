@@ -2,6 +2,20 @@
 
 ---------------------------------------------------------------
 
+## Merganser Couple at Rahway River Park
+2022-12-14
+
+![[DSC01347_1.jpg]]{ .blogItem .blogRow2 data-title="Hooded Merganser couple at Rahway River Park"}
+![[DSC01396_1.jpg]]{ .blogItem .blogRow2 data-title="Red-tailed Hawk at Rahway River Park"}
+![[DSC01368_1.jpg]]{ .blogItem .blogRow2 data-title="Hooded Merganser at Rahway River Park"}
+![[DSC01319_1.jpg]]{ .blogItem .blogRow2 data-title="Hooded Merganser pruning his feathers at Rahway River Park"}
+
+Today I went to Rahway River Park during lunch. I saw there were many birds at my feeder and I figured it would be a good day for birding. It couldn't be worse than yesterday when I almost froze my hands off in 20-degree weather and saw almost no birds.
+
+[[2022-12-14|Continue Reading]]
+
+---------------------------------------------------------------
+
 ## Shovelers and Hand-feeding Titmice at Central Park
 2022-11-26
 
