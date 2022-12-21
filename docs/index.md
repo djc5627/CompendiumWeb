@@ -352,6 +352,22 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 </div>
 
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Solitary Sandpiper]]
+</div>
+<div markdown="1">
+![[Solitary Sandpiper Thumbnail.jpg]]{data-title="Solitary Sandpiper" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
 <div class="column" markdown="1">
 <div class="card" markdown="1">
 

@@ -2,12 +2,12 @@
 image: <CoverImageURL>
 ---
 
-# Lesser Yellowlegs
-Entry Date: 2022-05-18
+# Solitary Sandpiper
+Entry Date: 2022-12-21
 
-![[Lesser Yellowlegs Thumbnail.jpg]]
+![[Solitary Sandpiper Thumbnail.jpg]]
 
-*Lesser Yellowlegs on the banks of Hawk Rise Sanctuary*
+*Solitary Sandpiper foraging at the banks of Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -17,12 +17,12 @@ We were very surprised to see Sandpipers away from the beach. They walk very qui
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/HawkRiseSanctuary-Linden-NJ 
+-> #location/RahwayRiverPark-Rahway-NJ 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-2GLxA74KTuX3rOLY?e=4dkzWW)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-hMNTTP9rHQBIO3ej1Q?e=5Y3A00)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](https://www.allaboutbirds.org/guide/Lesser_Yellowlegs/overview)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Solitary_Sandpiper/overview)
