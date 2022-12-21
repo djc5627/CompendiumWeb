@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog Archive/2022-11/2022-11-09.md",
+                "file": "docs/Blog.md",
                 "mode": "source",
                 "source": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2022-11/2022-11-09.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,6 +295,7 @@
   },
   "active": "3dcd2e20fa8fff89",
   "lastOpenFiles": [
+    "docs/Blog Archive/2022-11/2022-11-09.md",
     "docs/Blog.md",
     "docs/Blog Archive/2022-12/2022-12-14.md",
     "docs/index.md",
@@ -303,7 +304,6 @@
     "docs/Blog Archive/2022-11/2022-11-08.md",
     "docs/Birds/Water Fowl/Duck/American Black Duck.md",
     "docs/Birds/Water Fowl/Duck/Wood Duck.md",
-    "docs/Birds/Song Bird/Nuthatch/White-breasted Nuthatch.md",
-    "docs/Birds/Water Fowl/Shoveler/Northern Shoveler.md"
+    "docs/Birds/Song Bird/Nuthatch/White-breasted Nuthatch.md"
   ]
 }
