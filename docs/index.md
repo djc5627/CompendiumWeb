@@ -473,6 +473,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Redhead]]
+</div>
+<div markdown="1">
+![[Redhead Thumbnail.jpg]]{data-title="Redhead" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Wood Duck]]
 </div>
 <div markdown="1">
@@ -753,6 +766,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Eastern Bluebird]]
+</div>
+<div markdown="1">
+![[Eastern Bluebird Thumbnail.jpg]]{data-title="Eastern Bluebird" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[American Robin]]
 </div>
 <div markdown="1">
@@ -761,6 +787,46 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 
 </div>
 </div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Hermit Thrush]]
+</div>
+<div markdown="1">
+![[Hermit Thrush Thumbnail.jpg]]{data-title="Hermit Thrush" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Veery]]
+</div>
+<div markdown="1">
+![[Veery Thumbnail.jpg]]{data-title="Veery" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Wood Thrush]]
+</div>
+<div markdown="1">
+![[Wood Thrush Thumbnail.jpg]]{data-title="Wood Thrush" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
 
 <div class="column" markdown="1">
 <div class="card" markdown="1">
@@ -1104,19 +1170,6 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Eastern Bluebird]]
-</div>
-<div markdown="1">
-![[Eastern Bluebird Thumbnail.jpg]]{data-title="Eastern Bluebird" data-description="Song Birds"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
 [[Eastern Kingbird]]
 </div>
 <div markdown="1">
@@ -1186,32 +1239,6 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 <div markdown="1">
 ![[Rose-breasted Grosbeak Thumbnail.jpg]]{data-title="Rose-breasted Grosbeak" data-description="Song Birds"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Veery]]
-</div>
-<div markdown="1">
-![[Veery Thumbnail.jpg]]{data-title="Veery" data-description="Song Birds"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Wood Thrush]]
-</div>
-<div markdown="1">
-![[Wood Thrush Thumbnail.jpg]]{data-title="Wood Thrush" data-description="Song Birds"}
 </div>
 
 </div>

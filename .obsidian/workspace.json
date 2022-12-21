@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79c6a7ecaa7b2e6d",
+            "id": "d38a33d718b6b21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a96495003609182c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/American Tree Sparrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5963c7e179fbc6b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd0981fe51955530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Sandpiper/Least Sandpiper.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ee0e5a473ffcc92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Sandpiper/Lesser Yellowlegs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7946bb00208d42ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "341aa2f17dcd5be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Sandpiper/Solitary Sandpiper.md",
+                "file": "docs/Birds/Water Fowl/Duck/Redhead.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +21,18 @@
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
+            }
+          },
+          {
+            "id": "72eac64d03190f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -102,15 +42,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b234a041fec1bac4",
+            "id": "79c6a7ecaa7b2e6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Song Bird/Raven/Common Raven.md",
+                "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -265,15 +209,15 @@
   },
   "active": "79c6a7ecaa7b2e6d",
   "lastOpenFiles": [
+    "docs/Birds/Water Fowl/Duck/Redhead.md",
+    "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
+    "docs/index.md",
+    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
+    "linkUrl.md",
+    "linkhere.md",
     "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
     "docs/Birds/Song Bird/Sparrow/American Tree Sparrow.md",
-    "linkhere.md",
-    "docs/index.md",
     "docs/Birds/Shore Bird/Sandpiper/Least Sandpiper.md",
-    "docs/Birds/Shore Bird/Sandpiper/Lesser Yellowlegs.md",
-    "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
-    "docs/Birds/Shore Bird/Sandpiper/Solitary Sandpiper.md",
-    "docs/Birds/Song Bird/Raven/Common Raven.md",
-    "docs/Blog.md"
+    "docs/Birds/Shore Bird/Sandpiper/Lesser Yellowlegs.md"
   ]
 }
