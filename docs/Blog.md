@@ -30,7 +30,7 @@ After stuffing ourselves with multiple Thanksgiving meals these past few days (l
 
 ---------------------------------------------------------------
 
-## Fungal Foraging, Foxes, and Cooper's Hawk Sighting
+## Fungal Foraging, Foxes, and Sharpie Sighting
 2022-11-09
 
 ![[IMG_7154_1.jpg]]{ .blogItem .blogRow2 data-title="Me harvesting Lion's Mane at Milton Lake"}

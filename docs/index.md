@@ -89,6 +89,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Sharp-skinned Hawk]]
+</div>
+<div markdown="1">
+![[Sharp-skinned Hawk Thumbnail.jpg]]{data-title="Sharp-skinned Hawk" data-description="Birds of Prey"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Barred Owl]]
 </div>
 <div markdown="1">

@@ -11,7 +11,7 @@ Entry Date: 2022-09-17
 
 ---------------------------------------------------------------
 ## Notes
-We have only seen the juvenile variant of this hawk. It was relatively small in size for a hawk and looked similar to the [[Red-Tailed Hawk]] since it did not yet grow its blue-ish adult plumage.
+We have only seen the juvenile variant of this hawk. It was relatively small in size for a hawk and looked similar to the [[Red-Tailed Hawk]] since it did not yet grow its blue-ish adult plumage. Later on, we photographed the adult version which looks very similar to the [[Sharp-skinned Hawk]]. A good way to tell them apart is that a Cooper's Hawk is "wearing a hat" while the Sharp-skinned Hawk has continuous head to back plumage.
 
 ---------------------------------------------------------------
 ## Sightings
