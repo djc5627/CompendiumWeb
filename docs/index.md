@@ -766,6 +766,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[American Tree Sparrow]]
+</div>
+<div markdown="1">
+![[American Tree Sparrow Thumbnail.jpg]]{data-title="American Tree Sparrow" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Chipping Sparrow]]
 </div>
 <div markdown="1">
@@ -796,6 +809,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[2022
 </div>
 <div markdown="1">
 ![[Eastern Towhee Thumbnail.jpg]]{data-title="Eastern Towhee" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Fox Sparrow]]
+</div>
+<div markdown="1">
+![[Fox Sparrow Thumbnail.jpg]]{data-title="Fox Sparrow" data-description="Song Birds"}
 </div>
 
 </div>

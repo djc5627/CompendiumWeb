@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "a96495003609182c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Song Bird/Sparrow/American Tree Sparrow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5963c7e179fbc6b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fd0981fe51955530",
             "type": "leaf",
             "state": {
@@ -241,15 +265,15 @@
   },
   "active": "79c6a7ecaa7b2e6d",
   "lastOpenFiles": [
+    "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
+    "docs/Birds/Song Bird/Sparrow/American Tree Sparrow.md",
+    "linkhere.md",
+    "docs/index.md",
     "docs/Birds/Shore Bird/Sandpiper/Least Sandpiper.md",
     "docs/Birds/Shore Bird/Sandpiper/Lesser Yellowlegs.md",
     "docs/Birds/Shore Bird/Sandpiper/Spotted Sandpiper.md",
     "docs/Birds/Shore Bird/Sandpiper/Solitary Sandpiper.md",
-    "docs/index.md",
     "docs/Birds/Song Bird/Raven/Common Raven.md",
-    "docs/Blog.md",
-    "docs/Blog Archive/2022-11/2022-11-09.md",
-    "docs/Blog Archive/2022-12/2022-12-14.md",
-    "docs/Birds/Birds of Prey/Hawk/Cooper's Hawk.md"
+    "docs/Blog.md"
   ]
 }
