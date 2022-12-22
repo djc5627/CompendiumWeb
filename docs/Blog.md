@@ -9,6 +9,8 @@
 ![[DSC01879_3.jpg]]{ .blogItem .blogRow2 data-title="Deer inspecting a Great Blue Heron at Milton Lake Park"}
 ![[DSC02052_1.jpg]]{ .blogItem .blogRow2 data-title="Hermit Thrush on a fence at Milton Lake Park"}
 ![[DSC01758_2.jpg]]{ .blogItem .blogRow2 data-title="Fox Sparrow in a bush at Milton Lake Park"}
+![[DSC01235_1.jpg]]{ .blogItem .blogRow2 data-title="Red Fox carrying chicken at Milton Lake Park"}
+![[DSC01734_2.jpg]]{ .blogItem .blogRow2 data-title="American Robin eating red berries at Milton Lake Park"}
 
 This past week, I went birding at Milton Lake Park just about every morning and afternoon. At this time of year, the sun's arc in the sky provides great lighting across the park from about 8 am to 3 pm. Instead of making several blog posts, I'll try to summarize them into one post.
 
