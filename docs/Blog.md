@@ -2,6 +2,34 @@
 
 ---------------------------------------------------------------
 
+## A Week at Milton ft. Fox Sparrow and Hermit Thrush
+2022-12-20
+
+![[DSC01819_2.jpg]]{ .blogItem .blogRow2 data-title="Great Blue Heron at Milton Lake Park"}
+![[DSC01879_3.jpg]]{ .blogItem .blogRow2 data-title="Deer inspecting a Great Blue Heron at Milton Lake Park"}
+![[DSC02052_1.jpg]]{ .blogItem .blogRow2 data-title="Hermit Thrush on a fence at Milton Lake Park"}
+![[DSC01758_2.jpg]]{ .blogItem .blogRow2 data-title="Fox Sparrow in a bush at Milton Lake Park"}
+
+This past week, I went birding at Milton Lake Park just about every morning and afternoon. At this time of year, the sun's arc in the sky provides great lighting across the park from about 8 am to 3 pm. Instead of making several blog posts, I'll try to summarize them into one post.
+
+[[2022-12-20|Continue Reading]]
+
+---------------------------------------------------------------
+
+## Redhead and Vultures at Rahway River Park
+2022-12-18
+
+![[DSC01648_2.jpg]]{ .blogItem .blogRow2 data-title="Redhead eating grass at Rahway River Park"}
+![[DSC01513_2.jpg]]{ .blogItem .blogRow2 data-title="Turkey Vulture soaring over Rahway River Park"}
+![[DSC01594_1.jpg]]{ .blogItem .blogRow2 data-title="Redhead at Rahway River Park"}
+![[DSC01642_1.jpg]]{ .blogItem .blogRow2 data-title="Redhead satisfying an itch at Rahway River Park"}
+
+This morning, my sister and I went to Rahway River Park for birding. I was hoping to see some [[Hooded Merganser|Hooded Mergansers]] and maybe some new ducks at the lake. As soon as we parked the car, my sister pointed out some [[Turkey Vulture|Turkey Vultures]] flying low along the tree line. I immediately grabbed my camera, set it to a faster shutter, and got some crisp shots of the Vultures.
+
+[[2022-12-18|Continue Reading]]
+
+---------------------------------------------------------------
+
 ## Merganser Couple at Rahway River Park
 2022-12-14
 
