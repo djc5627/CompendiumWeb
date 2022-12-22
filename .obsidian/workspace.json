@@ -24,6 +24,34 @@
             }
           },
           {
+            "id": "14bd266b54bb00d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-12/2022-12-18.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "291ef352185a5306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-12/2022-12-20.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
             "id": "72eac64d03190f20",
             "type": "leaf",
             "state": {
@@ -35,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -56,8 +85,21 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "5a204e7345961fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Blog Archive/2022-12/2022-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,17 +249,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "79c6a7ecaa7b2e6d",
+  "active": "291ef352185a5306",
   "lastOpenFiles": [
+    "docs/Blog Archive/2022-12/2022-12-18.md",
+    "docs/Blog Archive/2022-12/2022-12-20.md",
+    "docs/Blog.md",
+    "docs/index.md",
     "docs/Birds/Water Fowl/Duck/Redhead.md",
     "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
-    "docs/index.md",
-    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
-    "linkUrl.md",
-    "linkhere.md",
     "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/American Tree Sparrow.md",
-    "docs/Birds/Shore Bird/Sandpiper/Least Sandpiper.md",
-    "docs/Birds/Shore Bird/Sandpiper/Lesser Yellowlegs.md"
+    "docs/Birds/Song Bird/Sparrow/Chipping Sparrow.md",
+    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
+    "linkUrl.md"
   ]
 }
