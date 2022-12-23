@@ -1,4 +1,1 @@
-![[https://www.birds.cornell.edu/home/bring-birds-back/#:~:text=That's%20almost%20three%20billion%20birds,%2C%20meadowlarks%2C%20swallows%2C%20warblers.]]
-
-
-https://www.birds.cornell.edu/home/bring-birds-back/#:~:text=That's%20almost%20three%20billion%20birds,%2C%20meadowlarks%2C%20swallows%2C%20warblers
+The Cornell Lab of Ornithology has a great article on why [Nearly 3 Billion Birds Gone Since 1970 in the U.S. and Canada](https://www.birds.cornell.edu/home/bring-birds-back/#:~:text=That's%20almost%20three%20billion%20birds,%2C%20meadowlarks%2C%20swallows%2C%20warblers.) and also outlines [7 Simple Actions you can take to help](https://www.birds.cornell.edu/home/seven-simple-actions-to-help-birds/).

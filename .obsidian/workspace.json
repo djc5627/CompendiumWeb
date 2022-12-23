@@ -87,7 +87,7 @@
             }
           },
           {
-            "id": "4a61b7063ec6b906",
+            "id": "7e2a9a9b09d9df29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,6 +96,10 @@
                 "mode": "source",
                 "source": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -110,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/How You Can Help Birds.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,8 +264,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "4a61b7063ec6b906",
+  "active": "79c6a7ecaa7b2e6d",
   "lastOpenFiles": [
+    "docs/How You Can Help Birds.md",
+    "().md",
     "docs/index.md",
     "docs/Blog Archive/2022-12/2022-12-20.md",
     "docs/Blog.md",
@@ -270,8 +275,6 @@
     "docs/Birds/Water Fowl/Duck/Redhead.md",
     "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
     "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/Chipping Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
-    "linkUrl.md"
+    "docs/Birds/Song Bird/Sparrow/Chipping Sparrow.md"
   ]
 }
