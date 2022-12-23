@@ -87,6 +87,18 @@
             }
           },
           {
+            "id": "4a61b7063ec6b906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/How You Can Help Birds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a204e7345961fb2",
             "type": "leaf",
             "state": {
@@ -98,7 +110,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/How You Can Help Birds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,12 +261,12 @@
       "publish:Publish changes": false
     }
   },
-  "active": "79c6a7ecaa7b2e6d",
+  "active": "4a61b7063ec6b906",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/Blog Archive/2022-12/2022-12-20.md",
     "docs/Blog.md",
     "docs/Blog Archive/2022-12/2022-12-18.md",
-    "docs/index.md",
     "docs/Birds/Water Fowl/Duck/Redhead.md",
     "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
     "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
