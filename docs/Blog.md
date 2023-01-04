@@ -2,6 +2,22 @@
 
 ---------------------------------------------------------------
 
+## Prone for Pipers at Sandy Hook
+2022-12-26
+
+![[20221226_144125317_iOS_1.jpg]]{ .blogItem .blogRow2 data-title="My sister and I at Sandy Hook"}
+![[DSC02422_2.jpg]]{ .blogItem .blogRow2 data-title="Sanderling close-up at Sandy Hook"}
+![[DSC02435_1.jpg]]{ .blogItem .blogRow2 data-title="Sanderling with wind-ruffled feathers at Sandy Hook"}
+![[DSC02503_2.jpg]]{ .blogItem .blogRow2 data-title="Sanderling walking on snow at Sandy Hook"}
+![[DSC02999_1.jpg]]{ .blogItem .blogRow2 data-title="Sanderling in flight at Sandy Hook"}
+![[DSC02634_1.jpg]]{ .blogItem .blogRow2 data-title="Couple walking with their dog at Sandy Hook with NYC in background"}
+
+Today, my sister and I decided to wake up early to go birding at Sandy Hook. It was very a cold morning (~10 degrees) and it had rained days prior so it wasn't surprising to see snow and ice at Sandy Hook. What we didn't expect was that a big chunk of the beach would be coated in ice. It was interesting sliding across ice while also seeing sand and the ocean which are usually associated with much warmer weather.
+
+[[2022-12-26|Continue Reading]]
+
+---------------------------------------------------------------
+
 ## A Week at Milton ft. Fox Sparrow and Hermit Thrush
 2022-12-20
 
