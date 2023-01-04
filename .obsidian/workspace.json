@@ -87,6 +87,46 @@
             }
           },
           {
+            "id": "ae81e210e06377c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2022-12/2022-12-26.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c2f509b079131ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Goose/Brant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a19eee4269babe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7e2a9a9b09d9df29",
             "type": "leaf",
             "state": {
@@ -114,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Blog Archive/2022-12/2022-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,17 +305,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "79c6a7ecaa7b2e6d",
+  "active": "ae81e210e06377c2",
   "lastOpenFiles": [
-    "docs/How You Can Help Birds.md",
-    "().md",
-    "docs/index.md",
     "docs/Blog Archive/2022-12/2022-12-20.md",
+    "docs/Blog Archive/2022-12/2022-12-26.md",
+    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
+    "docs/Birds/Water Fowl/Goose/Brant.md",
+    "docs/Birds/Shore Bird/Sandpiper/Sanderling.md",
     "docs/Blog.md",
+    "docs/How You Can Help Birds.md",
+    "docs/index.md",
     "docs/Blog Archive/2022-12/2022-12-18.md",
-    "docs/Birds/Water Fowl/Duck/Redhead.md",
-    "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
-    "docs/Birds/Song Bird/Sparrow/Fox Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/Chipping Sparrow.md"
+    "().md"
   ]
 }
