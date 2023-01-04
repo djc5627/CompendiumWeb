@@ -5,7 +5,7 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog|birding blog here]].
 
-[[How You Can Help Birds|Learn steps you can take to help declining bird populations]].
+[[How You Can Help Birds|Learn steps you can take to help declining bird populations here!]].
 
 <div class="us-form">
   <label for="imagesPerRow">Images Per Row:</label>

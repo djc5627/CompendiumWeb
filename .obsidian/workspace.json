@@ -154,8 +154,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,10 +304,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "5a204e7345961fb2",
+  "active": "79c6a7ecaa7b2e6d",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-12/2022-12-26.md",
     "docs/Blog.md",
+    "docs/Blog Archive/2022-12/2022-12-26.md",
     "docs/Blog Archive/2022-12/2022-12-20.md",
     "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
     "docs/Birds/Water Fowl/Goose/Brant.md",
