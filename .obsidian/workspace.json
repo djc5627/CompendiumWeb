@@ -61,10 +61,30 @@
                 "mode": "source",
                 "source": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "e7d54f4f7d05cf55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -147,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grackle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +180,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,17 +284,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "72eac64d03190f20",
+  "active": "e7d54f4f7d05cf55",
   "lastOpenFiles": [
+    "docs/Birds/Water Fowl/Goose/Canada Goose.md",
+    "docs/index.md",
+    "docs/How You Can Help Birds.md",
+    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
     "docs/Birds/Song Bird/New World Black Bird/Common Grackle.md",
     "docs/Birds/Song Bird/New World Black Bird/Brown-headed Cowbird.md",
     "docs/Blog.md",
-    "docs/index.md",
     "docs/Thumbnails/Common Grackle Thumbnail.jpg",
     "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
-    "README.md",
-    "2021-11-22-22-54-02.png",
-    "2021-11-22-22-52-49.png",
-    "2021-11-22-22-49-26.png"
+    "README.md"
   ]
 }

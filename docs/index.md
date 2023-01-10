@@ -241,10 +241,10 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[California Gull]]
+[[Herring Gull]]
 </div>
 <div markdown="1">
-![[California Gull Thumbnail.jpg]]{data-title="California Gull" data-description="Sea Birds"}
+![[Herring Gull Thumbnail.jpg]]{data-title="Herring Gull" data-description="Sea Birds"}
 </div>
 
 </div>
@@ -504,7 +504,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 [[Canada Goose]]
 </div>
 <div markdown="1">
-![[Canadian Goose Thumbnail.jpg]]{data-title="Canada Goose" data-description="Water Fowl"}
+![[Canada Goose Thumbnail.jpg]]{data-title="Canada Goose" data-description="Water Fowl"}
 </div>
 
 </div>
