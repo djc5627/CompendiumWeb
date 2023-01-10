@@ -80,11 +80,11 @@ After stuffing ourselves with multiple Thanksgiving meals these past few days (l
 2022-11-09
 
 ![[IMG_7154_1.jpg]]{ .blogItem .blogRow2 data-title="Me harvesting Lion's Mane at Milton Lake"}
-![[DSC09488_1.jpg]]{ .blogItem .blogRow2 data-title="Sharp-skinned Hawk perched on my deck camping out my bird feeder"}
+![[DSC09488_1.jpg]]{ .blogItem .blogRow2 data-title="Sharp-shinned Hawk perched on my deck camping out my bird feeder"}
 ![[IMG_7168_1.jpg]]{ .blogItem .blogRow2 data-title="Harvested Lion's Mane I cooked into stir fry"}
 ![[DSC09557_1.jpg]]{ .blogItem .blogRow2 data-title="Wood Duck at Milton Lake"}
 
-I couldn't resist heading back to Milton Lake Park this morning in search of another [[Hooded Merganser]]. I woke up, immediately drank coffee, and headed out. I was quickly greeted by a cacophony of screeches coming from a flock of [[Grackle|Grackles]] above, one of the many signs that winter is coming. Along the path I saw a bunch of [[Dark-eyed Junco|Dark-eyed Juncos]] and [[White-throated Sparrow|White-throated Sparrows]]. I also talked to a jogger who asked me about my camera and mentioned he travels to the city for people photography.
+I couldn't resist heading back to Milton Lake Park this morning in search of another [[Hooded Merganser]]. I woke up, immediately drank coffee, and headed out. I was quickly greeted by a cacophony of screeches coming from a flock of [[Common Grackle|Grackles]] above, one of the many signs that winter is coming. Along the path I saw a bunch of [[Dark-eyed Junco|Dark-eyed Juncos]] and [[White-throated Sparrow|White-throated Sparrows]]. I also talked to a jogger who asked me about my camera and mentioned he travels to the city for people photography.
 
 [[2022-11-09|Continue Reading]]
 
@@ -94,7 +94,7 @@ I couldn't resist heading back to Milton Lake Park this morning in search of ano
 2022-11-08
 
 ![[DSC09465_1.jpg]]{ .blogItem .blogRow2 data-title="A Hooded Merganser at Milton Lake"}
-![[DSC09451_1.jpg]]{ .blogItem .blogRow2 data-title="A Hooded Merganser and Canadian Goose at Milton Lake"}
+![[DSC09451_1.jpg]]{ .blogItem .blogRow2 data-title="A Hooded Merganser and Canada Goose at Milton Lake"}
 ![[DSC09437_1.jpg]]{ .blogItem .blogRow2 data-title="Lion's Mane Mushroom at Milton Lake"}
 ![[F0FD6FE0-0D5B-4FAA-B889-9C038C131021_1.jpg]]{ .blogItem .blogRow2 data-title="Lion's Mane Mushroom at Milton Lake next to my hand"}
 

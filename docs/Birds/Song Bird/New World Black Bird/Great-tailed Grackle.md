@@ -11,7 +11,7 @@ Entry Date: 2022-06-08
 
 ---------------------------------------------------------------
 ## Notes
-Also called the Mexican Grackle. They are larger than the [[Grackle]] and have a more powerful call that is easily heard from far.
+Also called the Mexican Grackle. They are larger than the [[Common Grackle]] and have a more powerful call that is easily heard from far.
 
 ---------------------------------------------------------------
 ## Sightings

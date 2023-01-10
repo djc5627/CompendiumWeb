@@ -12,7 +12,7 @@ Entry Date: 2022-01-31
 
 ---------------------------------------------------------------
 ## Notes
-A parasitic bird (brood parasite) that lays their eggs in other bird's nests so they raise their young. Less common bird at our house during Spring and rare in Fall/Winter. Their body plumage look similar to [[Grackle]].
+A parasitic bird (brood parasite) that lays their eggs in other bird's nests so they raise their young. Less common bird at our house during Spring and rare in Fall/Winter. Their body plumage look similar to [[Common Grackle]].
 
 ---------------------------------------------------------------
 ## Sightings

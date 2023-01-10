@@ -12,7 +12,7 @@ Entry Date: 2022-10-22
 ---------------------------------------------------------------
 ## Notes
 
-First seen during our first birding trip to Sandy Hook. Seen few minutes after parking our car near Plum Island rummaging through brush very loudly like a [[Grackle]]. At first thought it was a [[Baltimore Oriole]] but the white plumage on the stomach told me it was a different species. The Towhee did not pay much attention to me and let me get very close but the brush made photographing them tough.
+First seen during our first birding trip to Sandy Hook. Seen few minutes after parking our car near Plum Island rummaging through brush very loudly like a [[Common Grackle]]. At first thought it was a [[Baltimore Oriole]] but the white plumage on the stomach told me it was a different species. The Towhee did not pay much attention to me and let me get very close but the brush made photographing them tough.
 
 ---------------------------------------------------------------
 ## Sightings

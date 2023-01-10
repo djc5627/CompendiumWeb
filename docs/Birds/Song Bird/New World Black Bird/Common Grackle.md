@@ -2,13 +2,13 @@
 image: <CoverImageURL>
 ---
 
-# Grackle
+# Common Grackle
 Entry Date: 2022-01-31
 
 
-![[Grackle Thumbnail.jpg]]
+![[Common Grackle Thumbnail.jpg]]
 
-*Grackle on our bird feeder*
+*Common Grackle on our bird feeder*
 
 ---------------------------------------------------------------
 ## Notes

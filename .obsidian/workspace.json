@@ -57,73 +57,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a204e7345961fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a844d62c66cfc6b3",
         "type": "tabs",
         "children": [
           {
-            "id": "79c6a7ecaa7b2e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "ae81e210e06377c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog Archive/2022-12/2022-12-26.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "c2f509b079131ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Goose/Brant.md",
+                "file": "docs/Birds/Birds of Prey/Hawk/Sharp-shinned Hawk.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -187,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grackle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +160,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,17 +265,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "79c6a7ecaa7b2e6d",
+  "active": "72eac64d03190f20",
   "lastOpenFiles": [
+    "docs/Birds/Song Bird/New World Black Bird/Common Grackle.md",
+    "docs/Birds/Song Bird/New World Black Bird/Brown-headed Cowbird.md",
     "docs/Blog.md",
-    "docs/Blog Archive/2022-12/2022-12-26.md",
-    "docs/Blog Archive/2022-12/2022-12-20.md",
-    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
-    "docs/Birds/Water Fowl/Goose/Brant.md",
-    "docs/Birds/Shore Bird/Sandpiper/Sanderling.md",
-    "docs/How You Can Help Birds.md",
     "docs/index.md",
-    "docs/Blog Archive/2022-12/2022-12-18.md",
-    "().md"
+    "docs/Thumbnails/Common Grackle Thumbnail.jpg",
+    "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
+    "README.md",
+    "2021-11-22-22-54-02.png",
+    "2021-11-22-22-52-49.png",
+    "2021-11-22-22-49-26.png"
   ]
 }

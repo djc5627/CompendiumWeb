@@ -91,10 +91,10 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Sharp-skinned Hawk]]
+[[Sharp-shinned Hawk]]
 </div>
 <div markdown="1">
-![[Sharp-skinned Hawk Thumbnail.jpg]]{data-title="Sharp-skinned Hawk" data-description="Birds of Prey"}
+![[Sharp-shinned Hawk Thumbnail.jpg]]{data-title="Sharp-shinned Hawk" data-description="Birds of Prey"}
 </div>
 
 </div>
@@ -501,10 +501,10 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Canadian Goose]]
+[[Canada Goose]]
 </div>
 <div markdown="1">
-![[Canadian Goose Thumbnail.jpg]]{data-title="Canadian Goose" data-description="Water Fowl"}
+![[Canadian Goose Thumbnail.jpg]]{data-title="Canada Goose" data-description="Water Fowl"}
 </div>
 
 </div>
@@ -703,10 +703,10 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Grackle]]
+[[Common Grackle]]
 </div>
 <div markdown="1">
-![[Grackle Thumbnail.jpg]]{data-title="Grackle" data-description="Song Birds"}
+![[Common Grackle Thumbnail.jpg]]{data-title="Common Grackle" data-description="Song Birds"}
 </div>
 
 </div>

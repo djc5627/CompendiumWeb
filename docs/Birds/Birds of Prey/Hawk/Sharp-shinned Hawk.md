@@ -2,17 +2,17 @@
 image: <CoverImageURL>
 ---
 
-# Sharp-skinned Hawk
+# Sharp-shinned Hawk
 Entry Date: 2022-12-20
 
-![[Sharp-skinned Hawk Thumbnail.jpg]]
+![[Sharp-shinned Hawk Thumbnail.jpg]]
 
-*Sharp-skinned Hawk on my backyard deck*
+*Sharp-shinned Hawk on my backyard deck*
 
 ---------------------------------------------------------------
 ## Notes
 
-First sighting was on our backyard deck early in the morning. A relatively small hawk that looks very similar to a [[Cooper's Hawk]]. A good way to tell them apart is that a Cooper's Hawk is "wearing a hat" while the Sharp-skinned Hawk has continuous head to back plumage.
+First sighting was on our backyard deck early in the morning. A relatively small hawk that looks very similar to a [[Cooper's Hawk]]. A good way to tell them apart is that a Cooper's Hawk is "wearing a hat" while the Sharp-shinned Hawk has continuous head to back plumage.
 
 ---------------------------------------------------------------
 ## Sightings

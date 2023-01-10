@@ -6,5 +6,6 @@
   "showLineNumber": true,
   "spellcheck": true,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "docs"
+  "attachmentFolderPath": "docs",
+  "alwaysUpdateLinks": true
 }

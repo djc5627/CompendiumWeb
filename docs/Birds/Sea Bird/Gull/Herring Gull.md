@@ -2,12 +2,12 @@
 image: <CoverImageURL>
 ---
 
-# California Gull
+# Herring Gull
 Entry Date: 2022-07-05
 
-![[California Gull Thumbnail.jpg]]
+![[Herring Gull Thumbnail.jpg]]
 
-*California Gull at Bradley Beach*
+*Herring Gull at Bradley Beach*
 
 ---------------------------------------------------------------
 ## Notes
@@ -26,4 +26,4 @@ OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-5BxEugvUVGHKZZCc?e=fK
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](https://www.allaboutbirds.org/guide/California_Gull/overview)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Herring_Gull/overview)
