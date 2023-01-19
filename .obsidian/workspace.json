@@ -82,9 +82,69 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "eb96b0c843116de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2023-01/2023-01-16.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "02d7979d1838e549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa21ecddb19b8f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Gadwall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bcd33d73cc6b619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Northern Pintail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a667e1cfd19366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Merganser/Common Merganser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -200,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Blog Archive/2023-01/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,17 +344,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e7d54f4f7d05cf55",
+  "active": "eb96b0c843116de6",
   "lastOpenFiles": [
-    "docs/Birds/Water Fowl/Goose/Canada Goose.md",
+    "docs/Blog Archive/2022-12/2022-12-20.md",
+    "docs/Blog Archive/2023-01/2023-01-16.md",
+    "docs/Birds/Water Fowl/Merganser/Common Merganser.md",
+    "docs/Birds/Water Fowl/Duck/Northern Pintail.md",
+    "docs/Birds/Water Fowl/Duck/Gadwall.md",
+    "docs/Birds/Water Fowl/Duck/Bufflehead.md",
+    "docs/Birds/Water Fowl/Duck/Redhead.md",
     "docs/index.md",
-    "docs/How You Can Help Birds.md",
-    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
-    "docs/Birds/Song Bird/New World Black Bird/Common Grackle.md",
-    "docs/Birds/Song Bird/New World Black Bird/Brown-headed Cowbird.md",
-    "docs/Blog.md",
-    "docs/Thumbnails/Common Grackle Thumbnail.jpg",
-    "docs/Birds/Song Bird/Thrush/Hermit Thrush.md",
-    "README.md"
+    "docs/Birds/Water Fowl/Goose/Canada Goose.md",
+    "docs/How You Can Help Birds.md"
   ]
 }
