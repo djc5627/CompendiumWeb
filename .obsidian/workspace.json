@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d38a33d718b6b21e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Redhead.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "14bd266b54bb00d4",
             "type": "leaf",
             "state": {
@@ -52,22 +36,6 @@
             }
           },
           {
-            "id": "72eac64d03190f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "e7d54f4f7d05cf55",
             "type": "leaf",
             "state": {
@@ -84,6 +52,18 @@
             }
           },
           {
+            "id": "f8d04842435af45f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "eb96b0c843116de6",
             "type": "leaf",
             "state": {
@@ -94,14 +74,69 @@
                 "source": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a844d62c66cfc6b3",
+        "type": "tabs",
+        "children": [
           {
-            "id": "02d7979d1838e549",
+            "id": "8395aba4e299bf5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
+                "file": "docs/Birds/Shore Bird/Sandpiper/Sanderling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "519fbfc8b77a0bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Goose/Brant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a19eee4269babe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "617812d0a4cad1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a22aaacbfb7ea64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Song Bird/New World Black Bird/Rusty Blackbird.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,6 +155,22 @@
             }
           },
           {
+            "id": "632db8d2ed6a26e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Merganser/Common Merganser.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
             "id": "7bcd33d73cc6b619",
             "type": "leaf",
             "state": {
@@ -132,69 +183,19 @@
             }
           },
           {
-            "id": "b8a667e1cfd19366",
+            "id": "02d7979d1838e549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Merganser/Common Merganser.md",
+                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "a844d62c66cfc6b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2f509b079131ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Birds of Prey/Hawk/Sharp-shinned Hawk.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "1a19eee4269babe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e2a9a9b09d9df29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/How You Can Help Birds.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,7 +228,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hooded",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2023-01/2023-01-16.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,17 +345,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "eb96b0c843116de6",
+  "active": "f8d04842435af45f",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-12/2022-12-20.md",
     "docs/Blog Archive/2023-01/2023-01-16.md",
-    "docs/Birds/Water Fowl/Merganser/Common Merganser.md",
-    "docs/Birds/Water Fowl/Duck/Northern Pintail.md",
-    "docs/Birds/Water Fowl/Duck/Gadwall.md",
-    "docs/Birds/Water Fowl/Duck/Bufflehead.md",
-    "docs/Birds/Water Fowl/Duck/Redhead.md",
+    "docs/Blog.md",
     "docs/index.md",
-    "docs/Birds/Water Fowl/Goose/Canada Goose.md",
-    "docs/How You Can Help Birds.md"
+    "docs/Birds/Water Fowl/Merganser/Common Merganser.md",
+    "docs/Birds/Water Fowl/Duck/Gadwall.md",
+    "docs/Birds/Song Bird/New World Black Bird/Rusty Blackbird.md",
+    "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
+    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
+    "docs/Birds/Water Fowl/Goose/Brant.md",
+    "docs/Birds/Shore Bird/Sandpiper/Sanderling.md"
   ]
 }

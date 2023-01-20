@@ -5,24 +5,24 @@ image: <CoverImageURL>
 # Brant
 Entry Date: 2023-01-03
 
-Main Image here
+![[Brant Thumbnail.jpg]]
 
-*Image caption here*
+*Brant soaring over Sandy Hook*
 
 ---------------------------------------------------------------
 ## Notes
 
+First seen at Sandy Hook during the winter. Brants are smaller and more compact than their cousins the [[Canada Goose]]. They are also more timid and less territorial. 
+
 ---------------------------------------------------------------
 ## Sightings
 
--> #location/Missing
-
--> #location/Missing
+-> #location/SandyHook-NJ 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive](https://1drv.ms/u/s!AvaIuMdCo_w-hMVyTuv6ETirIkjGwg?e=wrCy82)
 
 ---------------------------------------------------------------
 ## References
-- [AllAboutBirds](linkUrl)
+- [AllAboutBirds](https://www.allaboutbirds.org/guide/Brant/overview)

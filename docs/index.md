@@ -358,6 +358,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Sanderling]]
+</div>
+<div markdown="1">
+![[Sanderling Thumbnail.jpg]]{data-title="Sanderling" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Solitary Sandpiper]]
 </div>
 <div markdown="1">
@@ -462,10 +475,49 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Bufflehead]]
+</div>
+<div markdown="1">
+![[Bufflehead Thumbnail.jpg]]{data-title="Bufflehead" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Gadwall]]
+</div>
+<div markdown="1">
+![[Gadwall Thumbnail.jpg]]{data-title="Gadwall" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Mallard Duck]]
 </div>
 <div markdown="1">
 ![[Mallard Duck Thumbnail.jpg]]{data-title="Mallard Duck" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Northern Pintail]]
+</div>
+<div markdown="1">
+![[Northern Pintail Thumbnail.jpg]]{data-title="Northern Pintail" data-description="Water Fowl"}
 </div>
 
 </div>
@@ -488,10 +540,36 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Ring-necked Duck]]
+</div>
+<div markdown="1">
+![[Ring-necked Duck Thumbnail.jpg]]{data-title="Ring-necked Duck" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Wood Duck]]
 </div>
 <div markdown="1">
 ![[Wood Duck Thumbnail.jpg]]{data-title="Wood Duck" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Brant]]
+</div>
+<div markdown="1">
+![[Brant Thumbnail.jpg]]{data-title="Brant" data-description="Water Fowl"}
 </div>
 
 </div>
@@ -514,10 +592,36 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Common Merganser]]
+</div>
+<div markdown="1">
+![[Common Merganser Thumbnail.jpg]]{data-title="Common Merganser" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Hooded Merganser]]
 </div>
 <div markdown="1">
 ![[Hooded Merganser Thumbnail.jpg]]{data-title="Hooded Merganser" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Red-breasted Merganser]]
+</div>
+<div markdown="1">
+![[Red-breasted Merganser Thumbnail.jpg]]{data-title="Red-breasted Merganser" data-description="Water Fowl"}
 </div>
 
 </div>
@@ -733,6 +837,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Red-winged Blackbird Thumbnail.jpg]]{data-title="Red-winged Blackbird" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Rusty Blackbird]]
+</div>
+<div markdown="1">
+![[Rusty Blackbird Thumbnail.jpg]]{data-title="Rusty Blackbird" data-description="Song Birds"}
 </div>
 
 </div>
