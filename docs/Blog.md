@@ -5,16 +5,13 @@
 ## Eagle Fest and DeKorte Park Ducks
 2023-01-16
 
-![[DSC03672_1.jpg]]{ .blogItem .blogRow2 data-title="House Finch with poofed chest at DeKorte Park"}
+
+![[IMG_6286_2.jpg]]{ .blogItem .blogRow2 data-title="Me at DeKorte Park after the wind knocked my hat into the water"}
 ![[DSC03984_1.jpg]]{ .blogItem .blogRow2 data-title="View of NYC from DeKorte Park at sunset"}
 ![[DSC03856_1.jpg]]{ .blogItem .blogRow2 data-title="Gadwall flexing chest at DeKorte Park"}
-![[DSC03922_1.jpg]]{ .blogItem .blogRow2 data-title="Northern Pintail showing off at DeKorte Park"}
-![[DSC03837_1.jpg]]{ .blogItem .blogRow2 data-title="Male Bufflehead at DeKorte Park"}
-![[DSC03839_1.jpg]]{ .blogItem .blogRow2 data-title="Female Bufflehead at DeKorte Park"}
+![[DSC03911_2.jpg]]{ .blogItem .blogRow2 data-title="Northern Pintail showing off at DeKorte Park"}
 ![[IMG_6268_1.jpg]]{ .blogItem .blogRow2 data-title="Presentation on Bald Eagles at Bald Eagle Festival"}
 ![[DSC03631_1.jpg]]{ .blogItem .blogRow2 data-title="Bald Eagle nest that could be seen from Bald Eagle Festival"}
-![[DSC03868_2.jpg]]{ .blogItem .blogRow2 data-title="Several species of waterfowl at DeKorte Park"}
-![[IMG_6286_2.jpg]]{ .blogItem .blogRow2 data-title="Me at DeKorte Park after the wind knocked my hat into the water"}
 
 Today my sister and I went to the Bergen County Bald Eagle Festival. I heard about this festival from a flier that a close friend gave me the prior week. I wasn't too sure what to expect since it was also the first time the event was held. I was surprised to see a lot of people at the event, at least 60 people from children to older adults. The event was also very organized and well set up.
 
