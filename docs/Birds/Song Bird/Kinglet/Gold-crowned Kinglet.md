@@ -8,7 +8,7 @@ Entry Date: 2022-04-12
 
 ![[Gold-crowned Kinglet Thumbnail.jpg]]
 
-*Gold-crowned Kinglet on a pine tree by the Esposito Park benches.*
+*Gold-crowned Kinglet at Milton Lake Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -18,6 +18,8 @@ Thought this one was a [[White-throated Sparrow]] but then realized he had one y
 ## Sightings
 
 -> #location/EspositoPark-Clark-NJ 
+
+-> #location/MiltonLakePark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos

@@ -7,7 +7,7 @@ Entry Date: 2022-12-21
 
 ![[American Tree Sparrow Thumbnail.jpg]]
 
-*American Tree Sparrow in a bush at Lord Stirling Park*
+*American Tree Sparrow foraging on the ground at Great Swamp*
 
 ---------------------------------------------------------------
 ## Notes
@@ -18,6 +18,8 @@ First seen at Lord Stirling Park on an overcast Fall day. Looks similar to the [
 ## Sightings
 
 -> #location/LordStirlingPark-NJ 
+
+-> #location/GreatSwampRefuge-NJ 
 
 ---------------------------------------------------------------
 ## Photos

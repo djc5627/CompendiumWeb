@@ -8,7 +8,7 @@ Entry Date: 2022-04-12
 
 ![[White-throated Sparrow Thumbnail.jpg]]
 
-*White-throated Sparrow on branch at Hawk Rise Sanctuary*
+*White-throated Sparrow on branch at Milton Lake Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -22,6 +22,14 @@ From far away, assumed they were a [[House Sparrow]] or [[Song Sparrow]], not un
 -> #location/Home-Clark-NJ 
 
 -> #location/HarrimanStatePark 
+
+-> #location/CentralPark-NYC 
+
+-> #location/HawkRiseSanctuary-Linden-NJ 
+
+-> #location/SandyHook-NJ 
+
+-> #location/MiltonLakePark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos

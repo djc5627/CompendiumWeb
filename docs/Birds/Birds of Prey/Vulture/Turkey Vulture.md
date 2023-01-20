@@ -7,7 +7,7 @@ Entry Date: 2022-04-28
 
 ![[Turkey Vulture Thumbnail.jpg]]
 
-*Turkey Vulture soaring high above the trees at Harriman State Park*
+*Turkey Vulture soaring high above the trees at Rahway River Park*
 
 ---------------------------------------------------------------
 ## Notes

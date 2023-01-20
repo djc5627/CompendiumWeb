@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
                 "mode": "source",
                 "source": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hooded",
+                "query": "file: american tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,7 +245,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,15 +352,15 @@
   },
   "active": "9a794e040f1345f4",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-10/2022-10-30.md",
+    "docs/Birds/Birds of Prey/Vulture/Turkey Vulture.md",
+    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
+    "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
+    "docs/Birds/Song Bird/Kinglet/Gold-crowned Kinglet.md",
+    "docs/Birds/Woodpecker/Hairy Woodpecker.md",
+    "docs/Birds/Song Bird/Sparrow/American Tree Sparrow.md",
     "docs/Blog.md",
+    "docs/Blog Archive/2022-10/2022-10-30.md",
     "docs/Blog Archive/2022-10/2022-10-22.md",
-    "docs/index.md",
-    "docs/Blog Archive/2023-01/2023-01-16.md",
-    "docs/Birds/Water Fowl/Merganser/Common Merganser.md",
-    "docs/Birds/Water Fowl/Duck/Gadwall.md",
-    "docs/Birds/Song Bird/New World Black Bird/Rusty Blackbird.md",
-    "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
-    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md"
+    "docs/index.md"
   ]
 }

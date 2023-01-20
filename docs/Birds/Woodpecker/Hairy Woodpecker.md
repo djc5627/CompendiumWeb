@@ -8,7 +8,7 @@ Entry Date: 2022-04-29
 
 ![[Hairy Woodpecker Thumbnail.jpg]]
 
-*Hairy Woodpecker at Rahway River Park foraging*
+*Hairy Woodpecker at Esposito Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -18,6 +18,8 @@ Looks extremely similar to the [[Downy Woodpecker]] but has slightly longer beak
 ## Sightings
 
 -> #location/RahwayRiverPark-Rahway-NJ 
+
+-> #location/EspositoPark-Clark-NJ 
 
 ---------------------------------------------------------------
 ## Photos

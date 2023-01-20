@@ -7,7 +7,7 @@ Entry Date: 2022-02-01
 
 ![[House Sparrow Thumbnail.jpg]]
 
-*House Sparrow on our bird feeder*
+*House Sparrow in a bush near Milton Lake Park*
 
 ---------------------------------------------------------------
 ## Notes
