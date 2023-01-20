@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog Archive/2022-10/2022-10-30.md",
+                "file": "docs/Blog.md",
                 "mode": "source",
                 "source": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2022-10/2022-10-30.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,6 +351,7 @@
   },
   "active": "9a794e040f1345f4",
   "lastOpenFiles": [
+    "docs/Blog Archive/2022-10/2022-10-30.md",
     "docs/Blog.md",
     "docs/Blog Archive/2022-10/2022-10-22.md",
     "docs/index.md",
@@ -359,7 +360,6 @@
     "docs/Birds/Water Fowl/Duck/Gadwall.md",
     "docs/Birds/Song Bird/New World Black Bird/Rusty Blackbird.md",
     "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
-    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
-    "docs/Birds/Water Fowl/Goose/Brant.md"
+    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md"
   ]
 }
