@@ -51,13 +51,13 @@ This past week, I went birding at Milton Lake Park just about every morning and 
 
 ---------------------------------------------------------------
 
-## Redhead and Vultures at Rahway River Park
+## Snow Goose and Vultures at Rahway River Park
 2022-12-18
 
-![[DSC01648_2.jpg]]{ .blogItem .blogRow2 data-title="Redhead eating grass at Rahway River Park"}
+![[DSC01648_2.jpg]]{ .blogItem .blogRow2 data-title="Snow Goose eating grass at Rahway River Park"}
 ![[DSC01513_2.jpg]]{ .blogItem .blogRow2 data-title="Turkey Vulture soaring over Rahway River Park"}
-![[DSC01594_1.jpg]]{ .blogItem .blogRow2 data-title="Redhead at Rahway River Park"}
-![[DSC01642_1.jpg]]{ .blogItem .blogRow2 data-title="Redhead satisfying an itch at Rahway River Park"}
+![[DSC01594_1.jpg]]{ .blogItem .blogRow2 data-title="Snow Goose at Rahway River Park"}
+![[DSC01642_1.jpg]]{ .blogItem .blogRow2 data-title="Snow Goose satisfying an itch at Rahway River Park"}
 
 This morning, my sister and I went to Rahway River Park for birding. I was hoping to see some [[Hooded Merganser|Hooded Mergansers]] and maybe some new ducks at the lake. As soon as we parked the car, my sister pointed out some [[Turkey Vulture|Turkey Vultures]] flying low along the tree line. I immediately grabbed my camera, set it to a faster shutter, and got some crisp shots of the Vultures.
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog Archive/2022-12/2022-12-20.md",
+                "file": "docs/Blog.md",
                 "mode": "source",
                 "source": true
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
+                "file": "docs/Birds/Water Fowl/Goose/Snow Goose.md",
                 "mode": "source",
                 "source": true
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -232,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: american tree",
+                "query": "file:red",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,8 +245,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -266,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,17 +349,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "9a794e040f1345f4",
+  "active": "291ef352185a5306",
   "lastOpenFiles": [
-    "docs/Birds/Birds of Prey/Vulture/Turkey Vulture.md",
-    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
-    "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
-    "docs/Birds/Song Bird/Kinglet/Gold-crowned Kinglet.md",
-    "docs/Birds/Woodpecker/Hairy Woodpecker.md",
-    "docs/Birds/Song Bird/Sparrow/American Tree Sparrow.md",
+    "docs/Blog Archive/2022-12/2022-12-18.md",
     "docs/Blog.md",
-    "docs/Blog Archive/2022-10/2022-10-30.md",
-    "docs/Blog Archive/2022-10/2022-10-22.md",
-    "docs/index.md"
+    "docs/Blog Archive/2022-12/2022-12-20.md",
+    "docs/index.md",
+    "docs/Birds/Water Fowl/Goose/Snow Goose.md",
+    "docs/Thumbnails/Snow Goose Thumbnail.jpg",
+    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
+    "docs/Birds/Birds of Prey/Vulture/Turkey Vulture.md",
+    "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
+    "docs/Birds/Song Bird/Kinglet/Gold-crowned Kinglet.md"
   ]
 }

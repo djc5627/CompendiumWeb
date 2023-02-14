@@ -527,19 +527,6 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Redhead]]
-</div>
-<div markdown="1">
-![[Redhead Thumbnail.jpg]]{data-title="Redhead" data-description="Water Fowl"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
 [[Ring-necked Duck]]
 </div>
 <div markdown="1">
@@ -583,6 +570,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Canada Goose Thumbnail.jpg]]{data-title="Canada Goose" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Snow Goose]]
+</div>
+<div markdown="1">
+![[Snow Goose Thumbnail.jpg]]{data-title="Snow Goose" data-description="Water Fowl"}
 </div>
 
 </div>
