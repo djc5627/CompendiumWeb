@@ -11,7 +11,6 @@
 ![[DSC05292_1.jpg]]{ .blogItem .blogRow2 data-title="Me near the Winter Shops at Bryant Park"}
 ![[DSC05328_1.jpg]]{ .blogItem .blogRow2 data-title="Pigeon at Bryant Park with slick head feathers"}
 ![[DSC05302_1.jpg]]{ .blogItem .blogRow2 data-title="House Sparrow claiming his seat at Bryant Park"}
-![[DSC05354_1.jpg]]{ .blogItem .blogRow1 data-title="Woodcock hiding in the brush from a distance"}
 
 On this warm President's Day, my sister and I decided to go to Bryant Park in NYC in search of [[American Woodcock|American Woodcocks]], also known as timberdoodles. Last summer, we discovered Woodcocks and their hilarious bobbing behavior while watching funny YouTube videos, where one can see them [bob to music ](https://www.youtube.com/watch?v=eHycxiW6XOQ). We immediately checked where Woodcocks could be found in our area and, to our surprise, discovered that they could be seen at Bryant Park in NYC. Apparently, birders know this park as "Doodletown" because the migratory bird arrives in large numbers starting in March. We decided that this warm winter day (~60 degrees) was the perfect time to visit. We also checked eBird the day before to confirm recent Woodcocks sightings at the park.
 
