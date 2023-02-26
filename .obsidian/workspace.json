@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a844d62c66cfc6b3",
@@ -273,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2023-02/2023-02-20.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,11 +356,11 @@
       "publish:Publish changes": false
     }
   },
-  "active": "7cce1abca6fcc812",
+  "active": "291ef352185a5306",
   "lastOpenFiles": [
-    "docs/Blog Images/2023-02-20/DSC05335_1.jpg.tmp",
-    "docs/Blog.md",
     "docs/Blog Archive/2023-02/2023-02-20.md",
+    "docs/Blog.md",
+    "docs/Blog Images/2023-02-20/DSC05335_1.jpg.tmp",
     "docs/Blog Images/2023-02-20/DSC05359_2.jpg",
     "docs/Blog Images/2023-02-20/DSC05359_2.jpg.tmp",
     "docs/Blog Images/2023-02-20/DSC05354_1.jpg",
