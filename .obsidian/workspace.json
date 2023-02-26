@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14bd266b54bb00d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog Archive/2022-12/2022-12-18.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "291ef352185a5306",
             "type": "leaf",
             "state": {
@@ -36,12 +24,12 @@
             }
           },
           {
-            "id": "e7d54f4f7d05cf55",
+            "id": "7cce1abca6fcc812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Blog Archive/2023-02/2023-02-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -52,30 +40,50 @@
             }
           },
           {
-            "id": "9a794e040f1345f4",
+            "id": "8a53c63ca996693c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Goose/Snow Goose.md",
+                "file": "docs/Birds/Treecreeper/Brown Creeper.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "eb96b0c843116de6",
+            "id": "e9cd4ef7f255af37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog Archive/2023-01/2023-01-16.md",
+                "file": "docs/Birds/Water Fowl/Duck/Canvasback.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebb38e9b117a4c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Ruddy Duck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc21d16069c090fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Shore Bird/Sandpiper/American Woodcock.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -232,7 +240,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:red",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/Blog Archive/2023-02/2023-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,17 +357,33 @@
       "publish:Publish changes": false
     }
   },
-  "active": "291ef352185a5306",
+  "active": "7cce1abca6fcc812",
   "lastOpenFiles": [
-    "docs/Blog Archive/2022-12/2022-12-18.md",
+    "docs/Blog Images/2023-02-20/DSC05335_1.jpg.tmp",
     "docs/Blog.md",
-    "docs/Blog Archive/2022-12/2022-12-20.md",
-    "docs/index.md",
-    "docs/Birds/Water Fowl/Goose/Snow Goose.md",
-    "docs/Thumbnails/Snow Goose Thumbnail.jpg",
-    "docs/Birds/Song Bird/Sparrow/House Sparrow.md",
-    "docs/Birds/Birds of Prey/Vulture/Turkey Vulture.md",
-    "docs/Birds/Song Bird/Sparrow/White-throated Sparrow.md",
-    "docs/Birds/Song Bird/Kinglet/Gold-crowned Kinglet.md"
+    "docs/Blog Archive/2023-02/2023-02-20.md",
+    "docs/Blog Images/2023-02-20/DSC05359_2.jpg",
+    "docs/Blog Images/2023-02-20/DSC05359_2.jpg.tmp",
+    "docs/Blog Images/2023-02-20/DSC05354_1.jpg",
+    "docs/Blog Images/2023-02-20/DSC05354_1.jpg.tmp",
+    "docs/Blog Images/2023-02-20/DSC05335_1.jpg",
+    "docs/Blog Images/2023-02-20/DSC05328_1.jpg",
+    "docs/Blog Images/2023-02-20/DSC05328_1.jpg.tmp",
+    "docs/Blog Images/2023-02-20/DSC05302_1.jpg",
+    "docs/Blog Images/2023-02-20/DSC05302_1.jpg.tmp",
+    "docs/Blog Images/2023-02-20/DSC05292_1.jpg",
+    "docs/Blog Images/2023-02-20/DSC05292_1.jpg.tmp",
+    "docs/Blog Images/2023-02-20/DSC05286_1.jpg",
+    "docs/Blog Images/2023-02-20/DSC05286_1.jpg.tmp",
+    "docs/Blog Images/2023-02-20",
+    "docs/Blog Images/New folder",
+    "docs/Blog Archive/2023-01/2023-01-16.md",
+    "docs/Birds/Song Bird/Sparrow/Song Sparrow.md",
+    "docs/Birds/Treecreeper/Brown Creeper.md",
+    "linkUrl.md",
+    "docs/Birds/Shore Bird/Sandpiper/American Woodcock.md",
+    "docs/Birds/Water Fowl/Duck/Canvasback.md",
+    "docs/Birds/Water Fowl/Duck/Ruddy Duck.md",
+    "docs/Blog Archive/2022-12/2022-12-18.md"
   ]
 }
