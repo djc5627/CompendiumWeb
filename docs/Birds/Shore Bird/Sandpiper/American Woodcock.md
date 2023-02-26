@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # American Woodcock
 Entry Date: 2023-02-24
 
-Main Image here
+![[American Woodcock Thumbnail.jpg]]
 
-*Image caption here*
+*Woodcock hiding in bushes at Bryant Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -21,7 +21,7 @@ First seen at Bryant Park in NYC. That day, there was a lone Woodcock in a busy 
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive]([American Woodcock](https://1drv.ms/u/s!AvaIuMdCo_w-hMslK0GRFkfpC4JMUA?e=MqhagZ))
 
 ---------------------------------------------------------------
 ## References

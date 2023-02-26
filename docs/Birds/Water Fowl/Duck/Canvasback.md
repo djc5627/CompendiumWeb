@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Canvasback
 Entry Date: 2023-02-24
 
-Main Image here
+![[Canvasback Thumbnail.jpg]]
 
-*Image caption here*
+*Canvasback glistening as he shakes off at DeKorte Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -21,7 +21,7 @@ First seen at DeKorte Park in a huge flock of over 100 feeding in the water. The
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive]([Canvasback](https://1drv.ms/u/s!AvaIuMdCo_w-hMspIIwUzBor3nJSHQ?e=by3YAM))
 
 ---------------------------------------------------------------
 ## References

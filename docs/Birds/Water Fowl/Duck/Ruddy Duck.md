@@ -5,9 +5,9 @@ image: <CoverImageURL>
 # Ruddy Duck
 Entry Date: 2023-02-24
 
-Main Image here
+![[Ruddy Duck Thumbnail.jpg]]
 
-*Image caption here*
+*Ruddy Duck cruising around DeKorte Park*
 
 ---------------------------------------------------------------
 ## Notes
@@ -21,7 +21,7 @@ First seen at DeKorte Park near a flock of [[Gadwall|Gadwalls]] and [[Mallard Du
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive](linkhere)
+OneDrive Album: [OneDrive]([Ruddy Duck](https://1drv.ms/u/s!AvaIuMdCo_w-hMsrJRqGTBUBz9QQLw?e=ec5aQe))
 
 ---------------------------------------------------------------
 ## References

@@ -332,6 +332,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[American Woodcock]]
+</div>
+<div markdown="1">
+![[American Woodcock Thumbnail.jpg]]{data-title="American Woodcock" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Least Sandpiper]]
 </div>
 <div markdown="1">
@@ -488,6 +501,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Canvasback]]
+</div>
+<div markdown="1">
+![[Canvasback Thumbnail.jpg]]{data-title="Canvasback" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Gadwall]]
 </div>
 <div markdown="1">
@@ -531,6 +557,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Ring-necked Duck Thumbnail.jpg]]{data-title="Ring-necked Duck" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Ruddy Duck]]
+</div>
+<div markdown="1">
+![[Ruddy Duck Thumbnail.jpg]]{data-title="Rudy Duck" data-description="Water Fowl"}
 </div>
 
 </div>
@@ -1457,6 +1496,25 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 
 </div>
 
+## Treecreepers [-]
+
+<div id ='treecreepers-row' class="row" markdown="1">
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Brown Creeper]]
+</div>
+<div markdown="1">
+![[Brown Creeper Thumbnail.jpg]]{data-title="Brown Creeper" data-description="Treecreepers"}
+</div>
+
+</div>
+</div>
+
+</div>
+
 ## Woodpeckers [-]
 
 <div id ='woodpeckers-row' class="row" markdown="1">
@@ -1521,6 +1579,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Red-bellied Woodpecker Thumbnail.jpg]]{data-title="Red-bellied Woodpecker" data-description="Woodpeckers"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Yellow-bellied Sapsucker]]
+</div>
+<div markdown="1">
+![[Yellow-bellied Sapsucker Thumbnail.jpg]]{data-title="Yellow-bellied Sapsucker" data-description="Woodpeckers"}
 </div>
 
 </div>
