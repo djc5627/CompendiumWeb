@@ -4,234 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e25c824d297a824c",
+        "id": "8b6f7f48b504902e",
         "type": "tabs",
-        "dimension": 62.36187845303868,
+        "dimension": 50,
         "children": [
           {
-            "id": "411ae369a7b36be5",
+            "id": "f0359e2b5a6e1191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
+                "file": "docs/Blog Archive/2023-03/2023-03-05.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
-          {
-            "id": "c0c5c26e5a5b8ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Warbler/Northern Parula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "467c4c263472d8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Bird/Ibis/White Ibis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66e953147067343e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Bird/Egret/Snowy Egret.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3753fa585f567eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Rail/Coot/American Coot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ef1e23098f37d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Sea Bird/Tern/Royal Tern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92073b9d170551b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Sea Bird/Tern/Forster's Tern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04e5aaaffa6e2ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Bird/Egret/Reddish Egret.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aa2856168e975d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Plover/Piping Plover.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6123e478d7dd7849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Plover/Black-bellied Plover.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b05900a8fad57d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Sandpiper/Ruddy Turnstone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e06a6a1e43fd426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Bird/Pelican/Brown Pelican.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4417fc58a7fdd2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Sea Bird/Skimmer/Black Skimmer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bb99fa46bb807ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Shore Bird/Sandpiper/Willet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1239915406bb46a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Bird/Heron/Yellow-crowned Night-Heron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2906d1da52021549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Bird/Heron/Little Blue Heron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4165efd3b77e0d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Crane/Sandhill Crane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3764d1d4462c77d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 17
-      },
-      {
-        "id": "33e0c82b4d583e81",
-        "type": "tabs",
-        "dimension": 37.63812154696133,
-        "children": [
           {
             "id": "f734923fd114c12e",
             "type": "leaf",
@@ -246,6 +34,41 @@
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "e25c824d297a824c",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "5b240c429b80a28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2023-03/2023-03-05.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c2ee9247b7c53f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -314,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Blog Archive/2023-03/2023-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,8 +221,33 @@
       "publish:Publish changes": false
     }
   },
-  "active": "f734923fd114c12e",
+  "active": "f0359e2b5a6e1191",
   "lastOpenFiles": [
+    "docs/Blog Images/2023-03-05/IMG_8160_1.jpg",
+    "docs/Blog Images/2023-03-05/IMG_8160_1.jpg.tmp",
+    "docs/Blog Images/2023-03-05/IMG_8155_1.jpg",
+    "docs/Blog Images/2023-03-05/IMG_8155_1.jpg.tmp",
+    "docs/Blog Images/2023-03-05/IMG_8095_1.jpg",
+    "docs/Blog Images/2023-03-05/IMG_8095_1.jpg.tmp",
+    "docs/Blog Images/2023-03-05/IMG_8093_1.jpg",
+    "docs/Blog Images/2023-03-05/IMG_8093_1.jpg.tmp",
+    "docs/Blog.md",
+    "docs/Blog Archive/2023-03/2023-03-05.md",
+    "SpecificLinkToBlogHere.md",
+    "docs/Blog Images/2023-03-05/IMG_8160.HEIC",
+    "docs/Blog Images/2023-03-05/IMG_8155.HEIC",
+    "docs/Blog Images/2023-03-05/IMG_8093.HEIC",
+    "docs/Blog Images/2023-03-05/IMG_8095.HEIC",
+    "docs/Blog Images/2023-03-05/DSC06948_2.jpg",
+    "docs/Blog Images/2023-03-05/DSC06948_2.jpg.tmp",
+    "docs/Blog Images/2023-03-05/DSC06935_2.jpg",
+    "docs/Blog Images/2023-03-05/DSC06935_2.jpg.tmp",
+    "docs/Blog Images/2023-03-05/DSC06929_2.jpg",
+    "docs/Blog Images/2023-03-05/DSC06901_3.jpg",
+    "docs/Blog Images/2023-03-05/DSC06833_2.jpg",
+    "docs/Blog Images/2023-03-05/DSC06718_3.jpg",
+    "docs/Blog Images/2023-03-05/DSC06797_3.jpg",
+    "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
     "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
     "docs/index.md",
     "docs/Birds/Crane/Sandhill Crane.md",
@@ -408,7 +256,6 @@
     "docs/Birds/Shore Bird/Sandpiper/Willet.md",
     "docs/Birds/Sea Bird/Skimmer/Black Skimmer.md",
     "docs/Birds/Water Bird/Pelican/Brown Pelican.md",
-    "docs/Thumbnails/Lesser Yellowlegs Thumbnail.jpg",
     "docs/Birds/Shore Bird/Sandpiper/Ruddy Turnstone.md",
     "docs/Birds/Shore Bird/Plover/Black-bellied Plover.md",
     "docs/Birds/Shore Bird/Plover/Piping Plover.md",
@@ -417,33 +264,10 @@
     "docs/Birds/Sea Bird/Tern/Royal Tern.md",
     "docs/Birds/Rail/Coot/American Coot.md",
     "docs/Birds/Water Bird/Egret/Snowy Egret.md",
-    "docs/Thumbnails/Green Heron Thumbnail.jpg",
     "docs/Birds/Water Bird/Ibis/White Ibis.md",
     "docs/Birds/Song Bird/Warbler/Northern Parula.md",
-    "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
-    "docs/Blog Archive/2023-03/2023-03-01.md",
-    "docs/Thumbnails/White Ibis Thumbnail.jpg",
-    "docs/Blog.md",
     "linkhere.md",
     "[Muscovy.md",
-    "docs/Thumbnails/Forster's Tern Thumbnail.jpg",
-    "docs/Thumbnails/Brown Pelican Thumbnail.jpg",
-    "docs/Thumbnails/Black-bellied Plover Thumbnail.jpg",
-    "docs/Thumbnails/Black Skimmer Thumbnail.jpg",
-    "docs/Thumbnails/American White Ibis Thumbnail.jpg",
-    "docs/Thumbnails/American Coot Thumbnail.jpg",
-    "docs/Thumbnails/Yellow-crowned Night-Heron Thumbnail.jpg",
-    "docs/Birds/Crane",
-    "docs/Birds/Sea Bird/Skimmer",
-    "docs/Birds/Water Bird/Pelican.md",
-    "docs/Birds/Water Bird/Pelican",
-    "docs/Birds/Rail/Coot",
-    "docs/Birds/Rail",
-    "docs/Birds/Water Bird/Ibis",
-    "docs/Birds/Woodpecker/Yellow-bellied Sapsucker.md",
-    "docs/Blog Archive/2023-03",
-    "docs/Blog Images/2023-02-20/DSC05335_1.jpg.tmp",
-    "docs/Blog Images/2023-02-20/DSC05359_2.jpg.tmp",
-    "docs/Blog Images/2023-02-20/DSC05354_1.jpg.tmp"
+    "docs/Birds/Water Bird/Pelican.md"
   ]
 }
