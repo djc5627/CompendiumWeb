@@ -8,6 +8,15 @@ theme:
       - navigation.top
       - toc.integrate 
     palette:
+    
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -17,15 +26,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
         
 
 # Extensions
