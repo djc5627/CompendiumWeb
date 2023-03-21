@@ -13,6 +13,7 @@
 ![[IMG_8160_1.jpg]]{ .blogItem .blogRow2 data-title="My cousin holding a snail at Fort DeSoto"}
 
 This week I went to Florida to go to Okeechobee Music Festival with my cousin who lives nearby in St. Petersburg. I decided to go two days early before the festival started so I could explore the area and go hiking/birding with my cousin. This was my first time going to Florida so I was very excited. The night before my flight, there was the first major snowfall of the year in New Jersey (~4 inches) and I was up until 1am making a massive snowman with my sister. It was interesting having the plane de-iced before the flight only to land into sunny, 80-degree weather in under 3 hours.
+
 [[2023-03-05|Continue Reading]]
 
 ---------------------------------------------------------------
