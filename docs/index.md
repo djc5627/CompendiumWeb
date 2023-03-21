@@ -233,6 +233,38 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 
 </div>
 
+## Coots/Cranes [-]
+
+<div id="cootscranes-row" class="row" markdown="1">
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[American Coot]]
+</div>
+<div markdown="1">
+![[American Coot Thumbnail.jpg]]{data-title="American Coot" data-description="Coots"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Sandhill Crane]]
+</div>
+<div markdown="1">
+![[Sandhill Crane Thumbnail.jpg]]{data-title="Sandhill Crane" data-description="Cranes"}
+</div>
+
+</div>
+</div>
+
+</div>
+
 ## Sea/Water/Shore Birds [-]
 
 <div id = 'seawatershorebirds-row' class="row" markdown="1">
@@ -280,10 +312,49 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Black Skimmer]]
+</div>
+<div markdown="1">
+![[Black Skimmer Thumbnail.jpg]]{data-title="Black Skimmer" data-description="Sea Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Caspian Tern]]
 </div>
 <div markdown="1">
 ![[Caspian Tern Thumbnail.jpg]]{data-title="Caspian Tern" data-description="Sea Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Forster's Tern]]
+</div>
+<div markdown="1">
+![[Forster's Tern Thumbnail.jpg]]{data-title="Forster's Tern" data-description="Sea Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Royal Tern]]
+</div>
+<div markdown="1">
+![[Royal Tern Thumbnail.jpg]]{data-title="Royal Tern" data-description="Sea Birds"}
 </div>
 
 </div>
@@ -306,10 +377,36 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Black-bellied Plover]]
+</div>
+<div markdown="1">
+![[Black-bellied Plover Thumbnail.jpg]]{data-title="Black-bellied Plover" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Killdeer]]
 </div>
 <div markdown="1">
 ![[Killdeer Thumbnail.jpg]]{data-title="Killdeer" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Piping Plover]]
+</div>
+<div markdown="1">
+![[Piping Plover Thumbnail.jpg]]{data-title="Piping Plover" data-description="Shore Birds"}
 </div>
 
 </div>
@@ -371,6 +468,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Ruddy Turnstone]]
+</div>
+<div markdown="1">
+![[Ruddy Turnstone Thumbnail.jpg]]{data-title="Ruddy Turnstone" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Sanderling]]
 </div>
 <div markdown="1">
@@ -410,6 +520,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Willet]]
+</div>
+<div markdown="1">
+![[Willet Thumbnail.jpg]]{data-title="Willet" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Double-crested Cormorant]]
 </div>
 <div markdown="1">
@@ -427,6 +550,32 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Great Egret Thumbnail.jpg]]{data-title="Great Egret" data-description="Water Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Reddish Egret]]
+</div>
+<div markdown="1">
+![[Reddish Egret Thumbnail.jpg]]{data-title="Reddish Egret" data-description="Water Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Snowy Egret]]
+</div>
+<div markdown="1">
+![[Snowy Egret Thumbnail.jpg]]{data-title="Snowy Egret" data-description="Water Birds"}
 </div>
 
 </div>
@@ -466,6 +615,58 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Green Heron Thumbnail.jpg]]{data-title="Green Heron" data-description="Water Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Little Blue Heron]]
+</div>
+<div markdown="1">
+![[Little Blue Heron Thumbnail.jpg]]{data-title="Little Blue Heron" data-description="Water Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Yellow-crowned Night-Heron]]
+</div>
+<div markdown="1">
+![[Yellow-crowned Night-Heron Thumbnail.jpg]]{data-title="Yellow-crowned Night-Heron" data-description="Water Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[White Ibis]]
+</div>
+<div markdown="1">
+![[White Ibis Thumbnail.jpg]]{data-title="White Ibis" data-description="Water Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Brown Pelican]]
+</div>
+<div markdown="1">
+![[Brown Pelican Thumbnail.jpg]]{data-title="Brown Pelican" data-description="Water Birds"}
 </div>
 
 </div>
@@ -527,10 +728,36 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Green-winged Teal]]
+</div>
+<div markdown="1">
+![[Green-winged Teal Thumbnail.jpg]]{data-title="Green-winged Teal" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Mallard Duck]]
 </div>
 <div markdown="1">
 ![[Mallard Duck Thumbnail.jpg]]{data-title="Mallard Duck" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Muscovy Duck]]
+</div>
+<div markdown="1">
+![[Muscovy Duck Thumbnail.jpg]]{data-title="Muscovy Duck" data-description="Water Fowl"}
 </div>
 
 </div>
@@ -1254,6 +1481,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Magnolia Warbler Thumbnail.jpg]]{data-title="Magnolia Warbler" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Northern Parula]]
+</div>
+<div markdown="1">
+![[Northern Parula Thumbnail.jpg]]{data-title="Northern Parula" data-description="Song Birds"}
 </div>
 
 </div>

@@ -54,6 +54,25 @@ function collapseHummingbirdsKingfishers() {
   }
 }
 
+var cootscranes = document.getElementById('cootscranes-');
+
+cootscranes.style.cursor = 'pointer';
+cootscranes.onclick = collapseHummingbirdsKingfishers;
+
+function collapseHummingbirdsKingfishers() {
+  var x = document.getElementById("cootscranes-row");
+  var y = document.getElementById('cootscranes-');
+  
+  if (x.style.display === "none") {
+    x.style.display = "block";
+	y.textContent = 'Coots/Cranes [-]';
+  } else {
+    x.style.display = "none";
+	y.textContent = 'Coots/Cranes [+]';
+  }
+}
+
+
 var seaWaterShoreBirds = document.getElementById('seawatershore-birds-');
 
 seaWaterShoreBirds.style.cursor = 'pointer';
