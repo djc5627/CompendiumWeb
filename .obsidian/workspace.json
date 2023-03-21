@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2023-03/2023-03-05.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,8 +222,14 @@
       "publish:Publish changes": false
     }
   },
-  "active": "f0359e2b5a6e1191",
+  "active": "c2ee9247b7c53f9d",
   "lastOpenFiles": [
+    "docs/Blog Archive/2023-03/2023-03-05.md",
+    "docs/Blog.md",
+    "docs/Blog Images/2023-03-05/DSC06616_2.jpg.tmp",
+    "docs/Blog Images/2023-03-05/DSC06718_3.jpg.tmp",
+    "docs/Blog Images/2023-03-05/DSC06935_2.jpg.tmp",
+    "docs/Blog Images/2023-03-05/DSC06901_3.jpg.tmp",
     "docs/Blog Images/2023-03-05/IMG_8160_1.jpg",
     "docs/Blog Images/2023-03-05/IMG_8160_1.jpg.tmp",
     "docs/Blog Images/2023-03-05/IMG_8155_1.jpg",
@@ -231,22 +238,15 @@
     "docs/Blog Images/2023-03-05/IMG_8095_1.jpg.tmp",
     "docs/Blog Images/2023-03-05/IMG_8093_1.jpg",
     "docs/Blog Images/2023-03-05/IMG_8093_1.jpg.tmp",
-    "docs/Blog.md",
-    "docs/Blog Archive/2023-03/2023-03-05.md",
     "SpecificLinkToBlogHere.md",
     "docs/Blog Images/2023-03-05/IMG_8160.HEIC",
     "docs/Blog Images/2023-03-05/IMG_8155.HEIC",
-    "docs/Blog Images/2023-03-05/IMG_8093.HEIC",
-    "docs/Blog Images/2023-03-05/IMG_8095.HEIC",
     "docs/Blog Images/2023-03-05/DSC06948_2.jpg",
-    "docs/Blog Images/2023-03-05/DSC06948_2.jpg.tmp",
     "docs/Blog Images/2023-03-05/DSC06935_2.jpg",
-    "docs/Blog Images/2023-03-05/DSC06935_2.jpg.tmp",
     "docs/Blog Images/2023-03-05/DSC06929_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06901_3.jpg",
     "docs/Blog Images/2023-03-05/DSC06833_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06718_3.jpg",
-    "docs/Blog Images/2023-03-05/DSC06797_3.jpg",
     "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
     "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
     "docs/index.md",
