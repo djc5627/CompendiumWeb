@@ -273,6 +273,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Great Black-backed Gull]]
+</div>
+<div markdown="1">
+![[Great Black-backed Gull Thumbnail.jpg]]{data-title="Great Black-backed Gull" data-description="Sea Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Herring Gull]]
 </div>
 <div markdown="1">

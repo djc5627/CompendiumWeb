@@ -35,8 +35,21 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "62a0cb4a4fab3ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Sea Bird/Gull/Great Black-backed Gull.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e25c824d297a824c",
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,10 +235,13 @@
       "publish:Publish changes": false
     }
   },
-  "active": "c2ee9247b7c53f9d",
+  "active": "f734923fd114c12e",
   "lastOpenFiles": [
-    "docs/Blog Archive/2023-03/2023-03-05.md",
     "docs/Blog.md",
+    "docs/Blog Archive/2023-03/2023-03-05.md",
+    "docs/Birds/Sea Bird/Gull/Great Black-backed Gull.md",
+    "docs/Thumbnails/Great Black-backed Gull Thumbnail.jpg",
+    "docs/index.md",
     "desktop.ini",
     "docs/Blog Images/2023-03-05/DSC06616_2.jpg.tmp",
     "docs/Blog Images/2023-03-05/DSC06718_3.jpg.tmp",
@@ -246,10 +262,8 @@
     "docs/Blog Images/2023-03-05/DSC06929_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06901_3.jpg",
     "docs/Blog Images/2023-03-05/DSC06833_2.jpg",
-    "docs/Blog Images/2023-03-05/DSC06718_3.jpg",
     "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
     "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
-    "docs/index.md",
     "docs/Birds/Crane/Sandhill Crane.md",
     "docs/Birds/Water Bird/Heron/Little Blue Heron.md",
     "docs/Birds/Water Bird/Heron/Yellow-crowned Night-Heron.md",
@@ -267,7 +281,6 @@
     "docs/Birds/Water Bird/Ibis/White Ibis.md",
     "docs/Birds/Song Bird/Warbler/Northern Parula.md",
     "linkhere.md",
-    "[Muscovy.md",
-    "docs/Birds/Water Bird/Pelican.md"
+    "[Muscovy.md"
   ]
 }
