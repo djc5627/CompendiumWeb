@@ -7,7 +7,7 @@ Entry Date: 2023-01-19
 
 ![[Ring-necked Duck Thumbnail.jpg]]
 
-*Ring-necked duck at Milton Lake Park*
+*Ring-necked Ducks at Violet Cury Nature Preserve in Florida*
 
 ---------------------------------------------------------------
 ## Notes

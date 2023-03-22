@@ -37,6 +37,18 @@
             }
           },
           {
+            "id": "6aa32429fda7c4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "62a0cb4a4fab3ff5",
             "type": "leaf",
             "state": {
@@ -49,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e25c824d297a824c",
@@ -84,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:red",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +142,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,13 +247,15 @@
       "publish:Publish changes": false
     }
   },
-  "active": "f734923fd114c12e",
+  "active": "6aa32429fda7c4d8",
   "lastOpenFiles": [
-    "docs/Blog.md",
+    "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
     "docs/Blog Archive/2023-03/2023-03-05.md",
+    "docs/Birds/Water Bird/Heron/Great Blue Heron.md",
+    "docs/index.md",
+    "docs/Blog.md",
     "docs/Birds/Sea Bird/Gull/Great Black-backed Gull.md",
     "docs/Thumbnails/Great Black-backed Gull Thumbnail.jpg",
-    "docs/index.md",
     "desktop.ini",
     "docs/Blog Images/2023-03-05/DSC06616_2.jpg.tmp",
     "docs/Blog Images/2023-03-05/DSC06718_3.jpg.tmp",
@@ -280,7 +294,6 @@
     "docs/Birds/Water Bird/Egret/Snowy Egret.md",
     "docs/Birds/Water Bird/Ibis/White Ibis.md",
     "docs/Birds/Song Bird/Warbler/Northern Parula.md",
-    "linkhere.md",
-    "[Muscovy.md"
+    "linkhere.md"
   ]
 }

@@ -7,7 +7,7 @@ Entry Date: 2023-01-03
 
 ![[Red-breasted Merganser Thumbnail.jpg]]
 
-*Red-breasted Merganser at Sandy Hook*
+*Red-breasted Mergansers at Sandy Hook*
 
 ---------------------------------------------------------------
 ## Notes
