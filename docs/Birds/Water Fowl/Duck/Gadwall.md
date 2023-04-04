@@ -5,7 +5,7 @@ image: <CoverImageURL>
 # Gadwall
 Entry Date: 2023-01-19
 
-![[Godwall Thumbnail.jpg]]
+![[Gadwall Thumbnail.jpg]]
 
 *Gadwall showing of red patch at DeKorte Park*
 

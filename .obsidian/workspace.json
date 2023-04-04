@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
+                "file": "docs/Birds/Water Fowl/Duck/Gadwall.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: buffle",
+                "query": "godwall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
+                "file": "docs/Birds/Water Fowl/Duck/Gadwall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,12 +262,12 @@
   },
   "active": "f734923fd114c12e",
   "lastOpenFiles": [
+    "docs/Birds/Water Fowl/Duck/Bufflehead.md",
     "docs/Thumbnails/Bufflehead Thumbnail.jpg",
     "docs/index.md",
     "docs/Thumbnails/Orange-crowned Warbler Thumbnail.jpg",
     "docs/Thumbnails/Magnolia Warbler Thumbnail.jpg",
     "docs/Birds/Song Bird/Warbler/Orange-crowned Warbler.md",
-    "docs/Birds/Water Fowl/Duck/Bufflehead.md",
     "docs/Blog Archive/2023-03/2023-03-05.md",
     "docs/Birds/Song Bird/Warbler/Northern Parula.md",
     "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
@@ -294,7 +294,6 @@
     "docs/Blog Images/2023-03-05/IMG_8160.HEIC",
     "docs/Blog Images/2023-03-05/DSC06948_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06935_2.jpg",
-    "docs/Blog Images/2023-03-05/DSC06929_2.jpg",
     "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
     "docs/Birds/Crane/Sandhill Crane.md",
     "docs/Birds/Water Bird/Heron/Little Blue Heron.md",
