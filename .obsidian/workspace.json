@@ -26,9 +26,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
             "pane-relief:history-v1": {
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "e25c824d297a824c",
@@ -260,13 +260,16 @@
       "publish:Publish changes": false
     }
   },
-  "active": "03258fce0a878de9",
+  "active": "f734923fd114c12e",
   "lastOpenFiles": [
-    "docs/Birds/Song Bird/Warbler/Orange-crowned Warbler.md",
-    "docs/Blog Archive/2023-03/2023-03-05.md",
+    "docs/Thumbnails/Bufflehead Thumbnail.jpg",
     "docs/index.md",
-    "docs/Birds/Song Bird/Warbler/Northern Parula.md",
     "docs/Thumbnails/Orange-crowned Warbler Thumbnail.jpg",
+    "docs/Thumbnails/Magnolia Warbler Thumbnail.jpg",
+    "docs/Birds/Song Bird/Warbler/Orange-crowned Warbler.md",
+    "docs/Birds/Water Fowl/Duck/Bufflehead.md",
+    "docs/Blog Archive/2023-03/2023-03-05.md",
+    "docs/Birds/Song Bird/Warbler/Northern Parula.md",
     "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
     "docs/Blog.md",
     "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
@@ -292,7 +295,6 @@
     "docs/Blog Images/2023-03-05/DSC06948_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06935_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06929_2.jpg",
-    "docs/Blog Images/2023-03-05/DSC06901_3.jpg",
     "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
     "docs/Birds/Crane/Sandhill Crane.md",
     "docs/Birds/Water Bird/Heron/Little Blue Heron.md",
@@ -305,8 +307,6 @@
     "docs/Birds/Shore Bird/Plover/Piping Plover.md",
     "docs/Birds/Water Bird/Egret/Reddish Egret.md",
     "docs/Birds/Sea Bird/Tern/Forster's Tern.md",
-    "docs/Birds/Sea Bird/Tern/Royal Tern.md",
-    "docs/Birds/Rail/Coot/American Coot.md",
-    "docs/Birds/Water Bird/Egret/Snowy Egret.md"
+    "docs/Birds/Sea Bird/Tern/Royal Tern.md"
   ]
 }
