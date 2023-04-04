@@ -37,6 +37,18 @@
             }
           },
           {
+            "id": "03258fce0a878de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6aa32429fda7c4d8",
             "type": "leaf",
             "state": {
@@ -90,13 +102,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog.md",
+                "file": "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:red",
+                "query": "file: buffle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
+                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,13 +260,18 @@
       "publish:Publish changes": false
     }
   },
-  "active": "6aa32429fda7c4d8",
+  "active": "03258fce0a878de9",
   "lastOpenFiles": [
-    "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
+    "docs/Birds/Song Bird/Warbler/Orange-crowned Warbler.md",
     "docs/Blog Archive/2023-03/2023-03-05.md",
-    "docs/Birds/Water Bird/Heron/Great Blue Heron.md",
     "docs/index.md",
+    "docs/Birds/Song Bird/Warbler/Northern Parula.md",
+    "docs/Thumbnails/Orange-crowned Warbler Thumbnail.jpg",
+    "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
     "docs/Blog.md",
+    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
+    "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
+    "docs/Birds/Water Bird/Heron/Great Blue Heron.md",
     "docs/Birds/Sea Bird/Gull/Great Black-backed Gull.md",
     "docs/Thumbnails/Great Black-backed Gull Thumbnail.jpg",
     "desktop.ini",
@@ -275,9 +293,7 @@
     "docs/Blog Images/2023-03-05/DSC06935_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06929_2.jpg",
     "docs/Blog Images/2023-03-05/DSC06901_3.jpg",
-    "docs/Blog Images/2023-03-05/DSC06833_2.jpg",
     "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
-    "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
     "docs/Birds/Crane/Sandhill Crane.md",
     "docs/Birds/Water Bird/Heron/Little Blue Heron.md",
     "docs/Birds/Water Bird/Heron/Yellow-crowned Night-Heron.md",
@@ -291,9 +307,6 @@
     "docs/Birds/Sea Bird/Tern/Forster's Tern.md",
     "docs/Birds/Sea Bird/Tern/Royal Tern.md",
     "docs/Birds/Rail/Coot/American Coot.md",
-    "docs/Birds/Water Bird/Egret/Snowy Egret.md",
-    "docs/Birds/Water Bird/Ibis/White Ibis.md",
-    "docs/Birds/Song Bird/Warbler/Northern Parula.md",
-    "linkhere.md"
+    "docs/Birds/Water Bird/Egret/Snowy Egret.md"
   ]
 }

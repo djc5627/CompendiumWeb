@@ -7,7 +7,7 @@ Entry Date: 2023-03-20
 
 ![[Green-winged Teal Thumbnail.jpg]]
 
-*Green-winged Teal at the Great Swamp Refuge*
+*Green-winged Teal at Hawk Rise Sanctuary*
 
 ---------------------------------------------------------------
 ## Notes
