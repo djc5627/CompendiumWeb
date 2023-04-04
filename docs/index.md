@@ -3,11 +3,9 @@
 ## Welcome!
 Welcome to our bird compendium! Each entry contains notes on our personal observations and fun facts on the bird. All photos were taken by us and entries are only created for birds we have photographed. References are provided for more info.
 
+You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog|birding blog here]].
 
-
-[[Bald Eagle|test]]
-
-
+[[How You Can Help Birds|Learn steps you can take to help declining bird populations here!]].
 
 <div class="us-form">
   <label for="imagesPerRow">Images Per Row:</label>
@@ -1780,90 +1778,5 @@ Welcome to our bird compendium! Each entry contains notes on our personal observ
 
 </div>
 </div>
-
-</div>
-
-## Woodpeckers [-]
-
-<div id ='woodpeckers-row' class="row" markdown="1">
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Downy Woodpecker]]
-</div>
-<div markdown="1">
-![[Downy Woodpecker Thumbnail.jpg]]{data-title="Downy Woodpecker" data-description="Woodpeckers"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Hairy Woodpecker]]
-</div>
-<div markdown="1">
-![[Hairy Woodpecker Thumbnail.jpg]]{data-title="Hairy Woodpecker" data-description="Woodpeckers"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Northern Flicker]]
-</div>
-<div markdown="1">
-![[Northern Flicker Thumbnail.jpg]]{data-title="Northern Flicker" data-description="Woodpeckers"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Pileated Woodpecker]]
-</div>
-<div markdown="1">
-![[Pileated Woodpecker Thumbnail.jpg]]{data-title="Pileated Woodpecker" data-description="Woodpeckers"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Red-bellied Woodpecker]]
-</div>
-<div markdown="1">
-![[Red-bellied Woodpecker Thumbnail.jpg]]{data-title="Red-bellied Woodpecker" data-description="Woodpeckers"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
-[[Yellow-bellied Sapsucker]]
-</div>
-<div markdown="1">
-![[Yellow-bellied Sapsucker Thumbnail.jpg]]{data-title="Yellow-bellied Sapsucker" data-description="Woodpeckers"}
-</div>
-
-</div>
-</div>
-
 
 </div>
