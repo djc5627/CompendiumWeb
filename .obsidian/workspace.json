@@ -21,19 +21,15 @@
             }
           },
           {
-            "id": "f734923fd114c12e",
+            "id": "d8bb82e7af6565f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Gadwall.md",
+                "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -142,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "godwall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,8 +151,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Gadwall.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,15 +255,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "f734923fd114c12e",
+  "active": "d8bb82e7af6565f6",
   "lastOpenFiles": [
+    "docs/Blog Archive/2023-03/2023-03-05.md",
+    "docs/How You Can Help Birds.md",
+    "docs/index.md",
+    "docs/Birds/Water Fowl/Duck/Gadwall.md",
     "docs/Birds/Water Fowl/Duck/Bufflehead.md",
     "docs/Thumbnails/Bufflehead Thumbnail.jpg",
-    "docs/index.md",
     "docs/Thumbnails/Orange-crowned Warbler Thumbnail.jpg",
     "docs/Thumbnails/Magnolia Warbler Thumbnail.jpg",
     "docs/Birds/Song Bird/Warbler/Orange-crowned Warbler.md",
-    "docs/Blog Archive/2023-03/2023-03-05.md",
     "docs/Birds/Song Bird/Warbler/Northern Parula.md",
     "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
     "docs/Blog.md",
@@ -305,7 +302,6 @@
     "docs/Birds/Shore Bird/Plover/Black-bellied Plover.md",
     "docs/Birds/Shore Bird/Plover/Piping Plover.md",
     "docs/Birds/Water Bird/Egret/Reddish Egret.md",
-    "docs/Birds/Sea Bird/Tern/Forster's Tern.md",
-    "docs/Birds/Sea Bird/Tern/Royal Tern.md"
+    "docs/Birds/Sea Bird/Tern/Forster's Tern.md"
   ]
 }
