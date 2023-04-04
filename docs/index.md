@@ -3,7 +3,7 @@
 ## Welcome!
 Welcome to our bird compendium! Each entry contains notes on our personal observations and fun facts on the bird. All photos were taken by us and entries are only created for birds we have photographed. References are provided for more info.
 
-You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog|birding blog here]].
+
 
 [[Bald Eagle|test]]
 
