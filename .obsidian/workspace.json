@@ -30,6 +30,10 @@
                 "mode": "source",
                 "source": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -269,8 +273,9 @@
   },
   "active": "d8bb82e7af6565f6",
   "lastOpenFiles": [
-    "docs/How You Can Help Birds.md",
+    "docs/Gallery.md",
     "docs/index.md",
+    "docs/How You Can Help Birds.md",
     "docs/Blog Archive/2023-03/2023-03-05.md",
     "docs/Birds/Water Fowl/Duck/Gadwall.md",
     "docs/Birds/Water Fowl/Duck/Bufflehead.md",
@@ -313,7 +318,6 @@
     "docs/Birds/Shore Bird/Sandpiper/Ruddy Turnstone.md",
     "docs/Birds/Shore Bird/Plover/Black-bellied Plover.md",
     "docs/Birds/Shore Bird/Plover/Piping Plover.md",
-    "docs/Birds/Water Bird/Egret/Reddish Egret.md",
-    "docs/Birds/Sea Bird/Tern/Forster's Tern.md"
+    "docs/Birds/Water Bird/Egret/Reddish Egret.md"
   ]
 }
