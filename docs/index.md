@@ -1516,19 +1516,6 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
-[[Orange-crowned Warbler]]
-</div>
-<div markdown="1">
-![[Orange-crowned Warbler Thumbnail.jpg]]{data-title="Orange-crowned Warbler" data-description="Song Birds"}
-</div>
-
-</div>
-</div>
-
-<div class="column" markdown="1">
-<div class="card" markdown="1">
-
-<div class="card-title" markdown="1">
 [[Ovenbird]]
 </div>
 <div markdown="1">

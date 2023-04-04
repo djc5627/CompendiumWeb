@@ -7,7 +7,7 @@ Entry Date: 2023-01-19
 
 ![[Bufflehead Thumbnail.jpg]]
 
-*Buffleheads at Weehawken Reservoir*
+*Bufflehead after emerging from a dive at DeKorte Park*
 
 ---------------------------------------------------------------
 ## Notes
