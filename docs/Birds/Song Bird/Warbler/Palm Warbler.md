@@ -8,7 +8,7 @@ Entry Date: 2022-04-12
 
 ![[Palm Warbler Thumbnail.jpg]]
 
-*Palm Warbler on tree at Esposito*
+*Palm Warbler at Mill Creek Marsh Trail*
 
 ---------------------------------------------------------------
 ## Notes
@@ -18,6 +18,8 @@ Very nice golden yellow colors. Moves quickly high up in trees.
 ## Sightings
 
 -> #location/EspositoPark-Clark-NJ 
+
+-> #location/MillCreekMarshTrail-NJ 
 
 ---------------------------------------------------------------
 ## Photos

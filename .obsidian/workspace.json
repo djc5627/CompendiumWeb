@@ -21,64 +21,24 @@
             }
           },
           {
-            "id": "d8bb82e7af6565f6",
+            "id": "959f33ac35fa12f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "5176ac654fd1aba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/How You Can Help Birds.md",
+                "file": "docs/Birds/Shore Bird/Sandpiper/Greater Yellowlegs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03258fce0a878de9",
+            "id": "e95901e730c4c1c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aa32429fda7c4d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62a0cb4a4fab3ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Sea Bird/Gull/Great Black-backed Gull.md",
+                "file": "docs/Birds/Water Fowl/Swan/Mute Swan.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,9 +79,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "58c6ac44fa675bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,10 +243,22 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d8bb82e7af6565f6",
+  "active": "58c6ac44fa675bfb",
   "lastOpenFiles": [
-    "docs/Gallery.md",
+    "docs/Birds/Shore Bird/Sandpiper/Greater Yellowlegs.md",
     "docs/index.md",
+    "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
+    "docs/Birds/Water Fowl/Swan/Untitled.md",
+    "docs/Birds/Water Fowl/Swan/Mute Swan.md",
+    "docs/Thumbnails/Mute Swan Thumbnail.jpg",
+    "docs/Birds/Water Fowl/Swan",
+    "docs/Thumbnails/Greater Yellowlegs Thumbnail.jpg",
+    "docs/Birds/Song Bird/Sparrow/Chipping Sparrow.md",
+    "docs/Birds/Song Bird/Warbler/Palm Warbler.md",
+    "docs/Blog Images/2022-10-22/desktop.ini",
+    "docs/javascripts/desktop.ini",
+    "docs/stylesheets/desktop.ini",
+    "docs/Gallery.md",
     "docs/How You Can Help Birds.md",
     "docs/Blog Archive/2023-03/2023-03-05.md",
     "docs/Birds/Water Fowl/Duck/Gadwall.md",
@@ -284,7 +268,6 @@
     "docs/Thumbnails/Magnolia Warbler Thumbnail.jpg",
     "docs/Birds/Song Bird/Warbler/Orange-crowned Warbler.md",
     "docs/Birds/Song Bird/Warbler/Northern Parula.md",
-    "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
     "docs/Blog.md",
     "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
     "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
@@ -299,25 +282,13 @@
     "docs/Blog Images/2023-03-05/IMG_8160_1.jpg",
     "docs/Blog Images/2023-03-05/IMG_8160_1.jpg.tmp",
     "docs/Blog Images/2023-03-05/IMG_8155_1.jpg",
-    "docs/Blog Images/2023-03-05/IMG_8155_1.jpg.tmp",
     "docs/Blog Images/2023-03-05/IMG_8095_1.jpg",
-    "docs/Blog Images/2023-03-05/IMG_8095_1.jpg.tmp",
     "docs/Blog Images/2023-03-05/IMG_8093_1.jpg",
-    "docs/Blog Images/2023-03-05/IMG_8093_1.jpg.tmp",
     "SpecificLinkToBlogHere.md",
-    "docs/Blog Images/2023-03-05/IMG_8160.HEIC",
-    "docs/Blog Images/2023-03-05/DSC06948_2.jpg",
-    "docs/Blog Images/2023-03-05/DSC06935_2.jpg",
     "docs/Birds/Water Fowl/Duck/Muscovy Duck.md",
     "docs/Birds/Crane/Sandhill Crane.md",
     "docs/Birds/Water Bird/Heron/Little Blue Heron.md",
     "docs/Birds/Water Bird/Heron/Yellow-crowned Night-Heron.md",
-    "docs/Birds/Shore Bird/Sandpiper/Willet.md",
-    "docs/Birds/Sea Bird/Skimmer/Black Skimmer.md",
-    "docs/Birds/Water Bird/Pelican/Brown Pelican.md",
-    "docs/Birds/Shore Bird/Sandpiper/Ruddy Turnstone.md",
-    "docs/Birds/Shore Bird/Plover/Black-bellied Plover.md",
-    "docs/Birds/Shore Bird/Plover/Piping Plover.md",
-    "docs/Birds/Water Bird/Egret/Reddish Egret.md"
+    "docs/Birds/Shore Bird/Sandpiper/Willet.md"
   ]
 }

@@ -457,6 +457,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Greater Yellowlegs]]
+</div>
+<div markdown="1">
+![[Greater Yellowlegs Thumbnail.jpg]]{data-title="Greater Yellowlegs" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Least Sandpiper]]
 </div>
 <div markdown="1">
@@ -916,6 +929,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Northern Shoveler Thumbnail.jpg]]{data-title="Northern Shoveler" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Mute Swan]]
+</div>
+<div markdown="1">
+![[Mute Swan Thumbnail.jpg]]{data-title="Mute Swan" data-description="Water Fowl"}
 </div>
 
 </div>
