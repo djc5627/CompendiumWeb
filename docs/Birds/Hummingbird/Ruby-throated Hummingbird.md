@@ -7,7 +7,7 @@ Entry Date: 2022-07-21
 
 ![[Ruby-throated Hummingbird Thumbnail.jpg]]
 
-*Ruby-throated Hummingbird drinking nectar at Montezuma Wildlife Refuge*
+*Ruby-throated Hummingbird hovering by a feeder at Lenape Park*
 
 ---------------------------------------------------------------
 ## Notes

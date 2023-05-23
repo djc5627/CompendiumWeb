@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
                 "mode": "source",
                 "source": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Ruby-thr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,10 +302,11 @@
   },
   "active": "48f12f5b0e957c53",
   "lastOpenFiles": [
+    "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
+    "docs/index.md",
     "docs/Birds/Song Bird/Thrush/Northern WaterThrush.md",
     "docs/Birds/Song Bird/Warbler/Pine Warbler.md",
     "docs/Birds/Song Bird/Warbler/Black-throated Green Warbler.md",
-    "docs/index.md",
     "docs/Birds/Song Bird/New World Black Bird/Orchard Oriole.md",
     "docs/Birds/Water Fowl/Swan/Mute Swan.md",
     "docs/Blog Archive/2023-03/2023-03-05.md",
@@ -345,7 +347,6 @@
     "docs/Blog Images/2023-03-05/IMG_8155_1.jpg",
     "docs/Blog Images/2023-03-05/IMG_8095_1.jpg",
     "docs/Blog Images/2023-03-05/IMG_8093_1.jpg",
-    "SpecificLinkToBlogHere.md",
-    "docs/Birds/Water Fowl/Duck/Muscovy Duck.md"
+    "SpecificLinkToBlogHere.md"
   ]
 }
