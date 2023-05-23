@@ -1140,6 +1140,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Orchard Oriole]]
+</div>
+<div markdown="1">
+![[Orchard Oriole Thumbnail.jpg]]{data-title="Orchard Oriole" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Red-winged Blackbird]]
 </div>
 <div markdown="1">
@@ -1222,6 +1235,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Hermit Thrush Thumbnail.jpg]]{data-title="Hermit Thrush" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Northern WaterThrush]]
+</div>
+<div markdown="1">
+![[Northern Waterthrush Thumbnail.jpg]]{data-title="Northern Waterthrush" data-description="Song Birds"}
 </div>
 
 </div>
@@ -1479,6 +1505,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Black-throated Green Warbler]]
+</div>
+<div markdown="1">
+![[Black-throated Green Warbler Thumbnail.jpg]]{data-title="Black-throated Green Warbler" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Blue-winged Warbler]]
 </div>
 <div markdown="1">
@@ -1574,6 +1613,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Palm Warbler Thumbnail.jpg]]{data-title="Palm Warbler" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Pine Warbler]]
+</div>
+<div markdown="1">
+![[Pine Warbler Thumbnail.jpg]]{data-title="Pine Warbler" data-description="Song Birds"}
 </div>
 
 </div>
