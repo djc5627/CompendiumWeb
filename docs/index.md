@@ -256,6 +256,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Clapper Rail]]
+</div>
+<div markdown="1">
+![[Clapper Rail Thumbnail.jpg]]{data-title="Clapper Rail" data-description="Coots"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Sandhill Crane]]
 </div>
 <div markdown="1">
@@ -344,6 +357,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Caspian Tern Thumbnail.jpg]]{data-title="Caspian Tern" data-description="Sea Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Common Tern]]
+</div>
+<div markdown="1">
+![[Common Tern Thumbnail.jpg]]{data-title="Common Tern" data-description="Sea Birds"}
 </div>
 
 </div>
@@ -522,6 +548,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Short-billed Dowitcher]]
+</div>
+<div markdown="1">
+![[Short-billed Dowitcher Thumbnail.jpg]]{data-title="Short-billed Dowitcher" data-description="Shore Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Solitary Sandpiper]]
 </div>
 <div markdown="1">
@@ -691,6 +730,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[Common Loon]]
+</div>
+<div markdown="1">
+![[Common Loon Thumbnail.jpg]]{data-title="Common Loon" data-description="Water Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Brown Pelican]]
 </div>
 <div markdown="1">
@@ -760,6 +812,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Green-winged Teal Thumbnail.jpg]]{data-title="Green-winged Teal" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Lesser Scaup]]
+</div>
+<div markdown="1">
+![[Lesser Scaup Thumbnail.jpg]]{data-title="Lesser Scaup" data-description="Water Fowl"}
 </div>
 
 </div>
@@ -1092,6 +1157,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 </div>
 <div markdown="1">
 ![[Baltimore Oriole Thumbnail.jpg]]{data-title="Baltimore Oriole" data-description="Song Birds"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
+[[Boat-tailed Grackle]]
+</div>
+<div markdown="1">
+![[Boat-tailed Grackle Thumbnail.jpg]]{data-title="Boat-tailed Grackle" data-description="Song Birds"}
 </div>
 
 </div>

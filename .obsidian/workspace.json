@@ -9,81 +9,85 @@
         "dimension": 50,
         "children": [
           {
-            "id": "f0359e2b5a6e1191",
+            "id": "df288a473e418a22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog Archive/2023-03/2023-03-05.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e95901e730c4c1c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Fowl/Swan/Mute Swan.md",
+                "file": "docs/Birds/Song Bird/New World Black Bird/Boat-tailed Grackle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48f12f5b0e957c53",
+            "id": "b470d613fc3832c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
+                "file": "docs/Birds/Sea Bird/Tern/Common Tern.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
+            }
+          },
+          {
+            "id": "cfb5f16af022ed9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Shore Bird/Sandpiper/Short-billed Dowitcher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c259465a979c3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Rail/Clapper Rail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0519701c0dc124c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Fowl/Duck/Lesser Scaup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0359e2b5a6e1191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Water Bird/Loon/Common Loon.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "e25c824d297a824c",
         "type": "tabs",
         "dimension": 50,
         "children": [
-          {
-            "id": "5b240c429b80a28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Blog Archive/2023-03/2023-03-05.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "c2ee9247b7c53f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
           {
             "id": "58c6ac44fa675bfb",
             "type": "leaf",
@@ -94,62 +98,13 @@
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "88c190265282a34c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/New World Black Bird/Orchard Oriole.md",
-                "mode": "source",
-                "source": false
-              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "b6231656fc5d1319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Thrush/Northern WaterThrush.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "088b878db4e3ec3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Warbler/Pine Warbler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9def63e7112edaed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Birds/Song Bird/Warbler/Black-throated Green Warbler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Ruby-thr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,9 +149,16 @@
               "pos": 0,
               "stack": []
             }
+          },
+          {
+            "id": "93720e45fa404677",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
+                "file": "docs/Birds/Water Bird/Loon/Common Loon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,26 +252,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "juggl:Juggl global graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "48f12f5b0e957c53",
+  "active": "f0359e2b5a6e1191",
   "lastOpenFiles": [
-    "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
     "docs/index.md",
+    "docs/Birds/Water Bird/Loon/Common Loon.md",
+    "docs/Birds/Water Fowl/Duck/Lesser Scaup.md",
+    "docs/Birds/Rail/Clapper Rail.md",
+    "docs/Birds/Shore Bird/Sandpiper/Short-billed Dowitcher.md",
+    "docs/Birds/Sea Bird/Tern/Common Tern.md",
+    "docs/Birds/Song Bird/New World Black Bird/Boat-tailed Grackle.md",
+    "linkhere.md",
+    "docs/Thumbnails/Boat-tailed Grackle Thumbnail.jpg",
+    "docs/Thumbnails/Short-billed Dowitcher Thumbnail.jpg",
+    "docs/Thumbnails/Lesser Scaup Thumbnail.jpg",
+    "docs/Thumbnails/Common Tern Thumbnail.jpg",
+    "docs/Thumbnails/Clapper Rail Thumbnail.jpg",
+    "docs/Thumbnails/Common Loon Thumbnail.jpg",
+    "docs/Birds/Water Bird/Untitled.md",
+    "docs/Birds/Water Bird/Loon",
+    "docs/Blog Archive/2023-03/2023-03-05.md",
+    "docs/Birds/Water Fowl/Swan/Mute Swan.md",
+    "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
     "docs/Birds/Song Bird/Thrush/Northern WaterThrush.md",
     "docs/Birds/Song Bird/Warbler/Pine Warbler.md",
     "docs/Birds/Song Bird/Warbler/Black-throated Green Warbler.md",
     "docs/Birds/Song Bird/New World Black Bird/Orchard Oriole.md",
-    "docs/Birds/Water Fowl/Swan/Mute Swan.md",
-    "docs/Blog Archive/2023-03/2023-03-05.md",
     "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
     "docs/Birds/Shore Bird/Sandpiper/Greater Yellowlegs.md",
     "docs/Birds/Water Fowl/Duck/Green-winged Teal.md",
@@ -328,25 +305,10 @@
     "docs/Birds/Water Fowl/Duck/Bufflehead.md",
     "docs/Thumbnails/Bufflehead Thumbnail.jpg",
     "docs/Thumbnails/Orange-crowned Warbler Thumbnail.jpg",
-    "docs/Thumbnails/Magnolia Warbler Thumbnail.jpg",
-    "docs/Birds/Song Bird/Warbler/Orange-crowned Warbler.md",
-    "docs/Birds/Song Bird/Warbler/Northern Parula.md",
-    "docs/Blog.md",
-    "docs/Birds/Water Fowl/Merganser/Red-breasted Merganser.md",
-    "docs/Birds/Water Fowl/Duck/Ring-necked Duck.md",
-    "docs/Birds/Water Bird/Heron/Great Blue Heron.md",
-    "docs/Birds/Sea Bird/Gull/Great Black-backed Gull.md",
-    "docs/Thumbnails/Great Black-backed Gull Thumbnail.jpg",
     "desktop.ini",
     "docs/Blog Images/2023-03-05/DSC06616_2.jpg.tmp",
     "docs/Blog Images/2023-03-05/DSC06718_3.jpg.tmp",
     "docs/Blog Images/2023-03-05/DSC06935_2.jpg.tmp",
-    "docs/Blog Images/2023-03-05/DSC06901_3.jpg.tmp",
-    "docs/Blog Images/2023-03-05/IMG_8160_1.jpg",
-    "docs/Blog Images/2023-03-05/IMG_8160_1.jpg.tmp",
-    "docs/Blog Images/2023-03-05/IMG_8155_1.jpg",
-    "docs/Blog Images/2023-03-05/IMG_8095_1.jpg",
-    "docs/Blog Images/2023-03-05/IMG_8093_1.jpg",
-    "SpecificLinkToBlogHere.md"
+    "docs/Blog Images/2023-03-05/DSC06901_3.jpg.tmp"
   ]
 }
