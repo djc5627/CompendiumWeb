@@ -12,7 +12,7 @@ Entry Date: 2023-06-01
 ---------------------------------------------------------------
 ## Notes
 
-First seen at Cape May during Osprey Boat Tour. Their eerie calls are often uses as a sound effect in horror movies. Powerful, agile divers that catch small fish in fast underwater chases.
+First seen at Cape May during Osprey Boat Tour. Their eerie calls are often used as a sound effect in horror movies. Powerful, agile divers that catch small fish in fast underwater chases.
 
 ---------------------------------------------------------------
 ## Sightings
