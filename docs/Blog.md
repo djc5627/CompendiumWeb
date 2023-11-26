@@ -2,6 +2,20 @@
 
 ---------------------------------------------------------------
 
+## Prone for Cooper
+2023-11-25
+
+![[IMG_3542_1.jpg]]{ .blogItem .blogRow1 data-title="Me prone in my yard getting photos of Cooper's Hawk"}
+![[DSC02063_2.jpg]]{ .blogItem .blogRow1 data-title="Cooper's Hawk showing off its nictitating membrane (eyelid)"}
+![[DSC02058_1.jpg]]{ .blogItem .blogRow2 data-title="Cooper's Hawk giving me the side eye"}
+![[DSC01992_1.jpg]]{ .blogItem .blogRow2 data-title="Cooper's Hawk hunting in my yard"}
+
+After 6 months with no blog post, I will be sharing a [[Cooper's Hawk]] encounter in my backyard. For the past few weeks, there's been a hawk stalking our bird feeder at least once a day (hawks have to eat too). Usually, it will hang out below flower bushes where it can see the bird feeder but stay relatively out of sight.
+
+[[2023-11-25|Continue Reading]]
+
+---------------------------------------------------------------
+
 ## Sunny Florida Adventures
 2023-03-05
 

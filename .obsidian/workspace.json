@@ -9,19 +9,15 @@
         "dimension": 50,
         "children": [
           {
-            "id": "f0359e2b5a6e1191",
+            "id": "395bbf43b38ee22c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog Archive/2023-11/2023-11-25.md",
+                "file": "docs/Blog.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ]
@@ -58,9 +54,25 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f0359e2b5a6e1191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Blog Archive/2023-11/2023-11-25.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog Archive/2023-11/2023-11-25.md",
+                "file": "docs/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,13 +230,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f0359e2b5a6e1191",
+  "active": "395bbf43b38ee22c",
   "lastOpenFiles": [
+    "docs/Blog Archive/2023-11/2023-11-25.md",
+    "docs/Blog.md",
+    "docs/Blog Images/2023-11-25/IMG_3542_1.jpg.tmp",
     "docs/Blog Images/2023-11-25/DSC02063_2.jpg",
     "docs/Blog Images/2023-11-25/DSC02063_2.jpg.tmp",
     "docs/Blog Archive/2023-05/2023-05-28.md",
-    "docs/Blog Archive/2023-11/2023-11-25.md",
-    "docs/Blog Images/2023-11-25/IMG_3542_1.jpg.tmp",
     "docs/Blog Archive/2023-03/2023-03-05.md",
     "docs/Blog Images/2023-11-25/desktop.ini",
     "docs/Blog Images/2023-11-25/IMG_3542_1.jpg",
@@ -252,7 +265,6 @@
     "docs/Thumbnails/Boat-tailed Grackle Thumbnail.jpg",
     "docs/Thumbnails/Short-billed Dowitcher Thumbnail.jpg",
     "docs/Thumbnails/Lesser Scaup Thumbnail.jpg",
-    "docs/Thumbnails/Common Tern Thumbnail.jpg",
     "docs/Birds/Water Bird/Untitled.md",
     "docs/Birds/Water Fowl/Swan/Mute Swan.md",
     "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
