@@ -57,9 +57,9 @@ function collapseHummingbirdsKingfishers() {
 var cootscranes = document.getElementById('cootscranes-');
 
 cootscranes.style.cursor = 'pointer';
-cootscranes.onclick = collapseHummingbirdsKingfishers;
+cootscranes.onclick = collapseCootsCranes;
 
-function collapseHummingbirdsKingfishers() {
+function collapseCootsCranes() {
   var x = document.getElementById("cootscranes-row");
   var y = document.getElementById('cootscranes-');
   
@@ -106,6 +106,24 @@ function collapseSongBirds() {
   } else {
     x.style.display = "none";
 	y.textContent = 'Song Birds [+]';
+  }
+}
+
+var treeCreepers = document.getElementById('treecreepers-');
+
+songBirds.style.cursor = 'pointer';
+songBirds.onclick = collapseTreeCreepers;
+
+function collapseTreeCreepers() {
+  var x = document.getElementById("treecreepers-row");
+  var y = document.getElementById('treecreepers-');
+  
+  if (x.style.display === "none") {
+    x.style.display = "block";
+	y.textContent = 'Treecreepers [-]';
+  } else {
+    x.style.display = "none";
+	y.textContent = 'Treecreepers [+]';
   }
 }
 

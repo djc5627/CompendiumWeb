@@ -5,7 +5,7 @@ image: <CoverImageURL>
 # American Wigeon
 Entry Date: 2024-07-19
 
-[[American Wigeon Thumbnail.jpg]]
+![[American Wigeon Thumbnail.jpg]]
 
 *American Wigeon near lake near Bear Mountain NY*
 
