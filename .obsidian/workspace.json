@@ -96,7 +96,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Birds/Water Fowl/Duck/American Wigeon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,10 +255,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "58c6ac44fa675bfb",
+  "active": "66d64226eb4ed99a",
   "lastOpenFiles": [
-    "docs/Birds/Water Fowl/Duck/American Wigeon.md",
     "docs/index.md",
+    "docs/Birds/Water Fowl/Duck/American Wigeon.md",
     "docs/Birds/Water Fowl/Duck/Bufflehead.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Thumbnails/American Wigeon Thumbnail.jpg",

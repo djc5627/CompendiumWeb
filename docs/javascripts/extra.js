@@ -111,8 +111,8 @@ function collapseSongBirds() {
 
 var treeCreepers = document.getElementById('treecreepers-');
 
-songBirds.style.cursor = 'pointer';
-songBirds.onclick = collapseTreeCreepers;
+treeCreepers.style.cursor = 'pointer';
+treeCreepers.onclick = collapseTreeCreepers;
 
 function collapseTreeCreepers() {
   var x = document.getElementById("treecreepers-row");

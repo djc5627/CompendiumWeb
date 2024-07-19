@@ -21,7 +21,7 @@ First seen near Bear Mountain NY by lake at a community center. These ducks were
 
 ---------------------------------------------------------------
 ## Photos
-OneDrive Album: [OneDrive]([American Wigeon](https://1drv.ms/f/s!AvaIuMdCo_w-iNMUPYYywNMotAIsxA?e=78UBLw))
+OneDrive Album: [OneDrive](https://1drv.ms/f/s!AvaIuMdCo_w-iNMUPYYywNMotAIsxA?e=78UBLw)
 
 ---------------------------------------------------------------
 ## References
