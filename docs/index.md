@@ -769,6 +769,19 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 <div class="card" markdown="1">
 
 <div class="card-title" markdown="1">
+[[American Wigeon]]
+</div>
+<div markdown="1">
+![[American Wigeon Thumbnail.jpg]]{data-title="American Wigeon" data-description="Water Fowl"}
+</div>
+
+</div>
+</div>
+
+<div class="column" markdown="1">
+<div class="card" markdown="1">
+
+<div class="card-title" markdown="1">
 [[Bufflehead]]
 </div>
 <div markdown="1">
