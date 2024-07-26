@@ -6,7 +6,7 @@
       {
         "id": "8b6f7f48b504902e",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 50.142348754448406,
         "children": [
           {
             "id": "395bbf43b38ee22c",
@@ -27,18 +27,30 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Birds/Water Fowl/Duck/Bufflehead.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "bc14ff0400ecd272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Birds/Parrot/Monk Parrot.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e25c824d297a824c",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 49.857651245551594,
         "children": [
           {
             "id": "58c6ac44fa675bfb",
@@ -96,8 +108,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Birds/Water Fowl/Duck/American Wigeon.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,10 +266,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "66d64226eb4ed99a",
+  "active": "58c6ac44fa675bfb",
   "lastOpenFiles": [
-    "docs/index.md",
+    "docs/Birds/Parrot/Monk Parrot.md",
+    "docs/Birds/Parrot",
     "docs/Birds/Water Fowl/Duck/American Wigeon.md",
+    "docs/index.md",
     "docs/Birds/Water Fowl/Duck/Bufflehead.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Thumbnails/American Wigeon Thumbnail.jpg",
@@ -283,7 +296,6 @@
     "docs/Blog Images/2023-11-25/DSC01973_2.jpg",
     "docs/Blog Images/2023-11-25/DSC01973_2.jpg.tmp",
     "docs/Blog Images/2023-11-25",
-    "docs/Blog Images/New folder",
     "SpecificLinkToBlogHere.md",
     "docs/Birds/Water Bird/Loon/Common Loon.md",
     "docs/Birds/Water Fowl/Duck/Lesser Scaup.md",
@@ -301,7 +313,6 @@
     "docs/Birds/Song Bird/Warbler/Black-throated Green Warbler.md",
     "docs/Birds/Song Bird/New World Black Bird/Orchard Oriole.md",
     "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
-    "docs/Birds/Shore Bird/Sandpiper/Greater Yellowlegs.md",
-    "docs/Birds/Water Fowl/Duck/Green-winged Teal.md"
+    "docs/Birds/Shore Bird/Sandpiper/Greater Yellowlegs.md"
   ]
 }

@@ -109,21 +109,21 @@ function collapseSongBirds() {
   }
 }
 
-var treeCreepers = document.getElementById('treecreepers-');
+var treeCreepersParrots = document.getElementById('treecreepersparrots-');
 
-treeCreepers.style.cursor = 'pointer';
-treeCreepers.onclick = collapseTreeCreepers;
+treeCreepersParrots.style.cursor = 'pointer';
+treeCreepersParrots.onclick = collapseTreeCreepersParrots;
 
-function collapseTreeCreepers() {
-  var x = document.getElementById("treecreepers-row");
-  var y = document.getElementById('treecreepers-');
+function collapseTreeCreepersParrots() {
+  var x = document.getElementById("treecreepersparrots-row");
+  var y = document.getElementById('treecreepersparrots-');
   
   if (x.style.display === "none") {
     x.style.display = "block";
-	y.textContent = 'Treecreepers [-]';
+	y.textContent = 'Treecreepers/Parrots [-]';
   } else {
     x.style.display = "none";
-	y.textContent = 'Treecreepers [+]';
+	y.textContent = 'Treecreepers/Parrots [+]';
   }
 }
 
