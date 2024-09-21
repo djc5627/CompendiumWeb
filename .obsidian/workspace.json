@@ -40,7 +40,7 @@
               "state": {
                 "file": "docs/Birds/Parrot/Monk Parrot.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -268,10 +268,14 @@
   },
   "active": "58c6ac44fa675bfb",
   "lastOpenFiles": [
+    "docs/Birds/Song Bird/Thrush/Brown Thrasher.md",
     "docs/Birds/Parrot/Monk Parrot.md",
+    "docs/Thumbnails/Brown Thrasher Thumbnail.jpg",
+    "docs/Thumbnails/DSC08612_2.jpg",
+    "docs/Birds/Song Bird/Thrush/Northern WaterThrush.md",
+    "docs/index.md",
     "docs/Birds/Parrot",
     "docs/Birds/Water Fowl/Duck/American Wigeon.md",
-    "docs/index.md",
     "docs/Birds/Water Fowl/Duck/Bufflehead.md",
     "docs/Birds/Birds of Prey/Eagle/Bald Eagle.md",
     "docs/Thumbnails/American Wigeon Thumbnail.jpg",
@@ -293,7 +297,6 @@
     "docs/Blog Images/2023-11-25/DSC02032_1.jpg.tmp",
     "docs/Blog Images/2023-11-25/DSC01992_1.jpg",
     "docs/Blog Images/2023-11-25/DSC01992_1.jpg.tmp",
-    "docs/Blog Images/2023-11-25/DSC01973_2.jpg",
     "docs/Blog Images/2023-11-25/DSC01973_2.jpg.tmp",
     "docs/Blog Images/2023-11-25",
     "SpecificLinkToBlogHere.md",
@@ -304,15 +307,11 @@
     "docs/Birds/Sea Bird/Tern/Common Tern.md",
     "docs/Birds/Song Bird/New World Black Bird/Boat-tailed Grackle.md",
     "linkhere.md",
-    "docs/Thumbnails/Boat-tailed Grackle Thumbnail.jpg",
     "docs/Birds/Water Bird/Untitled.md",
     "docs/Birds/Water Fowl/Swan/Mute Swan.md",
     "docs/Birds/Hummingbird/Ruby-throated Hummingbird.md",
-    "docs/Birds/Song Bird/Thrush/Northern WaterThrush.md",
     "docs/Birds/Song Bird/Warbler/Pine Warbler.md",
     "docs/Birds/Song Bird/Warbler/Black-throated Green Warbler.md",
-    "docs/Birds/Song Bird/New World Black Bird/Orchard Oriole.md",
-    "docs/Birds/Song Bird/Sparrow/Eastern Towhee.md",
-    "docs/Birds/Shore Bird/Sandpiper/Greater Yellowlegs.md"
+    "docs/Birds/Song Bird/New World Black Bird/Orchard Oriole.md"
   ]
 }
