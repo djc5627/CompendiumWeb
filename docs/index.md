@@ -9,7 +9,7 @@ You can also visit our [[Gallery|gallery of top bird photos here]] or our [[Blog
 
 
 
-<div class="us-form">
+<div>
   <label for="imagesPerRow">Images Per Row:</label>
   <select name="imagesPerRow" id="imagesPerRow">
     <option value="1">1</option>
